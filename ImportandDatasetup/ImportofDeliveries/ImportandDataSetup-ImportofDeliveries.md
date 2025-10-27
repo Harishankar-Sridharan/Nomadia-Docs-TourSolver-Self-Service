@@ -26,9 +26,8 @@ To begin importing your deliveries, you first need to navigate to the correct re
 If you are unsure how to format your Excel file, you can download a sample template. Using the sample data ensures your file is ready for import immediately.
 
 1.  Tap on **download**.
-
-![GIF at 0:14–0:18](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_14–0_to_18.gif "Tap on download – download the excel file sample data")
-
+2.  The Excel file containing sample data will be downloaded.
+    *   Timestamp 0:14–0:18 (ImportandDatasetup-ImportofDeliveries.mp4): Tap on download – download the excel file sample data
 
 💡 **Tip:** Always use the sample data provided if you are new to the system structure. This often reduces potential mapping errors later on!
 
@@ -48,12 +47,8 @@ The import process includes several key steps that help ensure your data is accu
 
 When the map view appears, colors guide you to understand if your addresses were successfully located (geocoded):
 
-
-![GIF at 2:12–2:16](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_2_to_12–2_to_16.gif "Yellow color indicates geocoded at seed level – Interface state)")
-
-
-![GIF at 2:17–2:20](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_2_to_17–2_to_20.gif "Grey color indicates – not geocoded)")
-
+*   **Yellow color** indicates that the location was successfully geocoded at the sheet level. (Timestamp 2:12–2:16 (ImportandDatasetup-ImportofDeliveries.mp4): Yellow color indicates geocoded at seed level – Interface state)
+*   **Gray color** indicates that the location was **not** geocoded. (Timestamp 2:17–2:20 (ImportandDatasetup-ImportofDeliveries.mp4): Grey color indicates – not geocoded)
 
 ***
 
@@ -65,48 +60,37 @@ This task covers the process of uploading your delivery data, verifying field ma
 
 You need to tell the system which columns in your spreadsheet correspond to the system’s fields (like Customer ID or Name).
 
-
-![GIF at 0:30–0:32](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_30–0_to_32.gif "Tap on import – to import the sample data")
-
-
-![GIF at 1:19–1:25](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_19–1_to_25.gif "A mapping window will appear – asking you to match the excel fields with the two server fields")
-
+1.  Tap on **import** to begin the process of importing your delivery data into the server.
+    *   Timestamp 0:30–0:32 (ImportandDatasetup-ImportofDeliveries.mp4): Tap on import – to import the sample data
+2.  A mapping window will appear, prompting you to match your Excel fields with the required server fields.
+    *   Timestamp 1:19–1:25 (ImportandDatasetup-ImportofDeliveries.mp4): A mapping window will appear – asking you to match the excel fields with the two server fields
 3.  If a field is already matched correctly (as happens if you use the test link), you can skip mapping for that field.
 4.  **To reset or adjust a field mapping** (using Customer ID and Name as an example):
-
-![GIF at 1:39–1:41](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_39–1_to_41.gif "Tap on ignore – Action/element")
-
-
-![GIF at 1:42–1:44](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_42–1_to_44.gif "Tap show all – Interface state")
-
-
-![GIF at 1:46–1:49](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_46–1_to_49.gif "Tap the customer id to mapp it – Mapping was initiated")
-
-
-![GIF at 1:51–1:53](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_51–1_to_53.gif "Tap the ignore under the name – Action")
-
-
-![GIF at 1:54–1:58](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_54–1_to_58.gif "Tap on name – And the mapping was done")
-
+    *   If a field is currently mapped, you may choose to **ignore** it.
+        *   Timestamp 1:39–1:41 (ImportandDatasetup-ImportofDeliveries.mp4): Tap on ignore – Action/element
+    *   Tap **show all** to view all possible field options.
+        *   Timestamp 1:42–1:44 (ImportandDatasetup-ImportofDeliveries.mp4): Tap show all – Interface state
+    *   Tap the **customer ID** option to map the customer ID column.
+        *   Timestamp 1:46–1:49 (ImportandDatasetup-ImportofDeliveries.mp4): Tap the customer id to mapp it – Mapping was initiated
+    *   If you need to change the Name field, tap **ignore** under the current name mapping.
+        *   Timestamp 1:51–1:53 (ImportandDatasetup-ImportofDeliveries.mp4): Tap the ignore under the name – Action
+    *   Tap on **name** to complete the mapping for the name field.
+        *   Timestamp 1:54–1:58 (ImportandDatasetup-ImportofDeliveries.mp4): Tap on name – And the mapping was done
 
 ### Task: Reviewing Data and Optimizing Routes
 
 After confirming the data mapping, you can proceed to the map view and start planning.
 
-
-![GIF at 1:58–2:00](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_58–2_to_00.gif "Tap on next – Action")
-
-
-![GIF at 2:07–2:10](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_2_to_07–2_to_10.gif "Map view appears – with geocoding colors")
-
+1.  Tap on **next** once the mapping is complete.
+    *   Timestamp 1:58–2:00 (ImportandDatasetup-ImportofDeliveries.mp4): Tap on next – Action
+2.  The map view will appear, displaying your locations with geocoding colors.
+    *   Timestamp 2:07–2:10 (ImportandDatasetup-ImportofDeliveries.mp4): Map view appears – with geocoding colors
 3.  Review the locations and their colors.
     *   ⚠️ **Warning:** If you see **Gray** locations, those addresses were not found by the system. You may need to review and correct those addresses in your original data before optimizing the route for accuracy.
-
-![GIF at 2:24–2:26](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_2_to_24–2_to_26.gif "Tap on optimize my routes – Action")
-
-
-![GIF at 2:28–2:32](../../images/ImportandDataSetup-ImportofDeliveries_timestamp_2_to_28–2_to_32.gif "Once you start the optimization – the optimization will begin")
-
+4.  Tap on **optimize my roots** to begin the route calculation.
+    *   Timestamp 2:24–2:26 (ImportandDatasetup-ImportofDeliveries.mp4): Tap on optimize my routes – Action
+5.  Once you start the optimization, the system will begin the calculation process.
+    *   Timestamp 2:28–2:32 (ImportandDatasetup-ImportofDeliveries.mp4): Once you start the optimization – the optimization will begin
 
 ***
 
