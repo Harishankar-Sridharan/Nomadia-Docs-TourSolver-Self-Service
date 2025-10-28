@@ -20,18 +20,14 @@ The first step for creating or modifying any user is accessing the main configur
 
 To begin creating or modifying a user, follow these steps:
 
-
-![GIF at 0:00–0:09](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_00–0_to_09.gif "From the home page, go to the configuration – User management starting point.")
-
-
-![Frame at 0:09](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_09.png "Tap on manage users – Configuration menu.")
-
-
-![Frame at 0:10](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_10.png "Tap on actions – Action menu appears.")
-
-
-![Frame at 0:10](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_10.png "Tap on add – User creation/modification screen opens.")
-
+1.  From the **homepage**, go to the **configuration**.
+    Timestamp 0:00–0:09 (ImportandDatasetup-CreateandModifyaUser.mp4): From the home page, go to the configuration – User management starting point.
+2.  Tap on **Manage Users**.
+    Timestamp 0:09 (ImportandDatasetup-CreateandModifyaUser.mp4): Tap on manage users – Configuration menu.
+3.  Tap on **Actions**.
+    Timestamp 0:10 (ImportandDatasetup-CreateandModifyaUser.mp4): Tap on actions – Action menu appears.
+4.  Tap on **Add**.
+    Timestamp 0:10 (ImportandDatasetup-CreateandModifyaUser.mp4): Tap on add – User creation/modification screen opens.
 
 ## 3. Feature Explanations and Benefits
 
@@ -53,9 +49,8 @@ You have the ability to create a user completely from scratch or efficiently mod
 
 This is necessary when onboarding a new employee who requires a unique login ID and defined roles.
 
-
-![GIF at 0:20–0:27](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_20–0_to_27.gif "First, let's see how to create the user from the scratch. Tap on **OK** – Begins new user creation.")
-
+1.  After navigating to the **Add** screen (Step 4 in Section 2), confirm you are creating a user from scratch.
+    Timestamp 0:20–0:27 (ImportandDatasetup-CreateandModifyaUser.mp4): First, let's see how to create the user from the scratch. Tap on **OK** – Begins new user creation.
 2.  **Fill in Access Details:** In the **Access** section, enter the required information:
     *   **Login ID**
     *   **First Name**
@@ -66,45 +61,35 @@ This is necessary when onboarding a new employee who requires a unique login ID 
     *   Enter the password.
     💡 **Tip:** You can toggle both the **Web Access** and **Mobile Access** options at the same time if the user requires both.
     ⚠️ **Warning (Password Requirement):** The password must contain **8 characters**, including **one numeric** character and **one special character**.
-
-![GIF at 1:09–1:18](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_09–1_to_18.gif "In the roles and rights, enable all the roles and rights such as administrator, optimization, deport etc. – Roles are defined.")
-
-
-![GIF at 1:39–1:55](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_39–1_to_55.gif "In the agencies, assign the agencies. Tap on the agencies and tap the right arrow to assign the agency – Agency assignment completed.")
-
-
-![GIF at 1:59–2:08](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_59–2_to_08.gif "In the planning, tap the tap the day and timing to plan the slot time and tap on update – Slot time is scheduled.")
-
+4.  **Define Roles and Rights:** In the **Roles and Rights** section, enable all necessary roles, such as **administrator**, **optimization**, or **deport**.
+    Timestamp 1:09–1:18 (ImportandDatasetup-CreateandModifyaUser.mp4): In the roles and rights, enable all the roles and rights such as administrator, optimization, deport etc. – Roles are defined.
+5.  **Assign Agencies:** In the **Agencies** section, tap on the agencies you need to assign, and then tap the **right arrow** to move them into the assigned list.
+    Timestamp 1:39–1:55 (ImportandDatasetup-CreateandModifyaUser.mp4): In the agencies, assign the agencies. Tap on the agencies and tap the right arrow to assign the agency – Agency assignment completed.
+6.  **Plan Slot Time:** In the **Planning** section, tap the **day and timing** to set the desired slot time, and then tap **update**.
+    Timestamp 1:59–2:08 (ImportandDatasetup-CreateandModifyaUser.mp4): In the planning, tap the tap the day and timing to plan the slot time and tap on update – Slot time is scheduled.
 7.  **Schedule Days Off (Optional):** In the **Days Off** section, you can plan future time off:
     *   Tap the **plus icon** on the right side.
     *   Enter the **from date** and the **to date** for the day off.
-
-![GIF at 2:10–2:31](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_10–2_to_31.gif "Plan the day off... Enter the from date and to date... Tap on add – Day off scheduled.")
-
-
-![GIF at 2:31–2:35](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_31–2_to_35.gif "After you fill in the required information, tap on save – User is saved.")
-
-
-![GIF at 2:39–2:41](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_39–2_to_41.gif "User has been created successfully – Confirmation received.")
-
+    *   Tap **Add**.
+    Timestamp 2:10–2:31 (ImportandDatasetup-CreateandModifyaUser.mp4): Plan the day off... Enter the from date and to date... Tap on add – Day off scheduled.
+8.  **Save the User:** After filling in all required information, tap **Save** to finalize the creation.
+    Timestamp 2:31–2:35 (ImportandDatasetup-CreateandModifyaUser.mp4): After you fill in the required information, tap on save – User is saved.
+    *   *Expected Outcome:* A message confirming, **"User have been created successfully,"** will appear.
+    Timestamp 2:39–2:41 (ImportandDatasetup-CreateandModifyaUser.mp4): User has been created successfully – Confirmation received.
 
 ### Task B: Modify an Existing User
 
 You can easily update an existing user's information, such as their roles, agencies, or schedule, without starting over.
 
-
-![GIF at 2:43–2:57](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_43–2_to_57.gif "Go to configuration. Tap on manage users. Tap on actions. Tap on add – User management screen.")
-
-
-![GIF at 3:01–3:04](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_3_to_01–3_to_04.gif "Toggle yes in the create from an existing user – Option activated.")
-
-
-![GIF at 3:07–3:11](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_3_to_07–3_to_11.gif "Select the user and tap on OK – User profile is loaded.")
-
+1.  Follow the initial navigation steps to reach the **Add** screen (Steps 1–4 in Section 2).
+    Timestamp 2:43–2:57 (ImportandDatasetup-CreateandModifyaUser.mp4): Go to configuration. Tap on manage users. Tap on actions. Tap on add – User management screen.
+2.  **Select Existing User:** **Toggle** **Yes** in the "**create from an existing user**" section.
+    Timestamp 3:01–3:04 (ImportandDatasetup-CreateandModifyaUser.mp4): Toggle yes in the create from an existing user – Option activated.
+3.  **Choose the User:** Select the specific user you want to modify, and then tap **OK**.
+    Timestamp 3:07–3:11 (ImportandDatasetup-CreateandModifyaUser.mp4): Select the user and tap on OK – User profile is loaded.
 4.  **Modify Information:** Go through the different sections (Access, Roles and Rights, Planning, etc.) and modify the existing information as needed.
-
-![GIF at 3:26–3:30](../../images/ImportandDataSetup-CreateandModifyaUser_timestamp_3_to_26–3_to_30.gif "Once you modify the information, tap on save to complete the modification – Modification finalized.")
-
+5.  **Save Changes:** Once you have updated the necessary information, tap **Save** to complete the modification.
+    Timestamp 3:26–3:30 (ImportandDatasetup-CreateandModifyaUser.mp4): Once you modify the information, tap on save to complete the modification – Modification finalized.
 
 ## 5. Productivity Tips
 
