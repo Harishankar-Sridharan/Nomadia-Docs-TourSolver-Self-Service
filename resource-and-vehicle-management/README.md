@@ -1,2 +1,0 @@
-# Resource and Vehicle Management
-
