@@ -33,13 +33,17 @@ This first crucial step verifies your identity and secures your new account. Use
 
 If you already have the credentials, you can log in and skip this guide If you don't have an account, click **Sign up now**.
 
-![](<../.gitbook/assets/Unknown image (44)>)
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_10–0_to_18.gif" alt=""><figcaption></figcaption></figure>
 
 1. Enter the **Valid email address**. Click on **Send Verification code**
 
-![](<../.gitbook/assets/Unknown image (45)>)
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_18–0_to_26.gif" alt=""><figcaption></figcaption></figure>
 
 2. Type the **Verification code** received in your email and click on **Verify code**
+
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_40–0_to_41.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +51,7 @@ If you already have the credentials, you can log in and skip this guide If you d
 
 stating, _**“Your email has been verified.”**_
 
-![](<../.gitbook/assets/Unknown image (47)>)
+![](../.gitbook/assets/Unknown%20image%20\(47\))
 
 #### Setting Your Profile Details
 
@@ -65,7 +69,7 @@ Now you will configure additional details to set up your account.
 
 3. Click on **Create** to proceed.
 
-![](<../.gitbook/assets/Unknown image (48)>)
+![](../.gitbook/assets/Unknown%20image%20\(48\))
 
 #### Completing the Onboarding Page
 
@@ -73,11 +77,11 @@ After creating your profile, you will automatically reach the **Onboarding Page*
 
 Enter the **Company name**, **Departure address**, and **Activity.**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(1).png" alt=""><figcaption></figcaption></figure>
 
 Review the **End user agreement** and click the **Check box.**
 
-![](<../.gitbook/assets/Unknown image (50)>)
+![](../.gitbook/assets/Unknown%20image%20\(50\))
 
 Click on **Letʼs Go**
 
