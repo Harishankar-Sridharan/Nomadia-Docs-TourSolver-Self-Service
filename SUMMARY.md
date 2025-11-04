@@ -9,4 +9,5 @@
   * [Create a Depot](importanddatasetup/create-a-depot.md)
 * [Resource and Vehicle Management](resourceandvehiclemanagement/README.md)
   * [Creating a Resource](resourceandvehiclemanagement/creating-a-resource.md)
+  * [Modifying a Resource and Associated Constraints](resourceandvehiclemanagement/modifying-a-resource-and-associated-constraints.md)
   * [Rename a Quantity of a Vehicle](resourceandvehiclemanagement/resourceandvehiclemanagement-renameaquantityofavehicle.md)
