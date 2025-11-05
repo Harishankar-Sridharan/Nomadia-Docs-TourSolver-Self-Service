@@ -39,15 +39,13 @@ If you already have the credentials, you can log in and skip this guide If you d
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_10–0_to_18 (1).gif" alt=""><figcaption></figcaption></figure>
 
-Enter the Valid email address.&#x20;
-
-Click on Send Verification code
-
-Type the Verification code received in your email and click on Verify code
+1. Enter the Valid email address.&#x20;
+2. Click on Send Verification code
+3. Type the Verification code received in your email and click on Verify code
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_40–0_to_41.gif" alt=""><figcaption></figcaption></figure>
 
-Expected Outcome: Upon successful verification, a confirmation message appears
+**Expected Outcome**: Upon successful verification, a confirmation message appears
 
 stating, _“Your email has been verified.”_
 
@@ -77,15 +75,15 @@ Now you will configure additional details to set up your account.
 
 After creating your profile, you will automatically reach the Onboarding Page to enter necessary company information.
 
-Enter the Company name, Departure address, and Activity.
+1. Enter the Company name, Departure address, and Activity.
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_2_to_08–2_to_23.gif" alt=""><figcaption></figcaption></figure>
 
-Review the End user agreement and click the Check box.
+2. Review the End user agreement and click the Check box.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Click on Letʼs Go
+3. Click on Letʼs Go
 
 ***
 
