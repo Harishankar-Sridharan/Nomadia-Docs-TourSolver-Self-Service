@@ -2,9 +2,9 @@
 
 * [Getting Started](README.md)
   * [Signup Process](gettingstarted/gettingstarted-signupprocess.md)
-* [ImportandDatasetup](importanddatasetup/README.md)
-  * [Create a Depot](importanddatasetup/importanddatasetup-createadepot/README.md)
-    * [ImportandDataSetup-CreateandModifyaUser](importanddatasetup/importanddatasetup-createadepot/importanddatasetup-createandmodifyauser.md)
+* [Import and Data setup](importanddatasetup/README.md)
+  * [Create a Depot](importanddatasetup/importanddatasetup-createadepot.md)
+  * [ImportandDataSetup-CreateandModifyaUser](importanddatasetup/importanddatasetup-createandmodifyauser.md)
   * [Create and Modify a User](importanddatasetup/createandmodifyauser.md)
   * [ImportofDeliveries](importanddatasetup/importofdeliveries/README.md)
     * [ImportandDataSetup-ImportofDeliveries](ImportandDatasetup/ImportofDeliveries/ImportandDataSetup-ImportofDeliveries.md)
