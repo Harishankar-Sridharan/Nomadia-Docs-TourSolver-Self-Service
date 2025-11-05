@@ -37,17 +37,15 @@ This first crucial step verifies your identity and secures your new account. Use
 
 If you already have the credentials, you can log in and skip this guide If you donʼt have an account, click Sign up now.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_10–0_to_18 (1).gif" alt=""><figcaption></figcaption></figure>
 
 Enter the Valid email address.&#x20;
 
 Click on Send Verification code
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
 Type the Verification code received in your email and click on Verify code
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_40–0_to_41.gif" alt=""><figcaption></figcaption></figure>
 
 Expected Outcome: Upon successful verification, a confirmation message appears
 
@@ -71,7 +69,9 @@ Now you will configure additional details to set up your account.
 
 3. &#x20;Click on Create to proceed.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_1_to_03–1_to_08 (1).gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ### Completing the Onboarding Page
 
@@ -79,7 +79,7 @@ After creating your profile, you will automatically reach the Onboarding Page to
 
 Enter the Company name, Departure address, and Activity.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_2_to_08–2_to_23.gif" alt=""><figcaption></figcaption></figure>
 
 Review the End user agreement and click the Check box.
 
