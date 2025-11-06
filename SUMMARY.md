@@ -2,7 +2,7 @@
 
 * [Getting Started](README.md)
   * [Signup Process](gettingstarted/gettingstarted-signupprocess.md)
-* [ImportandDatasetup](importanddatasetup/README.md)
+* [Import and Data setup](importanddatasetup/README.md)
   * [Create a Depot](importanddatasetup/importanddatasetup-createadepot.md)
   * [Create and Modify a User](importanddatasetup/importanddatasetup-createandmodifyauser.md)
   * [Import of Deliveries](importanddatasetup/importanddatasetup-importofdeliveries.md)

@@ -10,11 +10,15 @@ To begin managing or creating a Depot, follow these steps:
 
 1. Access the TourSolver web application.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
 
 2. From the Actions menu, click Manage Depots
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Understanding Depot Details
 
@@ -22,9 +26,9 @@ When you create a new Depot, you will fill out details across three main section
 
 ### A. General Section
 
-&#x20;This section handles the basic identification and core rules for your Depot.
+This section handles the basic identification and core rules for your Depot.
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Field/Constraint</td><td valign="top">Purpose/Benefit</td></tr><tr><td valign="top">Name</td><td valign="top">Identifying label for the Depot.</td></tr><tr><td valign="top">Address</td><td valign="top">Physical location of the Depot.</td></tr><tr><td valign="top"><p> </p><p>Constraints</p></td><td valign="top">Rules that govern how the Depot operates, such as Assign Resources, Explore Resources, or Availability.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Field/Constraint</td><td valign="top">Purpose/Benefit</td></tr><tr><td valign="top">Name</td><td valign="top">Identifying label for the Depot.</td></tr><tr><td valign="top">Address</td><td valign="top">Physical location of the Depot.</td></tr><tr><td valign="top">Constraints</td><td valign="top">Rules that govern how the Depot operates, such as Assign Resources, Explore Resources, or Availability.</td></tr></tbody></table>
 
 ### B. Planning Section
 
@@ -50,13 +54,17 @@ The most common task is adding a brand new Depot. This requires moving through t
 
 1. From the Actions menu, click Add.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(9).png" alt=""><figcaption></figcaption></figure>
 
 2. In the General section, enter the required basic information.
 
-* &#x20;Input the Name and Address.
+* Input the Name and Address.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(10).png" alt=""><figcaption></figcaption></figure>
 
 3. Edit the scheduling details.
 
@@ -68,18 +76,24 @@ Tip : You can also edit multiple opening days from this screen to save time when
 
 schedules.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(11).png" alt=""><figcaption></figcaption></figure>
 
 4. To add or edit quantity details, click the plus symbol located at the bottom right corner.
 5. Update the inventory details.
 
 * Edit the initial quantity.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(12).png" alt=""><figcaption></figcaption></figure>
 
 6. Depot has been created successfully
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(13).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Productivity Tips
 
@@ -92,10 +106,14 @@ You can easily manage multiple Depot entries at once using the import and export
 1. On the main Depot management screen, click the Actions menu.
 2. Click on Export to download the file.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(14).png" alt=""><figcaption></figcaption></figure>
 
 3. Click Import, then select Browse Excel to choose a file and import it, or simply drag and drop your file into the upload area.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image%20(15).png" alt=""><figcaption></figcaption></figure>
 
 **Tip**: Using the Export feature first can be helpful if you want to create a template to correctly format the data before performing a bulk Import of new Depots.
