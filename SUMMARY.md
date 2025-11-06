@@ -6,7 +6,7 @@
   * [Create a Depot](importanddatasetup/importanddatasetup-createadepot.md)
   * [Create and Modify a User](importanddatasetup/importanddatasetup-createandmodifyauser.md)
   * [Import of Deliveries](importanddatasetup/importanddatasetup-importofdeliveries.md)
-  * [ModifyAddressofaDelivery](importanddatasetup/modifyaddressofadelivery/README.md)
+  * [Modify Address of a Delivery](importanddatasetup/modifyaddressofadelivery/README.md)
 * [ResourceandVehicleManagement](resourceandvehiclemanagement/README.md)
   * [CreatingaResource](resourceandvehiclemanagement/creatingaresource/README.md)
   * [ModifyingaResourceandAssociatedConstraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints/README.md)
