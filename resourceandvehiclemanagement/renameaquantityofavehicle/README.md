@@ -1,17 +1,17 @@
 # Rename a Quantity of a Vehicle
 
-### Introduction
+### 1. Introduction
 
 Renaming a vehicle quantity helps you personalize your system terminology. By changing these names, you ensure clarity and consistency when viewing vehicle capacities and importing new delivery information. You are learning how to successfully rename the quantity of a vehicle.
 
-### Feature Explanations and Benefits
+### 2. Feature Explanations and Benefits
 
 The ability to customize quantity names provides a significant benefit by displaying user-defined names in two key areas:
 
 * Vehicle Capacity View: After renaming, the new names are visible when you check a vehicleʼs capacity details. This allows you to quickly verify what capacity limitations are assigned to your fleet.
 * Delivery Import Screen: The new names are displayed when you import new deliveries. Specifically, they appear when you select Show All under the quantity section during the import process, ensuring correct data mapping.
 
-### Common Tasks with Detailed Steps
+### 3. Common Tasks with Detailed Steps
 
 This section details the primary task: renaming the quantity, and how to verify the change afterward.
 
@@ -66,7 +66,7 @@ The renamed quantities are also visible when you import deliveries:
 
 <figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_1_to_29–1_to_32.gif" alt=""><figcaption></figcaption></figure>
 
-### Productivity Tips
+### 4. Productivity Tips
 
 * Tip: Immediate Verification is Key After saving your renamed quantity, take a moment to immediately verify the change both in Vehicle Capacities and by checking a pending delivery import This ensures your changes propagated correctly across the system.
 * Tip: Keep it Simple Use clear, concise names that are easy for everyone on your team to understand. Since the new name will be displayed in multiple areas, choosing accessible language prevents confusion.
