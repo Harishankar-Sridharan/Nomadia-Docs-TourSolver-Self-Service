@@ -20,7 +20,7 @@ To begin creating or modifying a user, follow these steps:
 3. Click on Actions.
 4. Click on Add
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(16).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +49,7 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 1. After navigating to the Add screen, confirm you are creating a user from scratch.
 2. First, let's see how to create the user from the scratch. Click on OK – Begins new user creation.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_20%E2%80%930_to_27.gif" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 
 **Tip**: You can toggle both the Web Access and Mobile Access options at the same time if the user requires both. ⚠ Warning (Password Requirement): The password must contain 8 characters, including one numeric character and one special character.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_09%E2%80%931_to_18.gif" alt=""><figcaption></figcaption></figure>
 

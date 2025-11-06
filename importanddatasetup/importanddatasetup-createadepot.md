@@ -16,7 +16,7 @@ To begin managing or creating a Depot, follow these steps:
 
 2. From the Actions menu, click Manage Depots
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ The most common task is adding a brand new Depot. This requires moving through t
 
 1. From the Actions menu, click Add.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(9).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ The most common task is adding a brand new Depot. This requires moving through t
 
 * Input the Name and Address.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(10).png" alt=""><figcaption></figcaption></figure>
 

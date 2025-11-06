@@ -9,7 +9,7 @@
   * [Modify Address of a Delivery](importanddatasetup/modifyaddressofadelivery/README.md)
 * [Resource and Vehicle Management](resourceandvehiclemanagement/README.md)
   * [Creating a Resource](resourceandvehiclemanagement/creatingaresource/README.md)
-  * [ModifyingaResourceandAssociatedConstraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints/README.md)
+  * [Modifying a Resource and Associated Constraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints/README.md)
   * [RenameaQuantityofaVehicle](resourceandvehiclemanagement/renameaquantityofavehicle/README.md)
 * [OperationsandRouteManagement](operationsandroutemanagement/README.md)
   * [OptimizeyourDeliveries](operationsandroutemanagement/optimizeyourdeliveries/README.md)
