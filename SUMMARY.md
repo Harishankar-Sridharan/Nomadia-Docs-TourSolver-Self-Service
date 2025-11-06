@@ -10,7 +10,7 @@
 * [Resource and Vehicle Management](resourceandvehiclemanagement/README.md)
   * [Creating a Resource](resourceandvehiclemanagement/creatingaresource/README.md)
   * [Modifying a Resource and Associated Constraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints/README.md)
-  * [RenameaQuantityofaVehicle](resourceandvehiclemanagement/renameaquantityofavehicle/README.md)
+  * [Rename a Quantity of a Vehicle](resourceandvehiclemanagement/renameaquantityofavehicle/README.md)
 * [OperationsandRouteManagement](operationsandroutemanagement/README.md)
   * [OptimizeyourDeliveries](operationsandroutemanagement/optimizeyourdeliveries/README.md)
     * [OperationsandRouteManagement-OptimizeyourDeliveries](OperationsandRouteManagement/OptimizeyourDeliveries/OperationsandRouteManagement-OptimizeyourDeliveries.md)
