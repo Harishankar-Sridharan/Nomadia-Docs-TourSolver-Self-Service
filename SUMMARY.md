@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Getting Started](README.md)
+  * [Signup Process](gettingstarted/gettingstarted-signupprocess.md)
+* [ImportandDatasetup](importanddatasetup/README.md)
+  * [Create a Depot](importanddatasetup/importanddatasetup-createadepot.md)
+  * [Create and Modify a User](importanddatasetup/importanddatasetup-createandmodifyauser.md)
+  * [Import of Deliveries](importanddatasetup/importanddatasetup-importofdeliveries.md)
+  * [ModifyAddressofaDelivery](importanddatasetup/modifyaddressofadelivery/README.md)
+* [ResourceandVehicleManagement](resourceandvehiclemanagement/README.md)
+  * [CreatingaResource](resourceandvehiclemanagement/creatingaresource/README.md)
+  * [ModifyingaResourceandAssociatedConstraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints/README.md)
+  * [RenameaQuantityofaVehicle](resourceandvehiclemanagement/renameaquantityofavehicle/README.md)
+* [OperationsandRouteManagement](operationsandroutemanagement/README.md)
+  * [OptimizeyourDeliveries](operationsandroutemanagement/optimizeyourdeliveries/README.md)
+    * [OperationsandRouteManagement-OptimizeyourDeliveries](OperationsandRouteManagement/OptimizeyourDeliveries/OperationsandRouteManagement-OptimizeyourDeliveries.md)
+  * [ShareaTourwiththeMobileApp](operationsandroutemanagement/shareatourwiththemobileapp/README.md)
+    * [OperationsandRoutemanagement-ShareaTourwiththeMobileApp](OperationsandRouteManagement/ShareaTourwiththeMobileApp/OperationsandRoutemanagement-ShareaTourwiththeMobileApp.md)
