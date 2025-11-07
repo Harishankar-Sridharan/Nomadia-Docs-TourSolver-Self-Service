@@ -24,7 +24,7 @@ If you are unsure how to format your Excel file, you can download a sample templ
 1. Click on Download.
 2. The Excel file containing sample data will be downloaded.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_14%E2%80%930_to_18.gif" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 1. Click on import to begin the process of importing your delivery data into the server
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(20).png" alt=""><figcaption></figcaption></figure>
 
