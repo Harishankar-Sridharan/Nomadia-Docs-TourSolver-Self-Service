@@ -1,14 +1,8 @@
 # Export my Routes
 
-
-
-***
-
 ### 1. Introduction
 
 This guide will teach you how to select, customize, and export your completed routes using the route management system. Whether you need to share results with a team member via Excel or integrate data into a calendar, this process is designed to be straightforward and effective.
-
-
 
 **Customizing Your Excel Export Settings**
 
@@ -17,13 +11,13 @@ When you choose to export to Excel, the system provides several options to tailo
 1. **Select Your Sheet Layout:** Choose how the route data is organized:
    * **One sheet for all deliverers**.
    * **One sheet per deliverer**.
-   * _Context:_ This helps you decide if you want a consolidated view or detailed reports for individual team members.
+   * _**Context**:_ This helps you decide if you want a consolidated view or detailed reports for individual team members.
 
 ![](../images/OperationsandRouteManagement-ExportmyRoutes_timestamp_1_to_09–1_to_15.gif)
 
 💡 **Tip:** These configurations only apply to the Excel export option. Other formats (like PowerPoint or Calendar) will use their standard output settings.
 
-**B. Selecting Custom Fields (Columns)**
+2. **Selecting Custom Fields (Columns)**
 
 You can choose which specific columns (fields) appear in your exported file.
 
@@ -52,11 +46,9 @@ By clicking the **export option** and selecting **other**, you unlock a wide arr
 | **Export to PowerPoint / Office 365 PowerPoint / Google Slides** | Useful for quickly generating presentations or summaries for meetings.                           |
 | **Export to Calendar (Office Outlook / Google)**                 | Allows route schedules and timings to be integrated directly into personal or team calendars.    |
 | **Export a summary of routes send by email**                     | Efficiently shares a high-level overview of the route plan with recipients.                      |
-| **Export to Master GPX / Extended GPX**                          | Necessary for use with specific GPS navigation systems or advanced mapping software.             |
+| **Export to Masternaut .GPX / Extended .GPX**                    | Necessary for use with specific GPS navigation systems or advanced mapping software.             |
 | **Export to KML format Google etc.**                             | Standard format for viewing geospatial data (like routes) in mapping tools (e.g., Google Earth). |
 | **Export to Webhook**                                            | Facilitates automated data transfer to other operational systems.                                |
-
-***
 
 ### 4. Exporting a Route to Excel
 
@@ -98,11 +90,11 @@ Follow these steps to successfully export your selected route:
 
 ![](../images/OperationsandRouteManagement-ExportmyRoutes_timestamp_2_to_18–2_to_23.gif)
 
-Click the downloaded file to open it
+Click the **downloaded file** to open it
 
 ![](../images/OperationsandRouteManagement-ExportmyRoutes_timestamp_2_to_31–2_to_34.gif)
 
-Please find the downloaded excel file below.&#x20;
+Please find the **downloaded excel file** below.&#x20;
 
 <figure><img src="../.gitbook/assets/EXCEL_93xWEQKAjS.png" alt=""><figcaption></figcaption></figure>
 
