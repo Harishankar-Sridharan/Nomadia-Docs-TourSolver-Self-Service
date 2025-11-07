@@ -24,7 +24,7 @@ If you are unsure how to format your Excel file, you can download a sample templ
 1. Click on Download.
 2. The Excel file containing sample data will be downloaded.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_14%E2%80%930_to_18.gif" alt=""><figcaption></figcaption></figure>
 
@@ -52,13 +52,13 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 1. Click on import to begin the process of importing your delivery data into the server
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(20).png" alt=""><figcaption></figcaption></figure>
 
 2. A mapping window will appear, prompting you to match your Excel fields with the required server fields.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(21).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,31 +67,31 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 * If a field is currently mapped, you may choose to ignore it.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_58%E2%80%932_to_00.gif" alt=""><figcaption></figcaption></figure>
 
 * Click on show all to view all possible field options.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
 
 * Click on customer ID option to map the customer ID column.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(23).png" alt=""><figcaption></figcaption></figure>
 
 * If you need to change the Name field, click on ignore under the current name mapping.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(24).png" alt=""><figcaption></figcaption></figure>
 
 * Click on name to complete the mapping for the name field
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(25).png" alt=""><figcaption></figcaption></figure>
 
@@ -101,32 +101,32 @@ After confirming the data mapping, you can proceed to the map view and start pla
 
 1. Click on next once the mapping is complete
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(26).png" alt=""><figcaption></figcaption></figure>
 
 2. The map view will appear, displaying your locations with geocoding colors
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(27).png" alt=""><figcaption></figcaption></figure>
 
 3. Review the locations and their colors.
 4. If you see Gray locations, those addresses were not found by the system. You may need to review and correct those addresses in your original data before optimizing the route for accuracy
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(28).png" alt=""><figcaption></figcaption></figure>
 
 5. Click on optimize my routes to begin the route calculation
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(29).png" alt=""><figcaption></figcaption></figure>
 
 6. Once you start the optimization, the system will begin the calculation process.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(30).png" alt=""><figcaption></figcaption></figure>
 
@@ -136,13 +136,13 @@ When the map view appears, colors guide you to understand if your addresses were
 
 * Yellow color indicates that the location was successfully geocoded at the sheet level.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(31).png" alt=""><figcaption></figcaption></figure>
 
 * Gray color indicates that the location was not geocoded.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(32).png" alt=""><figcaption></figcaption></figure>
 
