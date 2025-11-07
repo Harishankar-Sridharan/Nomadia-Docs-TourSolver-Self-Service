@@ -35,15 +35,15 @@ This first crucial step verifies your identity and secures your new account. Use
 
 [Access/TourSolver](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home)
 
-If you already have the credentials, you can log in and skip this guide If you donʼt have an account, click Sign up now.
+If you already have the credentials, you can log in and skip this guide If you donʼt have an account, click **Sign up now**.
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_10%E2%80%930_to_18%20(1).gif" alt=""><figcaption></figcaption></figure>
 
-1. Enter the Valid email address.
-2. Click on Send Verification code
-3. Type the Verification code received in your email and click on Verify code
+1. Enter the **Valid email address.**
+2. Click on **Send Verification code**
+3. Type the **Verification code** received in your email and click on **Verify code**
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ If you already have the credentials, you can log in and skip this guide If you d
 
 **Expected Outcome**: Upon successful verification, a confirmation message appears
 
-stating, _“Your email has been verified.”_
+stating, _**“Your email has been verified.”**_
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,17 +61,17 @@ stating, _“Your email has been verified.”_
 
 Now you will configure additional details to set up your account.
 
-1. Fill in Details: Fill in your basic profile details, including your Name, Country and Password to setup the account
-2. Create Your Password: Enter your chosen password.
+1. **Fill in Details**: Fill in your basic profile details, including your Name, Country and Password to setup the account
+2. **Create Your Password**: Enter your **chosen password.**
 
-⚠ Warning: Password Requirements Your password must be strong! Ensure it includes all of the following:
+⚠ **Warning**: Password Requirements Your password must be strong! Ensure it includes all of the following:
 
 * At least one uppercase letter
 * At least one lowercase letter
 * A number
 * A special character
 
-3. Click on Create to proceed.
+3. Click on **Create to proceed**.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,19 +81,19 @@ Now you will configure additional details to set up your account.
 
 After creating your profile, you will automatically reach the Onboarding Page to enter necessary company information.
 
-1. Enter the Company name, Departure address, and Activity.
+1. Enter the **Company name, Departure address, and Activity.**
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_2_to_08%E2%80%932_to_23.gif" alt=""><figcaption></figcaption></figure>
 
-2. Review the End user agreement and click the Check box.
+2. Review the **End user agreement** and click the **Check box**.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(6).png" alt=""><figcaption></figcaption></figure>
 
-3. Click on Letʼs Go
+3. Click on **Letʼs Go**
 
 ***
 
@@ -117,5 +117,5 @@ These limits allow you to test real-world scenarios and experience the platform�
 
 To ensure your newly created credentials work correctly, it is recommended practice to log out immediately and log back in.
 
-1. Log-out : Log out of the system.
-2. Log-in: Log back in using the email and password you just created to verify your credentials are functional.
+1. **Log-out** : Log out of the system.
+2. **Log-in**: Log back in using the email and password you just created to verify your credentials are functional.
