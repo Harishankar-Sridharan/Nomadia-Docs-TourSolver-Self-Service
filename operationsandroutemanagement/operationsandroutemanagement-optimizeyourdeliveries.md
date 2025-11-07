@@ -1,9 +1,5 @@
 # Optimize your Deliveries
 
-##
-
-***
-
 ### 1. Introduction
 
 The **Optimize your Deliveries** feature streamlines your operations by calculating the best possible delivery sequence and routes. Using this guide, you will learn how to set your optimization preferences and successfully start the route planning process.
@@ -46,7 +42,7 @@ This task walks you through selecting the time frame and launching the route cal
 
 ![](../images/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_29.png)
 
-3. Click on Start Optimization
+3. Click on **Start Optimization**
 
 ![](../images/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_38–1_to_41.gif)
 
@@ -59,12 +55,12 @@ If you need to change how many days the system should plan routes for, you can c
 
 ![](../images/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_53–0_to_56.gif)
 
-3. Click on Planning
+3. Click on **Planning**
 
 ![](../images/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_58–1_to_00.gif)
 
 5. **Edit Days:** Change the value to the new number of days you wish to use for planning.
-6. Click on Save
+6. Click on **Save**
 
 ![](../images/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_09–1_to_12.gif)
 
@@ -76,7 +72,7 @@ Once the optimization is running, you can monitor the results.
 
 &#x20; **Review Results:** You will see the optimization result summary.
 
-&#x20; Click on Display the Simulation
+&#x20; Click on **Display the Simulation**
 
 ![](../images/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_2_to_22–2_to_25.gif)
 
