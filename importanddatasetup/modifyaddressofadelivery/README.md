@@ -24,14 +24,14 @@ This procedure walks you through selecting a delivery, updating its location, an
 
 * From the home page, Click on Optimization.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the Delivery to Edit
 
 * Select any one delivery details.
 * Click on the Edit button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the New Address
 
@@ -42,24 +42,24 @@ This procedure walks you through selecting a delivery, updating its location, an
 * Scroll down.
 * Click on Locate
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select the new address that you entered from the suggested options
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Save the Address Change
 
 * Click on Edit.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Start the Route Re-optimization
 
 * Click on Deliveries
 * Click on Optimize
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Expected Outcome
 
@@ -68,5 +68,5 @@ After saving and optimizing, you will see immediate results:
 * The new route and details will be displayed clearly on the map.
 * The system has recalculated the new distance and travel time.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

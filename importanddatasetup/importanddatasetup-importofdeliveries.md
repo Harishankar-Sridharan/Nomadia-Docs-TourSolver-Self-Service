@@ -24,7 +24,7 @@ If you are unsure how to format your Excel file, you can download a sample templ
 1. Click on Download.
 2. The Excel file containing sample data will be downloaded.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_14%E2%80%930_to_18.gif" alt=""><figcaption></figcaption></figure>
 
@@ -52,13 +52,13 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 1. Click on import to begin the process of importing your delivery data into the server
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(20).png" alt=""><figcaption></figcaption></figure>
 
 2. A mapping window will appear, prompting you to match your Excel fields with the required server fields.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(21).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,19 +67,19 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 * If a field is currently mapped, you may choose to ignore it.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_58%E2%80%932_to_00.gif" alt=""><figcaption></figcaption></figure>
 
 * Click on show all to view all possible field options.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
 
 * Click on customer ID option to map the customer ID column.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(23).png" alt=""><figcaption></figcaption></figure>
 
