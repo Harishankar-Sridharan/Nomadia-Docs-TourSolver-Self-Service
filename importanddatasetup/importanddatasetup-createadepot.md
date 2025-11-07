@@ -8,15 +8,15 @@ A Depot is essentially a location—a warehouse, service center, or hub—that y
 
 To begin managing or creating a Depot, follow these steps:
 
-1. Access the TourSolver web application.
+1. Access the **TourSolver web application**.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
 
-2. From the Actions menu, click Manage Depots
+2. From the **Actions menu**, click **Manage Depots**
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,46 +52,46 @@ The most common task is adding a brand new Depot. This requires moving through t
 
 ### Adding a New Depot
 
-1. From the Actions menu, click Add.
+1. From the **Actions menu**, click **Add**.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(9).png" alt=""><figcaption></figcaption></figure>
 
-2. In the General section, enter the required basic information.
+2. In the **General section**, enter the **required basic information.**
 
-* Input the Name and Address.
+* Input the **Name** and **Address**.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(10).png" alt=""><figcaption></figcaption></figure>
 
-3. Edit the scheduling details.
+3. Edit the **scheduling details.**
 
-* Click on Planning
-* Adjust the opening days and opening time.
-* Define the start and end time
+* Click on **Planning**
+* Adjust the **opening days** and **opening time**.
+* Define the **start** and **end** time
 
-Tip : You can also edit multiple opening days from this screen to save time when setting complex
+**Tip** : You can also edit multiple opening days from this screen to save time when setting complex
 
 schedules.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(11).png" alt=""><figcaption></figcaption></figure>
 
-4. To add or edit quantity details, click the plus symbol located at the bottom right corner.
+4. To add or edit quantity details, click the **plus** symbol located at the bottom right corner.
 5. Update the inventory details.
 
-* Edit the initial quantity.
+* Edit the **initial quantity**.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(12).png" alt=""><figcaption></figcaption></figure>
 
 6. Depot has been created successfully
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(13).png" alt=""><figcaption></figcaption></figure>
 
@@ -103,16 +103,16 @@ To manage your Depots efficiently, especially if you have à large number of loc
 
 You can easily manage multiple Depot entries at once using the import and export functions.
 
-1. On the main Depot management screen, click the Actions menu.
-2. Click on Export to download the file.
+1. On the main Depot management screen, click the **Actions** menu.
+2. Click on **Export** to download the file.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(14).png" alt=""><figcaption></figcaption></figure>
 
-3. Click Import, then select Browse Excel to choose a file and import it, or simply drag and drop your file into the upload area.
+3. Click **Import**, then select Browse Excel to choose a file and import it, or simply drag and drop your file into the upload area.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(15).png" alt=""><figcaption></figcaption></figure>
 
