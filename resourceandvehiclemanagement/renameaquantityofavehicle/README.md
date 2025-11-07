@@ -8,8 +8,8 @@ Renaming a vehicle quantity helps you personalize your system terminology. By ch
 
 The ability to customize quantity names provides a significant benefit by displaying user-defined names in two key areas:
 
-* Vehicle Capacity View: After renaming, the new names are visible when you check a vehicleʼs capacity details. This allows you to quickly verify what capacity limitations are assigned to your fleet.
-* Delivery Import Screen: The new names are displayed when you import new deliveries. Specifically, they appear when you select Show All under the quantity section during the import process, ensuring correct data mapping.
+* **Vehicle Capacity View**: After renaming, the new names are visible when you check a vehicleʼs capacity details. This allows you to quickly verify what capacity limitations are assigned to your fleet.
+* **Delivery Import Screen**: The new names are displayed when you import new deliveries. Specifically, they appear when you select Show All under the quantity section during the import process, ensuring correct data mapping.
 
 ### 3. Common Tasks with Detailed Steps
 
@@ -68,9 +68,9 @@ The renamed quantities are also visible when you import deliveries:
 
 ### 4. Productivity Tips
 
-* Tip: Immediate Verification is Key After saving your renamed quantity, take a moment to immediately verify the change both in Vehicle Capacities and by checking a pending delivery import This ensures your changes propagated correctly across the system.
-* Tip: Keep it Simple Use clear, concise names that are easy for everyone on your team to understand. Since the new name will be displayed in multiple areas, choosing accessible language prevents confusion.
-* Warning: Ensure Complete Renaming The source indicates you can "rename the quantity" (singular). Ensure you have updated all necessary fields before Clicking Save to avoid having to return to the customization menu multiple times.
+* **Tip**: Immediate Verification is Key After saving your renamed quantity, take a moment to immediately verify the change both in Vehicle Capacities and by checking a pending delivery import This ensures your changes propagated correctly across the system.
+* **Tip**: Keep it Simple Use clear, concise names that are easy for everyone on your team to understand. Since the new name will be displayed in multiple areas, choosing accessible language prevents confusion.
+* **Warning**: Ensure Complete Renaming The source indicates you can "rename the quantity" (singular). Ensure you have updated all necessary fields before Clicking Save to avoid having to return to the customization menu multiple times.
 
 
 
