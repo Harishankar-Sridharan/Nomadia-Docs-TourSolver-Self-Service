@@ -12,15 +12,15 @@ You can start modifying resources and constraints directly from the systemʼs ho
 
 #### Access My Deliverers
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 1. Choose Your Modification Method You have two primary ways to modify a resource: team-wise (affecting a group) or individually.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 2. Click the edit (pencil) icon next to the name
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3. You can start modifying the associated constraints.
 
@@ -48,7 +48,7 @@ If a resource's start or end point changes, you can update it here.
 2. Update Address: Modify the departure address as needed.
 3. Update Address: Modify the arrival location.
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_12–1_to_18.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_12–1_to_18.gif" alt=""><figcaption></figcaption></figure>
 
 &#x20;_Visual Guidance Placeholder:_ After modification, you will see the differences on the map. The color used will be different for the departure and the arrival locations (e.g., green or red).&#x20;
 
@@ -57,7 +57,7 @@ If a resource's start or end point changes, you can update it here.
 1. &#x20;You can manage the maximum weight a resource's vehicle can carry.
 2. Modify Value: Modify the value of the weight. You can input this value in kilograms or grams.&#x20;
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_40–1_to_43.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_40–1_to_43.gif" alt=""><figcaption></figcaption></figure>
 
 The Planning section controls when your resource is available to work. There are two methods for modifying work times: Simple View and Advanced View.
 
@@ -80,7 +80,7 @@ Use Advanced View if you need to set unique start and end times for specific wor
 3. Make Adjustments: The clock image will display, allowing you to make your adjustments.
 4. Confirm Timing: After doing the modification inside the clock, Click on OK.&#x20;
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_3_to_33–3_to_43.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_3_to_33–3_to_43.gif" alt=""><figcaption></figcaption></figure>
 
 ### Saving All Modifications
 
@@ -88,7 +88,7 @@ Once you have completed all necessary changes across Departure, Arrival, Capacit
 
 * The changes will be displayed successfully&#x20;
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_3_to_58–4_to_04.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_3_to_58–4_to_04.gif" alt=""><figcaption></figcaption></figure>
 
 ## 5. Productivity Tips
 

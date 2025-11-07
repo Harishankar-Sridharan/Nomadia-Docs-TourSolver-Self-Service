@@ -21,35 +21,35 @@ Follow these simple steps to update the quantity names in your system:
 
 1. **Access Configuration**
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 2. **Navigate to Customization**
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3. **Rename the Quantity**
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_13–0_to_18.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 4. **Save Your Changes**
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_31–0_to_36.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### Changes have been saved successfully
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_46–0_to_53.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### Verifying New Names in Vehicle Capacities
 
 1. **Go to My Deliverers**
 2. **Edit a Vehicle**
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_53–0_to_58.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3. **View Capacities**
 4. **Confirm the Name**
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_59–1_to_02.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### Verifying New Names during Delivery Import
 
@@ -59,12 +59,12 @@ The renamed quantities are also visible when you import deliveries:
 2. **Start Import**
 3. **Address Unknown Fields**
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_1_to_13–1_to_17.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 4. **Show All Quantities**
 5. **Confirm the New Name**
 
-<figure><img src="../../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_1_to_29–1_to_32.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### 4. Productivity Tips
 

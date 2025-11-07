@@ -11,7 +11,7 @@ To begin defining a new resource profile:&#x20;
 1. Go to the Resource page.
 2. Click on Add located within the Actions menu.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## Feature Explanations and Context
 
@@ -33,17 +33,17 @@ Follow these steps to successfully create and define your new delivery staff mem
 1. Enter the full resource name.
 2. Enter the departure location (where the resource starts their shift).
 
-<figure><img src="../../.gitbook/assets/msedge_0QXJPZ3KyV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3. Go to the Vehicles tab.
 4. Select the means of transportation (e.g., car, bike, truck).
 
-<figure><img src="../../.gitbook/assets/msedge_niFI094FIW.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 5. Go to the Working time tab.
 6. Select whether you want the automatic start time feature to be active (yes or no).
 
-<figure><img src="../../.gitbook/assets/msedge_CEloRvtgiv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### Setting Vehicle Capacities
 
@@ -53,7 +53,7 @@ If your resource is transporting goods, you must define their capacity limits:
 2. Click on the plus symbol (+) located at the bottom corner.
 3. Add the necessary vehicle capacities in the available fields.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 To Delete a Capacity Slot: If you need to remove a capacity entry, click on the delete icon located on the right side.
 
@@ -68,7 +68,7 @@ The Planning tab lets you define the specific work slots and breaks for the reso
 3. Click the edit slot button.
 4. Add the specific work timings and click edit.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### To Manage Lunch Breaks:
 
@@ -77,7 +77,7 @@ The Planning tab lets you define the specific work slots and breaks for the reso
 3. Click edit to save the changes to the lunch break work slot.
 4. To delete a lunch break slot, click delete lunch break.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### Adding Days Off
 
@@ -90,7 +90,7 @@ Use the Days Of tab to schedule planned time off:
 
 ⚠ Warning: When setting days off, ensure that the "To date" (the end date) is higher (later) than the "From date" (the start date).
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### Finalizing Resource Creation
 
@@ -98,7 +98,7 @@ Use the Days Of tab to schedule planned time off:
 2. Click on Add.
 3. The resource will be created successfully.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## Productivity Tips
 
@@ -107,7 +107,7 @@ These tips will help you manage schedules and constraints quickly and efficientl
 * Understand Constraints: If you are uncertain about what a specific setting controls, always utilize the tool tip icons by hovering over them for a quick explanation.
 * Quickly Duplicate Work Slots: If a resource has multiple identical work slots, you can save time by clicking the duplicate work slot option and then clicking duplicate to quickly add a copy.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 * Managing capacity: Remember that you can always delete unwanted vehicle capacities by clicking the delete icon on the right side of the entry.
 
