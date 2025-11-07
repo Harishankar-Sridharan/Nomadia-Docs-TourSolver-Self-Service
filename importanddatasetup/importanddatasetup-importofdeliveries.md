@@ -15,20 +15,20 @@ The Import of Deliveries allows you to upload a list of addresses and customer i
 To begin importing your deliveries, you first need to navigate to the correct reporting area.
 
 1. From the main menu, go to **Deliveries**.
-2. You are now ready to access the Delivery Report interface.
+2. You are now ready to access the **Delivery Report interface.**
 
 #### Downloading Sample Data
 
 If you are unsure how to format your Excel file, you can download a sample template. Using the sample data ensures your file is ready for import immediately.
 
-1. Click on Download.
+1. Click on **Download**.
 2. The Excel file containing sample data will be downloaded.
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_14%E2%80%930_to_18.gif" alt=""><figcaption></figcaption></figure>
 
-💡 Tip : Always use the sample data provided if you are new to the system structure. This often reduces potential mapping errors later on!
+💡 **Tip** : Always use the sample data provided if you are new to the system structure. This often reduces potential mapping errors later on!
 
 ***
 
@@ -50,7 +50,7 @@ This task covers the process of uploading your delivery data, verifying field ma
 
 You need to tell the system which columns in your spreadsheet correspond to the systemʼs fields (like Customer ID or Name).
 
-1. Click on import to begin the process of importing your delivery data into the server
+1. Click on **import** to begin the process of importing your delivery data into the server
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,13 +71,13 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_58%E2%80%932_to_00.gif" alt=""><figcaption></figcaption></figure>
 
-* Click on show all to view all possible field options.
+* Click on **show all** to view all possible field options.
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
 
-* Click on customer ID option to map the customer ID column.
+* Click on **customer ID** option to map the customer ID column.
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -89,7 +89,7 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 <figure><img src="../.gitbook/assets/image%20(24).png" alt=""><figcaption></figcaption></figure>
 
-* Click on name to complete the mapping for the name field
+* Click on **name** to complete the mapping for the name field
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -99,7 +99,7 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 After confirming the data mapping, you can proceed to the map view and start planning.
 
-1. Click on next once the mapping is complete
+1. Click on **next** once the mapping is complete
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -111,20 +111,20 @@ After confirming the data mapping, you can proceed to the map view and start pla
 
 <figure><img src="../.gitbook/assets/image%20(27).png" alt=""><figcaption></figcaption></figure>
 
-3. Review the locations and their colors.
+3. Review the **locations** and their **colors**.
 4. If you see Gray locations, those addresses were not found by the system. You may need to review and correct those addresses in your original data before optimizing the route for accuracy
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(28).png" alt=""><figcaption></figcaption></figure>
 
-5. Click on optimize my routes to begin the route calculation
+5. Click on **optimize my routes** to begin the route calculation
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(29).png" alt=""><figcaption></figcaption></figure>
 
-6. Once you start the optimization, the system will begin the calculation process.
+6. Once you **start the optimization**, the system will begin the calculation process.
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
@@ -134,13 +134,13 @@ After confirming the data mapping, you can proceed to the map view and start pla
 
 When the map view appears, colors guide you to understand if your addresses were successfully located (geocoded):
 
-* Yellow color indicates that the location was successfully geocoded at the sheet level.
+* **Yellow color** indicates that the location was successfully geocoded at the sheet level.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(31).png" alt=""><figcaption></figcaption></figure>
 
-* Gray color indicates that the location was not geocoded.
+* **Gray color** indicates that the location was not geocoded.
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
