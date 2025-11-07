@@ -20,48 +20,48 @@ If you need to change a delivery address because of an error or a customer reque
 
 This procedure walks you through selecting a delivery, updating its location, and running a re-optimization to display the new route.
 
-1. Access the Optimization Screen
+1. Access the **Optimization Screen**
 
-* From the home page, Click on Optimization.
+* From the **home page**, Click on **Optimization**.
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Select the Delivery to Edit
+2. Select the **Delivery** to Edit
 
 * Select any one delivery details.
-* Click on the Edit button.
+* Click on the **Edit** button.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Enter the New Address
+3. Enter the **New Address**
 
-* Enter the new address in the Address field.
+* Enter the **new address** in the Address field.
 
 4. Locate and Confirm the New Address
 
 * Scroll down.
-* Click on Locate
+* Click on **Locate**
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Select the new address that you entered from the suggested options
+* Select the **new address** that you entered from the suggested options
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Save the Address Change
+5. Save the **Address Change**
 
-* Click on Edit.
+* Click on **Edit**.
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-6. Start the Route Re-optimization
+6. Start the **Route Re-optimization**
 
-* Click on Deliveries
-* Click on Optimize
+* Click on **Deliveries**
+* Click on **Optimize**
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Expected Outcome
+**Expected Outcome**
 
 After saving and optimizing, you will see immediate results:
 
