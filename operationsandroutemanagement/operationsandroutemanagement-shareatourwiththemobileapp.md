@@ -8,10 +8,6 @@ This guide walks you through the process of exporting a planned route ("tool" or
 
 To successfully share a tour, you must first access the optimization section and select a completed route.
 
-### System Requirements & Installation/Setup
-
-The sources focus on the process of _sharing_ the tour, not on the initial setup of the mobile application itself. However, the sharing process initiates the notification for the mobile user.
-
 | Account Type           | Notification Sent  | Content Sent                                                                |
 | ---------------------- | ------------------ | --------------------------------------------------------------------------- |
 | **Trial Version**      | SMS notification   | Link to download the mobile application                                     |
@@ -39,15 +35,15 @@ Follow these detailed steps to successfully share your optimized route with your
 
 ### Exporting and Sharing an Optimized Tour
 
-1. Click on Optimization
+1. Click on **Optimization**
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_09–0_to_15.gif)
 
-2. Choose the desired route from the list
+2. Choose the **desired route** from the list
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_15–0_to_21.gif)
 
-3. Click on Export and click on Share with the Mobile App
+3. Click on **Export** and click on **Share with the Mobile App**
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_21–0_to_26.gif)
 
@@ -55,13 +51,13 @@ Follow these detailed steps to successfully share your optimized route with your
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_39.png)
 
-6. Choose a Desired starting date
+6. Choose a **Desired starting date**
 
-&#x20;7\. **Set the End Date (To Date):** Choose a "to date".
+&#x20;7\. **Set the End Date (To Date):** Choose a "**to date**".
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_48.png)
 
-Note: The standard duration will be 1 day, but you can adjust the "to date" if necessary.\
+**Note**: The standard duration will be 1 day, but you can adjust the "to date" if necessary.\
 Date Selection interface showing From Date, To Date, and Duration (1 day)
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_57–1_to_06.gif)
@@ -70,7 +66,7 @@ Date Selection interface showing From Date, To Date, and Duration (1 day)
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_25–1_to_35.gif)
 
-9. Click on Send
+9. Click on **Send**
 
 ![](../images/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_35–1_to_43.gif)
 
