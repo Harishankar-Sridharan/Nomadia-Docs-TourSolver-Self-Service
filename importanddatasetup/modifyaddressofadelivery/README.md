@@ -31,7 +31,7 @@ This procedure walks you through selecting a delivery, updating its location, an
 * Select any one delivery details.
 * Click on the **Edit** button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the **New Address**
 
@@ -42,11 +42,11 @@ This procedure walks you through selecting a delivery, updating its location, an
 * Scroll down.
 * Click on **Locate**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select the **new address** that you entered from the suggested options
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Save the **Address Change**
 

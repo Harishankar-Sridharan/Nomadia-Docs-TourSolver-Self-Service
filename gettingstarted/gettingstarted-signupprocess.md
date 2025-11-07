@@ -45,7 +45,7 @@ If you already have the credentials, you can log in and skip this guide If you d
 2. Click on **Send Verification code**
 3. Type the **Verification code** received in your email and click on **Verify code**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_40%E2%80%930_to_41.gif" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ If you already have the credentials, you can log in and skip this guide If you d
 
 stating, _**“Your email has been verified.”**_
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@ Now you will configure additional details to set up your account.
 
 3. Click on **Create to proceed**.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_1_to_03%E2%80%931_to_08%20(1).gif" alt=""><figcaption></figcaption></figure>
 

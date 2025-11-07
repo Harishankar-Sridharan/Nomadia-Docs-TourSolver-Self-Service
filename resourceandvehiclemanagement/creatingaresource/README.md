@@ -53,7 +53,7 @@ If your resource is transporting goods, you must define their capacity limits:
 2. Click on the plus symbol **(+)** located at the bottom corner.
 3. Add the necessary vehicle capacities in the available fields.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **To Delete a Capacity Slot:** If you need to remove a capacity entry, click on the delete icon located on the right side.
 
@@ -68,7 +68,7 @@ The Planning tab lets you define the specific work slots and breaks for the reso
 3. Click the **edit slot** button.
 4. Add the specific work timings and click **edit**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### To Manage Lunch Breaks:
 
@@ -77,7 +77,7 @@ The Planning tab lets you define the specific work slots and breaks for the reso
 3. Click **edit** to save the changes to the lunch break work slot.
 4. To delete a lunch break slot, click **delete lunch break**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Adding Days Off
 

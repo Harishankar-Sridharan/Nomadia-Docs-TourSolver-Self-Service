@@ -12,15 +12,15 @@ You can start modifying resources and constraints directly from the systemʼs ho
 
 #### Access My Deliverers
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. Choose Your Modification Method You have two primary ways to modify a resource: team-wise (affecting a group) or individually.
+1. **Choose Your Modification Method:** You have two primary ways to modify a resource: team-wise (affecting a group) or individually.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Click the edit (pencil) icon next to the name
+2. Click the **edit** (pencil) icon next to the name
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3. You can start modifying the associated constraints.
 
@@ -44,18 +44,18 @@ Once you have accessed the constraint modification screen (using the pencil icon
 
 If a resource's start or end point changes, you can update it here.
 
-1. &#x20;Locate the Address: To modify the departure or arrival location in general, look for the relevant section (Departure Location or Arrival Location).
-2. Update Address: Modify the departure address as needed.
-3. Update Address: Modify the arrival location.
+1. &#x20;**Locate the Address**: To modify the departure or arrival location in general, look for the relevant section (Departure Location or Arrival Location).
+2. **Update Address**: Modify the departure address as needed.
+3. **Update Address**: Modify the arrival location.
 
 <figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_12–1_to_18.gif" alt=""><figcaption></figcaption></figure>
 
-&#x20;_Visual Guidance Placeholder:_ After modification, you will see the differences on the map. The color used will be different for the departure and the arrival locations (e.g., green or red).&#x20;
+After modification, you will see the differences on the map. The color used will be different for the departure and the arrival locations (e.g., green or red).&#x20;
 
 ### Updating Vehicle Capacities (Weight)
 
 1. &#x20;You can manage the maximum weight a resource's vehicle can carry.
-2. Modify Value: Modify the value of the weight. You can input this value in kilograms or grams.&#x20;
+2. **Modify Value**: Modify the value of the weight. You can input this value in kilograms or grams.&#x20;
 
 <figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_40–1_to_43.gif" alt=""><figcaption></figcaption></figure>
 
@@ -65,26 +65,28 @@ The Planning section controls when your resource is available to work. There are
 
 Use Simple View if the work hours are the same across all working days.
 
-1. Access Planning: Click on Planning.
-2. Access Time Slot: In Simple View, Click on the time slot.
-3. Edit Work Slot: Click on Edit Workslot.
-4. Set Start and End Times: Modify the start time and the end time.
-5. Confirm: Click on Edit.
+1. **Access Planning**: Click on Planning.
+2. **Access Time Slot**: In Simple View, Click on the time slot.
+3. **Edit Work Slot**: Click on Edit Workslot.
+4. **Set Start and End Times**: Modify the start time and the end time.
+5. **Confirm**: Click on **Edit**.
+
+<figure><img src="../../.gitbook/assets/sXA59cB1kH.png" alt=""><figcaption></figcaption></figure>
 
 #### Advanced View (Different Schedules for Different Days)
 
 Use Advanced View if you need to set unique start and end times for specific workdays.
 
-1. Access Planning: Click on Planning.
-2. Select Work Days: In Advanced View, you can modify "work days" (e.g., work day 1, work day 2, etc.). You can specify a range, such as 1 to 5, which represents Monday to Friday. You can also input specific days like 1, 2, 3, 4, 5.
-3. Make Adjustments: The clock image will display, allowing you to make your adjustments.
-4. Confirm Timing: After doing the modification inside the clock, Click on OK.&#x20;
+1. **Access Planning**: Click on Planning.
+2. **Select Work Days**: In Advanced View, you can modify "work days" (e.g., work day 1, work day 2, etc.). You can specify a range, such as 1 to 5, which represents Monday to Friday. You can also input specific days like 1, 2, 3, 4, 5.
+3. **Make Adjustments**: The clock image will display, allowing you to make your adjustments.
+4. **Confirm Timing**: After doing the modification inside the clock, Click on OK.&#x20;
 
 <figure><img src="../../images/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_3_to_33–3_to_43.gif" alt=""><figcaption></figcaption></figure>
 
 ### Saving All Modifications
 
-Once you have completed all necessary changes across Departure, Arrival, Capacity, and Planning:
+Once you have completed all necessary changes across **Departure, Arrival, Capacity, and Planning:**
 
 * The changes will be displayed successfully&#x20;
 
@@ -94,6 +96,6 @@ Once you have completed all necessary changes across Departure, Arrival, Capacit
 
 To help you get the most out of resource management:
 
-* Efficient Time Editing: Use the clock icon next to the time to quickly bring up the clock image and make precise time adjustments.
-* Quick Deletion: If you need to remove a specific vehicle capacity value, look immediately to the right side of the weight entry for the delete icon.
+* **Efficient Time Editing**: Use the clock icon next to the time to quickly bring up the clock image and make precise time adjustments.
+* **Quick Deletion**: If you need to remove a specific vehicle capacity value, look immediately to the right side of the weight entry for the delete icon.
 
