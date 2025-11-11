@@ -15,3 +15,5 @@
   * [Optimize your Deliveries](operationsandroutemanagement/operationsandroutemanagement-optimizeyourdeliveries.md)
   * [Share a Tour with the Mobile App](operationsandroutemanagement/operationsandroutemanagement-shareatourwiththemobileapp.md)
   * [Export my Routes](operationsandroutemanagement/operationsandroutemanagement-exportmyroutes.md)
+* [FAQ](faq/README.md)
+  * [Where is my data Hosted](faq/where-is-my-data-hosted.md)
