@@ -11,7 +11,7 @@
   * [Creating a Resource](resourceandvehiclemanagement/creatingaresource/README.md)
   * [Modifying a Resource and Associated Constraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints/README.md)
   * [Rename a Quantity of a Vehicle](resourceandvehiclemanagement/renameaquantityofavehicle/README.md)
-* [OperationsandRouteManagement](operationsandroutemanagement/README.md)
+* [Operations and Route Management](operationsandroutemanagement/README.md)
   * [Optimize your Deliveries](operationsandroutemanagement/operationsandroutemanagement-optimizeyourdeliveries.md)
   * [Share a Tour with the Mobile App](operationsandroutemanagement/operationsandroutemanagement-shareatourwiththemobileapp.md)
   * [Export my Routes](operationsandroutemanagement/operationsandroutemanagement-exportmyroutes.md)
