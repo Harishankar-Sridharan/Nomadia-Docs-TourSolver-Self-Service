@@ -12,13 +12,13 @@ To begin managing or creating a Depot, follow these steps:
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 2. From the **Actions menu**, click **Manage Depots**
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Understanding Depot Details
 
@@ -54,9 +54,9 @@ The most common task is adding a brand new Depot. This requires moving through t
 
 1. From the **Actions menu**, click **Add**.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 2. In the **General section**, enter the **required basic information.**
 
@@ -64,7 +64,7 @@ The most common task is adding a brand new Depot. This requires moving through t
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 3. Edit the **scheduling details.**
 
@@ -78,7 +78,7 @@ schedules.
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 4. To add or edit quantity details, click the **plus** symbol located at the bottom right corner.
 5. Update the inventory details.
@@ -87,13 +87,13 @@ schedules.
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 6. Depot has been created successfully
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Productivity Tips
 
@@ -108,12 +108,12 @@ You can easily manage multiple Depot entries at once using the import and export
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 3. Click **Import**, then select Browse Excel to choose a file and import it, or simply drag and drop your file into the upload area.
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 **Tip**: Using the Export feature first can be helpful if you want to create a template to correctly format the data before performing a bulk Import of new Depots.
