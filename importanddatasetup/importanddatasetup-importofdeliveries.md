@@ -133,6 +133,6 @@ When the map view appears, colors guide you to understand if your addresses were
 
 Here are a few ways to make your data import faster and more accurate:
 
-* 💡 **Prioritize Yellow:** When reviewing the map view, you know that yellow locations are reliable (geocoded at the sheet level). Focus your attention on any locations marked **Gray**.
+* 💡 **Prioritize Yellow:** When reviewing the map view, you know that yellow locations are reliable (geocoded at the sheets). Focus your attention on any locations marked **Gray**.
 * 💡 **Master Mapping Efficiency:** If you need to quickly change how a field is matched, remember you can choose to **ignore** the current mapping and then select the correct field name immediately. This is quicker than correcting the data in your spreadsheet outside of the system.
 
