@@ -30,25 +30,6 @@ The system offers key features that help you manage security, permissions, and t
 
 ## 4. Enabling Geolocation Tracking
 
-This process requires four main steps: navigating to the Optimization area, granting access, configuring permissions, and setting up the tracking view.
-
-### Enabling Web and Mobile Access
-
-This step ensures your delivery person can log into both the main system and the mobile application.
-
-1. Go to **optimization**.
-
-<div align="left"><img src="../.gitbook/assets/Unknown image" alt=""></div>
-
-2. Click on **Manage users**.
-
-![](<../.gitbook/assets/Unknown image (1)>)
-
-3. **Enable Access**: Enable the checkboxes for **web access** and **mobile access**.
-4. **Set Password**: Enter the **mobile application password**.
-
-<div align="left"><img src="../.gitbook/assets/Unknown image (2)" alt=""></div>
-
 ### Configure the Mobile App
 
 **Edit general settings.**&#x20;
@@ -73,9 +54,11 @@ This step ensures your delivery person can log into both the main system and the
 3. **Open Display Settings**: Click on **settings**.
 4. **Modify Tracking View**: Here you can adjust how the tracking information is displayed: **Available fields, Display fields, Appointments to be planned, Map and Agenda**
 
-<div align="left"><img src="../.gitbook/assets/Unknown image (6)" alt=""></div>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Click on the map to activate and display the geolocation history.
+
+
+3. Click on the map to activate and display the geolocation history.
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
