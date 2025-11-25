@@ -4,7 +4,7 @@
 
 The **Next Visits** feature is designed to automate notifications, letting your upcoming customers know that you are on your way. This ensures smooth communication and better preparation for your arrival.
 
-You can choose exactly how many future customers receive this message, customize the content, and decide whether to send it via email or SMS.
+You can choose exactly how many upcoming customers receive this message, customize the content, and decide whether to send it via email or SMS.
 
 ## 2. Initial Configuration
 
@@ -19,11 +19,6 @@ Your first step is to define how you will notify your upcoming customers.
 * If you enter **one**, the email is sent to the next customer.
 * If you enter **two**, the email is sent to the next two customers.
 * If you enter **three** (or any number you wish), the email is sent to that number of customers.
-
-**Enable Communication Channels** You must enable the methods you wish to use for sending notifications. You have options for both email and SMS.
-
-* Enable the **outgoing emails** setting.
-* Enable the **outgoing SMS** setting.
 
 ![](../.gitbook/assets/CustomerCommunication-NextVisits_timestamp_0_to_32–0_to_37.gif)
 
@@ -59,7 +54,7 @@ This task ensures your upcoming customers receive a tailored message notifying t
 
 ![](../.gitbook/assets/CustomerCommunication-NextVisits_timestamp_0_to_57–1_to_09.gif)
 
-4. **Review the Preview** Check the **preview** area to see exactly how the final email will look to the customer. This is your chance to review the message before saving.
+4. **Review the Subject:** Check the **preview** area to see exactly how the final email will look to the customer. This is your chance to review the message before saving.
 5. **Save Your Settings** Once you have entered and modified all the necessary information, click on **save**.
 
 ![](../.gitbook/assets/CustomerCommunication-NextVisits_timestamp_1_to_43–1_to_49.gif)

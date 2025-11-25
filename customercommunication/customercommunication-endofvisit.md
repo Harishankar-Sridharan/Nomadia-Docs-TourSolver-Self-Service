@@ -66,7 +66,7 @@ Follow these steps to customize the message body and confirm the final appearanc
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_54–0_to_59.gif)
 
 4. **Preview the Final Email:**
-   * Review the **Subject of the email that will be sent to the customer**. This is your chance to verify the message looks correct before it goes out.
+   * Review the **Subject:** Check the **preview** area to see exactly how the final email will look to the customer. This is your chance to review the message before saving
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_59–1_to_06.gif)
 
