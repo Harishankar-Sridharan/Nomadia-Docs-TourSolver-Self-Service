@@ -54,9 +54,7 @@ The system offers key features that help you manage security, permissions, and t
 3. **Open Display Settings**: Click on **settings**.
 4. **Modify Tracking View**: Here you can adjust how the tracking information is displayed: **Available fields, Display fields, Appointments to be planned, Map and Agenda**
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/msedge_JSKBVsBhcV.png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the map to activate and display the geolocation history.
 
