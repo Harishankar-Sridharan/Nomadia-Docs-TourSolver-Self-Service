@@ -42,24 +42,6 @@ This task walks you through selecting the time frame and launching the route cal
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-#### Adjusting the Planning Period (Number of Days)
-
-If you need to change how many days the system should plan routes for, you can configure this setting within **My Deliverers**.
-
-1. Go to **My Deliveries**.
-2. Locate the resource associated with the delivery.
-
-<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_53–0_to_56.gif" alt=""><figcaption></figcaption></figure>
-
-3. Click on **Planning**
-
-<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_58–1_to_00.gif" alt=""><figcaption></figcaption></figure>
-
-3. **Edit Days:** Change the value to the new number of days you wish to use for planning.
-4. Click on **Save**
-
-<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_09–1_to_12.gif" alt=""><figcaption></figcaption></figure>
-
 #### Viewing Optimization Results
 
 1. Click on Start Optimization
@@ -79,6 +61,26 @@ If you need to change how many days the system should plan routes for, you can c
 4. Deliveries have been optimized successfully.
 
 <figure><img src="../.gitbook/assets/msedge_wwsjK0kmFX.png" alt=""><figcaption></figcaption></figure>
+
+#### Adjusting the Planning Period (Number of Days)
+
+If you need to change how many days the system should plan routes for, you can configure this setting within **My Deliverers**.
+
+1. Go to **My Deliverers**
+2. Locate the resource associated with the delivery.
+
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_53–0_to_56.gif" alt=""><figcaption></figcaption></figure>
+
+3. Click on **Planning**
+
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_58–1_to_00.gif" alt=""><figcaption></figcaption></figure>
+
+3. **Edit Days:** Change the value to the new number of days you wish to use for planning.
+4. Click on **Save**
+
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_09–1_to_12.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 6. Productivity Tips
 

@@ -42,10 +42,9 @@ Once you have accessed the constraint modification screen (using the pencil icon
 If a resource's start or end point changes, you can update it here.
 
 1. **Locate the Address**: To modify the departure or arrival location in general, look for the relevant section (Departure Location or Arrival Location).
-2. **Update Address**: Modify the departure address as needed.
-3. **Update Address**: Modify the arrival location.
+2. **Update Address**: Modify the departure and the arrival address as needed.
 
-<figure><img src="../.gitbook/assets/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_0_to_51–1_to_00.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_RNA0zxJ63x.png" alt=""><figcaption></figcaption></figure>
 
 After modification, you will see the differences on the map. The color used will be different for the departure and the arrival locations (e.g., green or red).
 
@@ -54,7 +53,9 @@ After modification, you will see the differences on the map. The color used will
 1. You can manage the maximum weight a resource's vehicle can carry.
 2. **Modify Value**: Modify the value of the weight. You can input this value in kilograms or grams.
 
-<figure><img src="../.gitbook/assets/ResourceandVehicleManagement-ModifyingaResourceandAssociatedConstraints_timestamp_1_to_40–1_to_43.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_cr7wroP95P (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 The Planning section controls when your resource is available to work. There are two methods for modifying work times: Simple View and Advanced View.
 

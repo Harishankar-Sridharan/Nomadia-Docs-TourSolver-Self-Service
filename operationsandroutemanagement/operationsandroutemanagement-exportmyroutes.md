@@ -57,8 +57,6 @@ By clicking the **export option** and selecting **other**, you unlock a wide arr
 
 This is the most common task and includes selecting the route, choosing the destination, configuring settings, and finalizing the download.
 
-#### Step-by-Step Guide
-
 Follow these steps to successfully export your selected route:
 
 **Locate Optimization Section**
