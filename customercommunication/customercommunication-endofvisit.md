@@ -40,14 +40,16 @@ Before sending your first message, you must enable the basic communication chann
 
 This feature offers flexibility and clear documentation delivery.
 
-| Feature                                   | Description                                                                                       | Benefit                                                                                                                      |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Outgoing Email & SMS**                  | Automatically sends confirmation messages via email and/or text message once the job is complete. | **Immediate Confirmation:** Customers receive instant notification that the service is done.                                 |
-| **PDF Report Attachment**                 | Attaches the intervention report containing proof details like signatures, name, and address.     | **Official Documentation:** Provides customers with verifiable proof of service/delivery completion.                         |
-| **Mode Selection (Standard or Advanced)** | Allows you to select the level or complexity of the communication settings.                       | **Customization:** Gives you control over how the message is formatted and delivered.                                        |
-| **Editable Message Body**                 | You can view and customize the message that is sent to the customer.                              | **Personalization:** Ensures the message tone and content align with your company’s brand and specific service requirements. |
-
-***
+| Feature                      | Description                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
+| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
+| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
+| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
+| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
+| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
+| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
 
 ## 4. Customizing and Reviewing the Subject
 

@@ -28,16 +28,16 @@ Your first step is to define how you will notify your upcoming customers.
 
 The strength of this tool lies in its customization and trigger mechanism.
 
-| Feature                            | Usefulness/Benefit                                                                                                                                                            |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Send to Next Customers Setting** | Allows you to precisely control how many upcoming customers receive the "arriving soon" message (e.g., 1, 2, or 3).                                                           |
-| **Email Subject Editing**          | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                                                                   |
-| **Message Body Editing**           | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details.                                            |
-| **Personalization Tags ($)**       | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time.                                         |
-| **Preview Window**                 | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.                                               |
-| **"Delivered" Trigger**            | The system only sends the notification once you enter the option **delivered** for the _current_ customer, automatically triggering the message to the next set of customers. |
-
-###
+| Feature                      | Description                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
+| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
+| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
+| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
+| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
+| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
+| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
 
 ## 4. Customize and Save the Customer Communication Settings
 

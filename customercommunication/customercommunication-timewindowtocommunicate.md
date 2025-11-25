@@ -18,18 +18,16 @@ The **Time Window to Communicate** feature allows you to define the exact timefr
 
 This feature is powerful because it allows you to control exactly how the arrival information is calculated and delivered.
 
-| Feature Component                     | Context and Usefulness                                                                                                                       |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Time Window Selection**             | You must select the method used to calculate the arrival time window. Use the drop-down menu to select **Time Window**.                      |
-| **Email Subject Editing**             | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                                  |
-| **Message Body Editing**              | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details.           |
-| **Personalization Tags ($)**          | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time.        |
-| **Preview Window**                    | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.              |
-| **Communicated Time Window Duration** | This sets the length of the window communicated to the customer (e.g., if you enter 120 minutes, the customer sees a 2-hour arrival window). |
-| **Time Window Reference Time**        | This is the specific time used as the starting point for calculating the communicated time window. Click the clock icon to select this time. |
-| **Date and Time of Planned Visit**    | This crucial input ensures the arrival window is tied to the actual service schedule. Select the date and time using the clock icon.         |
-
-
+| Feature                      | Description                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
+| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
+| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
+| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
+| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
+| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
+| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
 
 ## 4. Setting Up the Customer Communication Time Window and Notifications
 

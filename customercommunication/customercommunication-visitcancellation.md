@@ -20,12 +20,16 @@ Before processing a cancellation, you must ensure that communication channels ar
 
 This feature streamlines communication and logistics when a delivery attempt fails due to customer unavailability.
 
-| Feature                         | Context and Usefulness                                                                         | Benefit to You                                                                                            |
-| ------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Status Change**               | Allows you to change the status from "**Accepted**" to **"Cancelled:**                         | Prevents inaccurate fulfillment records and keeps the order active for rescheduling.                      |
-| **Outgoing Email/SMS**          | Provides the customer with the **reason for cancellation** and the **rescheduling link**.      | Immediately informs the customer and empowers them to select a new time, reducing manual follow-up calls. |
-| **Email /** **SMS** **Preview** | Allows you to **see the preview of the email** before it is sent.                              | Ensures the message body (which contains the reason and rescheduling date) looks professional and clear.  |
-| **Fulfillment Tab Listing**     | Canceled visits are listed under the **Fulfillment tab** in the **to be rescheduled** section. | Centralizes all appointments needing new dates, making it easier for the deliverer to manage logistics.   |
+| Feature                      | Description                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
+| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
+| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
+| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
+| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
+| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
+| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
 
 💡 **Tip:** The body of the email automatically includes the **reason for cancellation** and the **rescheduling date** information.
 

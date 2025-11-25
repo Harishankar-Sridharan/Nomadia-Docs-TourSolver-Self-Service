@@ -16,15 +16,16 @@ To start using this feature, you must first navigate to **Upcoming Arrival**
 
 The Upcoming Arrival feature enables proactive communication, ensuring customers are ready to receive their items.
 
-| Feature                    | Description                                                                                                          | Benefit for You and Your Customer                                                              |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **ETA Link**               | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes. | Customers receive crucial timing information instantly.                                        |
-| **Live Location Tracking** | The link allows the customer to track the live location of the delivery (or deliverer).                              | Reduces customer anxiety and inbound calls about delivery whereabouts.                         |
-| **Outgoing Email**         | Option to enable sending the ETA link via email.                                                                     | Provides a formal, easily accessible communication channel that customers can reference later. |
-| **Outgoing SMS**           | Option to enable sending the ETA link via text message.                                                              | Ensures rapid, high-priority communication, reaching customers even without internet access.   |
-| **Email Preview**          | Ability to view the content of the communication before saving.                                                      | Allows you to confirm accuracy and professional presentation of the message.                   |
-
-***
+| Feature                      | Description                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
+| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
+| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
+| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
+| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
+| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
+| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
 
 ## 4. Setting Up Customer Notifications
 
