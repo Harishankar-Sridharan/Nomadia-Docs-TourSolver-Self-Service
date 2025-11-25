@@ -34,7 +34,7 @@ Before sending your first message, you must enable the basic communication chann
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_35–0_to_42.gif)
 
-***
+5. Click the **Save** button to apply changes to the modified template.
 
 ## 3. Feature Explanations with Benefits
 
@@ -49,7 +49,7 @@ This feature offers flexibility and clear documentation delivery.
 
 ***
 
-## 4. Customizing and Reviewing the Customer Message
+## 4. Customizing and Reviewing the Subject
 
 Follow these steps to customize the message body and confirm the final appearance of the email.
 
@@ -66,7 +66,7 @@ Follow these steps to customize the message body and confirm the final appearanc
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_54–0_to_59.gif)
 
 4. **Preview the Final Email:**
-   * Review the **preview of the email that will be sent to the customer**. This is your chance to verify the message looks correct before it goes out.
+   * Review the **Subject of the email that will be sent to the customer**. This is your chance to verify the message looks correct before it goes out.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_59–1_to_06.gif)
 
