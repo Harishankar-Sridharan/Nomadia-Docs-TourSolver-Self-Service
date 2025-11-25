@@ -13,7 +13,7 @@ To begin defining a new resource profile:
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-## 3. Feature Explanations and Context
+## 3. Feature Explanations and Benefits
 
 * Creating a resource involves filling out several tabs that define how your staff member operates, travels, and when they are available.
 * **Resource Details (General Info**): This is where you identify the staff member by name and specify their starting point, known as the departure location.
@@ -24,11 +24,9 @@ To begin defining a new resource profile:
 
 💡 Tip: If you are ever unsure about a specific field or constraint while entering details, you can hover over the tool tip icons for clarification. Each tool tip provides a short explanation of what that constraint controls.
 
-## 4. Detailed Steps for Resource Creation
+## 4. Resource Creation
 
 Follow these steps to successfully create and define your new delivery staff member or driver.
-
-### Defining Basic Resource Information
 
 1. Enter the **full resource name**.
 2. Enter the **departure location** (where the resource starts their shift).
