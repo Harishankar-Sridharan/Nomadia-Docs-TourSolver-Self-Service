@@ -21,6 +21,10 @@ This feature is powerful because it allows you to control exactly how the arriva
 | Feature Component                     | Context and Usefulness                                                                                                                       |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Time Window Selection**             | You must select the method used to calculate the arrival time window. Use the drop-down menu to select **Time Window**.                      |
+| **Email Subject Editing**             | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                                  |
+| **Message Body Editing**              | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details.           |
+| **Personalization Tags ($)**          | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time.        |
+| **Preview Window**                    | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.              |
 | **Communicated Time Window Duration** | This sets the length of the window communicated to the customer (e.g., if you enter 120 minutes, the customer sees a 2-hour arrival window). |
 | **Time Window Reference Time**        | This is the specific time used as the starting point for calculating the communicated time window. Click the clock icon to select this time. |
 | **Date and Time of Planned Visit**    | This crucial input ensures the arrival window is tied to the actual service schedule. Select the date and time using the clock icon.         |
