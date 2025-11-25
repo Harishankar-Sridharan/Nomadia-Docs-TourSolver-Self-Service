@@ -13,13 +13,7 @@ To successfully share a tour, you must first access the optimization section and
 | **Trial Version**      | SMS notification   | Link to download the mobile application                                     |
 | **Subscribed Version** | Notification Email | Notification to all selected mobile app users that the tour has been shared |
 
-## 3. Understanding Notifications
-
-After you share the tour, the system determines how notifications are delivered depending on your account settings.
-
-<figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_06–1_to_16.gif" alt=""><figcaption></figcaption></figure>
-
-## 4. Feature Explanations with Benefits
+## 3. Feature Explanations with Benefits
 
 The **Share with the Mobile App** feature is crucial for connecting your planning efforts with real-world execution.
 
@@ -27,7 +21,13 @@ The **Share with the Mobile App** feature is crucial for connecting your plannin
 * **Date-Specific Sharing:** You can control the exact date range for which the tour is active and accessible on the mobile app. Sharing a tour for a specific date range (e.g., 1 day duration) confirms exactly which deliveries should be performed on the selected date(s).
 * **Confirmation Feedback:** The system provides clear feedback regarding how many deliveries are being shared and how many notifications are being sent to mobile users.
 
-***
+## 4. Understanding Notifications
+
+After you share the tour, the system determines how notifications are delivered depending on your account settings.
+
+<figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_06–1_to_16.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 5. Sharing a Tour
 
