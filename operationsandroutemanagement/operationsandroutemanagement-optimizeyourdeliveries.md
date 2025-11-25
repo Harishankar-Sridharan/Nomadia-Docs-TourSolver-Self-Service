@@ -10,8 +10,6 @@ The **Optimize your Deliveries** feature streamlines your operations by calculat
 
 To begin using the optimization feature, it is assumed that you have already imported your delivery data into the system.
 
-## 3. Accessing the Optimization Screen
-
 Before you can start optimizing, you must navigate to the starting point of the process.
 
 1. Navigate to **My Deliveries**.
@@ -20,7 +18,7 @@ Before you can start optimizing, you must navigate to the starting point of the 
 
 ***
 
-## 4. Feature Explanations and Benefits
+## 3. Feature Explanations and Benefits
 
 The **Optimize your Deliveries** offers two primary customization features that give you control over how routes are planned:
 
@@ -29,7 +27,7 @@ The **Optimize your Deliveries** offers two primary customization features that 
 * **Editable Optimization Dates:** You can specify exactly when the optimized routes should begin running by entering or editing the start date and the end date.
 * **Editable Planning Days:** You have the ability to adjust the number of days the system should plan for. This is useful if your operational needs change.
 
-## 5. Starting Route Optimization
+## 4. Starting Route Optimization
 
 This task walks you through selecting the time frame and launching the route calculation process.
 
@@ -82,7 +80,7 @@ If you need to change how many days the system should plan routes for, you can c
 
 
 
-## 6. Productivity Tips
+## 5. Productivity Tips
 
 * ⏳ **Tip: Be Patient with Large Jobs:** If you have many deliveries that need optimization, the process may take longer than expected. This is normal because the system is performing complex calculations.
 * ✅ **Tip: Check Results Early:** You don't always have to wait for the entire process to finish. If you need a preliminary result quickly, you can click **Stop and see the result** at any time during the calculation.
