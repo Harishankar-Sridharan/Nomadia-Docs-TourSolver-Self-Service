@@ -23,7 +23,19 @@ Using one of the above browsers ensures the best performance and full access to 
 
 TourSolver is a fully cloud-based solution hosted on Microsoft Azure, requiring no local installation.
 
-## 3. Creating Your Account
+## 3. Feature Explanations with Benefits
+
+Once you complete the signup process, your TourSolver account is ready.
+
+The benefit of the Trial account is that it allows you to test the platform immediately. During the trial period, you can explore the platform with the following limits:
+
+* Up to 5 drivers
+* Up to 5 route optimizations per day
+* Up to 250 deliveries per optimization
+
+These limits allow you to test real-world scenarios and experience the platformʼs full functionality without any complex setup.
+
+## 4. Creating Your Account
 
 ### Verify Your Email Address
 
@@ -81,20 +93,6 @@ After creating your profile, you will automatically reach the Onboarding Page to
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on **Letʼs Go**
-
-***
-
-## 4. Feature Explanations with Benefits
-
-Once you complete the signup process, your TourSolver account is ready.
-
-The benefit of the Trial account is that it allows you to test the platform immediately. During the trial period, you can explore the platform with the following limits:
-
-* Up to 5 drivers
-* Up to 5 route optimizations per day
-* Up to 250 deliveries per optimization
-
-These limits allow you to test real-world scenarios and experience the platformʼs full functionality without any complex setup.
 
 ***
 
