@@ -33,11 +33,9 @@ The constraints are the rules that govern when, where, and how a resource operat
 
 **Tip**: To learn more about any other constraints, please refer to the constraint documentation.
 
-## 4. Detailed Modification Steps
+## 4. Modifying Departure and Arrival Locations
 
 Once you have accessed the constraint modification screen (using the pencil icon), follow the steps below to update specific resource details.
-
-### Modifying Departure and Arrival Locations
 
 If a resource's start or end point changes, you can update it here.
 
