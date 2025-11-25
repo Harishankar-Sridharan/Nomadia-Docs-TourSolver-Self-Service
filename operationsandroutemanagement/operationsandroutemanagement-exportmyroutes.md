@@ -4,6 +4,8 @@
 
 This guide will teach you how to select, customize, and export your completed routes using the route management system. Whether you need to share results with a team member via Excel or integrate data into a calendar, this process is designed to be straightforward and effective.
 
+## 2. Initial Configuration
+
 **Customizing Your Excel Export Settings**
 
 When you choose to export to Excel, the system provides several options to tailor the resulting file.
@@ -35,7 +37,7 @@ You can choose which specific columns (fields) appear in your exported file.
 
 ***
 
-## 2. Feature Explanations and Benefits
+## 3. Feature Explanations and Benefits
 
 The primary benefit of the route export feature is its flexibility, allowing you to quickly share data in formats suitable for various stakeholders.
 
@@ -53,7 +55,7 @@ By clicking the **export option** and selecting **other**, you unlock a wide arr
 | **Export to KML format Google etc.**                             | Standard format for viewing geospatial data (like routes) in mapping tools (e.g., Google Earth). |
 | **Export to Webhook**                                            | Facilitates automated data transfer to other operational systems.                                |
 
-## 3. Exporting a Route to Excel
+## 4. Exporting a Route to Excel
 
 This is the most common task and includes selecting the route, choosing the destination, configuring settings, and finalizing the download.
 
@@ -99,7 +101,7 @@ Follow these steps to successfully export your selected route:
 
 ***
 
-## 4. Productivity Tips
+## 5. Productivity Tips
 
 Here are some ways to make the route exporting process more efficient:
 
