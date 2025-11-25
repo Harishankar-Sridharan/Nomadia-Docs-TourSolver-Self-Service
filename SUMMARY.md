@@ -38,3 +38,5 @@
   * [12. How do I optimize geocoding in TourSolver?](faq/12.-how-do-i-optimize-geocoding-in-toursolver.md)
   * [13. Why do I have waiting time in my route plan?](faq/13.-why-do-i-have-waiting-time-in-my-route-plan.md)
   * [14. How can I prioritize certain time slots?](faq/14.-how-can-i-prioritize-certain-time-slots.md)
+  * [15. How to obtain an invoice?](faq/15.-how-to-obtain-an-invoice.md)
+  * [16. How to modify my subscription](faq/16.-how-to-modify-my-subscription.md)
