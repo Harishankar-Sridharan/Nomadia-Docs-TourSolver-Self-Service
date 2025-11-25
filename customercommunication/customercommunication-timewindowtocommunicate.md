@@ -58,10 +58,13 @@ Follow these steps to define the precise time window and enable communication fo
 6. **Review Calculated Time Window:**
    * The system will display the **time window communicated to the customer**.
    * For example, if you set the duration to 2 hours, the system might calculate the window as 10 a.m. to 12 p.m..
-7. **Enable Email Communication:**
-   * You can enable the **outgoing emails** option.
-   * Review the message that must be sent to the customer below this section.
-   * Use the **$** symbol to add keywords and update the default template as needed.
+7.  **Enable Email Communication:**
+
+    * You can enable the **outgoing emails** option.
+    * Review the message that must be sent to the customer below this section.
+    * **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
+
+    &#x20;      💡 **Tip:** Using personalization tags makes the message feel more direct and professional
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_1_to_42–2_to_02.gif)
 
