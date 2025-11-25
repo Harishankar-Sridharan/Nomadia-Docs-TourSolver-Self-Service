@@ -4,7 +4,7 @@
 
 Welcome to your guide for efficiently managing and updating your delivery resources and their key restrictions, or "constraints". Knowing how to modify a resource—whether it's adjusting a team's availability or changing an individual's vehicle capacity—is essential for smooth operations. In this guide, you will learn exactly how to change scheduling, locations, and capacities quickly and successfully
 
-## 2. Accessing the Resource Management Area
+## 2. Initial Configuration
 
 You can start modifying resources and constraints directly from the systemʼs homepage.
 

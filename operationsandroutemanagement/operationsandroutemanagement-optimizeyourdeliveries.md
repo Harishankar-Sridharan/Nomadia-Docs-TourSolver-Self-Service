@@ -6,7 +6,7 @@ The **Optimize your Deliveries** feature streamlines your operations by calculat
 
 ***
 
-## 2. Getting Started
+## 2. Initial Configuration
 
 To begin using the optimization feature, it is assumed that you have already imported your delivery data into the system.
 

@@ -4,7 +4,7 @@
 
 Welcome to TourSolver! This guide will provide clear, step-by-step instructions for signing up for your TourSolver account. By following these steps, you will quickly create your credentials and gain initial access to the platform.
 
-## 2. Getting Started
+## 2. Initial Configuration
 
 Creating your account involves three main stages: verifying your email, setting your profile details, and finalizing your company setup.
 

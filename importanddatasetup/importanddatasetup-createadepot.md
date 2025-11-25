@@ -4,7 +4,7 @@
 
 A Depot is essentially a location—a warehouse, service center, or hub—that you need to manage for scheduling and resource allocation. By following this guide, you will learn exactly how to create these important locations efficiently and accurately.
 
-## 2. Navigating to Manage Depots
+## 2. Initial Configuration
 
 To begin managing or creating a Depot, follow these steps:
 

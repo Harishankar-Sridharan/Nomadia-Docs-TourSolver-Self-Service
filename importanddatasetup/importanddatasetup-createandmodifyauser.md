@@ -4,7 +4,7 @@
 
 This guide provides step-by-step instructions for setting up new team members and updating the details, roles, or schedules of current users. By following these simple steps, you will be able to manage access settings confidently and efficiently!
 
-## 2. Navigating to Manage Users
+## 2. Initial Configuration
 
 The first step for creating or modifying any user is accessing the main configuration area from the homepage.
 

@@ -4,7 +4,7 @@
 
 The **Time Window to Communicate** feature allows you to define the exact timeframe communicated to your customer regarding an upcoming visit. This calculates the arrival window and manages outgoing communication via email and SMS.
 
-## 2. Initial Access
+## 2. Initial Configuration
 
 1. Click on **Time Window to communicate**.
 

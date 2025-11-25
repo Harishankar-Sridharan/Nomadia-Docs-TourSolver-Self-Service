@@ -4,7 +4,7 @@
 
 This guide walks you through the process of exporting a planned route to the mobile application used by your field team. This process ensures mobile users receive an email or SMS notification containing the shared tour and its associated deliveries.
 
-## 2. Getting Started Section
+## 2. Initial Configuration
 
 To successfully share a tour, you must first access the optimization section and select a completed route.
 

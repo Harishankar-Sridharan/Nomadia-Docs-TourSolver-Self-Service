@@ -4,7 +4,7 @@
 
 Welcome! This guide will walk you through the simple steps of defining a Resource such as a delivery staff member or a driver—within TourSolver. Our goal is to make sure you can set up your team members accurately and confidently, allowing the system to manage vehicle assignments, work schedules, and time off effectively.
 
-## 2. Navigating to Resource Page
+## 2. Initial Configuration
 
 To begin defining a new resource profile:
 

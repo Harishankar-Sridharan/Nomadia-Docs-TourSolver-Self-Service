@@ -4,7 +4,7 @@
 
 Being able to locate your delivery team in real-time is crucial for effective resource management. This guide simplifies the process of enabling the necessary access and configuring the mobile application settings so you can easily track your delivery people.
 
-## 2. Getting Started
+## 2. Initial Configuration
 
 Before starting, the system assumes that you have already set up the delivery people and their planned routes. If these steps are not complete, you must first create the delivery, the delivery people, and the route.
 

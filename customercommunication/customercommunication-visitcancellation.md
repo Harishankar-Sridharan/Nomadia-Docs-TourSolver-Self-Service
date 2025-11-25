@@ -6,9 +6,7 @@ The Visit Cancellation feature is essential when a **customer is not available w
 
 When you activate a visit cancellation, the system automatically sends an email to the customer containing the reason for the cancellation and a direct link for them to reschedule.
 
-## 2. Getting Started&#x20;
-
-#### Initial Configuration: Enabling Communications
+## 2. Initial Configuration&#x20;
 
 Before processing a cancellation, you must ensure that communication channels are active so the customer receives the rescheduling link.
 

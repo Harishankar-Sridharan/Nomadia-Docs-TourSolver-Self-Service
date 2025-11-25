@@ -4,7 +4,7 @@
 
 The **Customer Communication General Configuration** screen allows you to enable, disable, and customize the foundational settings for sending outgoing messages to your customers. You have the power to control both the **customer outgoing email service** and the **customer outgoing SMS service**.
 
-## 2. Accessing the Settings
+## 2. Initial Configuration
 
 To begin configuring your customer communication preferences, you need to navigate to the General Configuration screen:
 

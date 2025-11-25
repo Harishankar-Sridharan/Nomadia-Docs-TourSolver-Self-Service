@@ -8,7 +8,7 @@ The Import of Deliveries allows you to upload a list of addresses and customer i
 
 ***
 
-## 2. Getting Started
+## 2. Initial Configuration
 
 #### Accessing My Deliveries
 
