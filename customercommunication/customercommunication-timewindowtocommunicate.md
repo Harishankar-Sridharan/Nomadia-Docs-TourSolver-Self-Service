@@ -25,11 +25,6 @@ This feature is powerful because it allows you to control exactly how the arriva
 | **Time Window Reference Time**        | This is the specific time used as the starting point for calculating the communicated time window. Click the clock icon to select this time. |
 | **Date and Time of Planned Visit**    | This crucial input ensures the arrival window is tied to the actual service schedule. Select the date and time using the clock icon.         |
 
-**Communication Capabilities:**
-
-* **Outgoing Emails:** You have the ability to enable outgoing emails. You can view a preview of the message that will be sent to the customer.
-* **Outgoing SMS:** You can also enable outgoing SMS communication. Here, you can see the message that will be sent to the customer and view its preview.
-
 
 
 ## 4. Setting Up the Customer Communication Time Window and Notifications
