@@ -4,17 +4,22 @@
 
 Welcome! This guide shows you exactly how to update the address for an existing delivery and ensure your routes are instantly updated
 
-## 2. Feature Explanations
+## 2. Initial Configuration
+
+* **Set Notification Preferences**
+  * Turn on the **notification toggle** so customers receive SMS/email when an address is changed.
+* **Ensure Data Accuracy**
+  * Enter customer phone numbers in **international format** and use the **District column** to improve geocoding precision after modifications.
+
+## 3. Feature Explanations and Benefits
 
 The core benefit of the address modification feature is its ability to ensure accurate and efficient delivery routing when details change.
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Feature</td><td valign="top">Context and Benefit</td></tr><tr><td valign="top">Address Modification</td><td valign="top">Allows you to quickly correct or update the location of a specific delivery using the Address field</td></tr><tr><td valign="top">Re-optimization</td><td valign="top">Once you save the new address, the system automatically recalculates the optimal route. This means the new distance and the travel time will be recalculated instantly after the re-optimization.</td></tr></tbody></table>
 
-## 3. How to Modify a Delivery Address and Update the Route
 
-If you need to change a delivery address because of an error or a customer request, follow these simple steps to ensure your routes are immediately adjusted.
 
-### Update an Existing Delivery Address and Recalculate the Route
+## 4. Update an Existing Delivery Address and Recalculate the Route
 
 This procedure walks you through selecting a delivery, updating its location, and running a re-optimization to display the new route.
 
