@@ -29,6 +29,10 @@ This feature streamlines communication and logistics when a delivery attempt fai
 
 💡 **Tip:** The body of the email automatically includes the **reason for cancellation** and the **rescheduling date** information.
 
+**Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
+
+💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
+
 ![](../.gitbook/assets/CustomerCommunication-VisitCancellation_timestamp_0_to_34–0_to_41.gif)
 
 

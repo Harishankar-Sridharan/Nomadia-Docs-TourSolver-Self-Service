@@ -63,8 +63,12 @@ Follow these steps to define the precise time window and enable communication fo
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_1_to_42–2_to_02.gif)
 
-8. **Enable SMS Communication (Optional):**
-   * You can also enable the **outgoing SMS** option.
+8.  **Enable SMS Communication (Optional):**
+
+    * You can also enable the **outgoing SMS** option.
+    * **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
+
+    > 💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_2_to_02–2_to_22.gif)
 

@@ -65,8 +65,14 @@ Follow these steps to customize the message body and confirm the final appearanc
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_54–0_to_59.gif)
 
-4. **Preview the Final Email:**
-   * Review the **Subject:** Check the **preview** area to see exactly how the final email will look to the customer. This is your chance to review the message before saving
+4.  **Preview the Final Email:**
+
+    * Review the **Subject:** Check the **preview** area to see exactly how the final email will look to the customer. This is your chance to review the message before saving
+    * **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
+
+    > 💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
+
+
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_59–1_to_06.gif)
 

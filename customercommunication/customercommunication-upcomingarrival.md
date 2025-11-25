@@ -30,26 +30,26 @@ The Upcoming Arrival feature enables proactive communication, ensuring customers
 
 This is the primary action you will perform: choosing the communication channels for the ETA and live location link.
 
-#### Step-by-Step Procedure:
-
 1. **Access the Configuration:** Navigate to and click on **Upcoming Arrival** (see Initial Configuration steps above).
 2. **Enable Email Communication:** Select the option to enable **outgoing emails**.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_0_to_24.png)
 
 3. **Enable SMS Communication (Optional):** Select the option to enable **outgoing SMS**.
+4. **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
+
+&#x20;      💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_0_to_31.png)
 
 
 
-4\. **Review the Message Content (Recommended):** To confirm the customer experience, select the option to **see the preview of the email**.
-
-5\. **Save Your Settings:** Once you are satisfied with the enabled channels and the preview, click on **save**.
+5. **Review the Message Content (Recommended):** To confirm the customer experience, select the option to **see the preview of the email**.
+6. **Save Your Settings:** Once you are satisfied with the enabled channels and the preview, click on **save**.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_1_to_19–1_to_25.gif)
 
-6. The customer will receive the following email.&#x20;
+7. The customer will receive the following email.&#x20;
 
 <figure><img src="../.gitbook/assets/msedge_0JrRthQwup.png" alt=""><figcaption></figcaption></figure>
 
