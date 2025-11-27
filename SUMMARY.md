@@ -40,3 +40,4 @@
   * [14. How can I prioritize certain time slots?](faq/14.-how-can-i-prioritize-certain-time-slots.md)
   * [15. How to obtain an invoice?](faq/15.-how-to-obtain-an-invoice.md)
   * [16. How to modify my subscription?](faq/16.-how-to-modify-my-subscription.md)
+  * [17. Which countries are covered by TourSolver?](faq/17.-which-countries-are-covered-by-toursolver.md)

@@ -41,7 +41,7 @@ These limits allow you to test real-world scenarios and experience the platform 
 
 This first crucial step verifies your identity and secures your new account.
 
-Use the following URL to begin the sign-up process for TourSolver - [Access/TourSolver](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home)
+Use the following URL to begin the sign-up process for TourSolver - [Access/TourSolver](https://cloud.nomadia-app.com/ToursolverCloud)
 
 If you already have the credentials, you can log in and skip this guide If you don ºt have an account, click **Sign up now**.
 
