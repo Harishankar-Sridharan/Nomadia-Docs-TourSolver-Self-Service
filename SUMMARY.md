@@ -27,7 +27,7 @@
   * [1. Where is my data hosted?](faq/1.-where-is-my-data-hosted.md)
   * [2. How secure and confidential is my data?](faq/2.-how-secure-and-confidential-is-my-data.md)
   * [3. How long are my Route optimizations kept?](faq/3.-how-long-are-my-route-optimizations-kept.md)
-  * [4. Which Browsers and Systems Are Compatible with TourSolver](faq/4.-which-browsers-and-systems-are-compatible-with-toursolver.md)
+  * [4. Which Browsers and Systems Are Compatible with TourSolver?](faq/4.-which-browsers-and-systems-are-compatible-with-toursolver.md)
   * [5. How Many Resources Can I Create?](faq/5.-how-many-resources-can-i-create.md)
   * [6. How to Prioritize the Fewest Possible km / the Most Planned Customers?](faq/6.-how-to-prioritize-the-fewest-possible-km-the-most-planned-customers.md)
   * [7. What is the maximum number of visits that can be imported or optimized?](faq/7.-what-is-the-maximum-number-of-visits-that-can-be-imported-or-optimized.md)
