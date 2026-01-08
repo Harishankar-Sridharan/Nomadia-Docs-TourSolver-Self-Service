@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Getting-Started](README.md)
-  * [Signup Process](getting-started/gettingstarted-signupprocess.md)
-* [Import and Data setup](importanddatasetup/README.md)
-  * [Create a Depot](importanddatasetup/importanddatasetup-createadepot.md)
-  * [Create and Modify a User](importanddatasetup/importanddatasetup-createandmodifyauser.md)
-  * [Import of Deliveries](importanddatasetup/importanddatasetup-importofdeliveries.md)
-  * [Modify Address of a Delivery](importanddatasetup/modifyaddressofadelivery.md)
+  * [Signup Process](getting-started/signup-process.md)
+* [Import and Data setup](import-and-data-setup/README.md)
+  * [Create a Depot](import-and-data-setup/create-a-depot.md)
+  * [Create and Modify a User](import-and-data-setup/create-and-modify-a-user.md)
+  * [Import of Deliveries](import-and-data-setup/import-of-deliveries.md)
+  * [Modify Address of a Delivery](import-and-data-setup/modify-address-of-a-delivery.md)
 * [Resource and Vehicle Management](resourceandvehiclemanagement/README.md)
   * [Creating a Resource](resourceandvehiclemanagement/creatingaresource.md)
   * [Modifying a Resource and Associated Constraints](resourceandvehiclemanagement/modifyingaresourceandassociatedconstraints.md)
