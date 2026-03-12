@@ -78,6 +78,23 @@ Now you will configure additional details to set up your account.
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_1_to_03%E2%80%931_to_08%20(1).gif" alt=""><figcaption></figcaption></figure>
 
+### Resend User Account Invitation Email
+
+If you do not receive the invitation email immediately after account creation, please note that delivery may take a few minutes.
+
+First, check your **Spam** or **Junk** folder to ensure the email has not been filtered incorrectly.
+
+If the email is still not received after **5 minutes**, follow these steps to resend the invitation:
+
+1. Log in to **TourSolver**.
+2. Navigate to **Configuration → Manage Users**.
+3. Locate and select the newly created user.
+4. Click **Actions → Send Invitation Email Again**.
+
+<figure><img src="../.gitbook/assets/TS.png" alt=""><figcaption></figcaption></figure>
+
+This action will trigger a new invitation email to the selected user.
+
 ### Completing the Onboarding Page
 
 After creating your profile, you will automatically reach the Onboarding Page to enter necessary company information.
@@ -93,6 +110,21 @@ After creating your profile, you will automatically reach the Onboarding Page to
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on **Letʼs Go**
+
+
+
+### **Sample Data and Automatic Resource Creation During Onboarding**
+
+During the onboarding process, **TourSolver** automatically creates **five resources (vehicles)** based on the address you provided during setup.
+
+To help you get started quickly with deliveries, TourSolver also provides a **Sample Data Download** option. This feature generates a set of sample deliveries located in and around the specified address.
+
+This functionality simplifies the onboarding experience by allowing you to immediately test and explore the platform without manual data setup.
+
+You can either:
+
+* Import the downloaded file directly to create deliveries, or
+* Use the file as a template to build your own dataset for testing purposes.
 
 ***
 
