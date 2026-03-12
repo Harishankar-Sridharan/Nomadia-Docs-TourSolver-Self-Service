@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Welcome! This guide will walk you through the simple steps of defining a Resource such as a delivery staff member or a driver—within TourSolver. Our goal is to make sure you can set up your team members accurately and confidently, allowing the system to manage vehicle assignments, work schedules, and time off effectively.
+Welcome! This guide will walk you through the simple steps of defining a Resource such as a deliverer within TourSolver. Our goal is to make sure you can set up your team members accurately and confidently, allowing the system to manage vehicle assignments, work schedules, and time off effectively.
 
 ## 2. Initial Configuration
 
@@ -15,18 +15,18 @@ To begin defining a new resource profile:
 
 ## 3. Feature Explanations and Benefits
 
-* Creating a resource involves filling out several tabs that define how your staff member operates, travels, and when they are available.
-* **Resource Details (General Info**): This is where you identify the staff member by name and specify their starting point, known as the departure location.
-* **Vehicles Tab**: Here you define the primary way the staff member travels by selecting the means of transportation.
+* Creating a resource involves filling out several tabs that define how your deliverer operates, travels, and when they are available.
+* **Resource Details (General Info**): This is where you identify the deliverer by name and specify their starting point, known as the departure location.
+* **Vehicles Tab**: Here you define the primary way the deliverer travels by selecting the means of transportation.
 * **Vehicles Capacities Tab**: This section is crucial for defining what the resource (or their assigned vehicle) can carry. You can add vehicle capacities to ensure constraints are met during planning.
-* **Working Time and Planning Tabs**: These sections define the staff member's availability, including selecting whether the automatic start time feature is active, defining specific work slots, and scheduling lunch breaks.
+* **Working Time and Planning Tabs**: These sections define the deliverer's availability, including selecting whether the automatic start time feature is active, defining specific work slots, and scheduling lunch breaks.
 * **Days Off Tab**: This allows you to schedule specific dates when the resource will be unavailable
 
 💡 Tip: If you are ever unsure about a specific field or constraint while entering details, you can hover over the tool tip icons for clarification. Each tool tip provides a short explanation of what that constraint controls.
 
 ## 4. Resource Creation
 
-Follow these steps to successfully create and define your new delivery staff member or driver.
+Follow these steps to successfully create and define your new deliverer.
 
 1. Enter the **full resource name**.
 2. Enter the **departure location** (where the resource starts their shift).
