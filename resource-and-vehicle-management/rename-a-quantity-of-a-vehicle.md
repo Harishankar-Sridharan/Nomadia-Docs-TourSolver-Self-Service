@@ -27,7 +27,7 @@ Follow these simple steps to update the quantity names in your system:
 
 <figure><img src="../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_31–0_to_36 (1).gif" alt=""><figcaption></figcaption></figure>
 
-
+These renamed quantities are also visible when you import deliveries
 
 ## 4. Verifying New Names in Vehicle Capacities
 
