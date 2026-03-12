@@ -26,7 +26,7 @@ The system offers key features that help you manage security, permissions, and t
 
 * **Roles and Rights Management**: This is where you grant your delivery people the necessary permissions to operate within the system.
 * **Mobile App Configuration**: This section allows you to fine-tune how the mobile app communicates with the system, including synchronization speed and agenda visibility.
-* **Privacy Settings**(**GDPR Compliance**): You have the power to limit when tracking occurs, adhering to data privacy rules. This builds trust and ensures legal compliance by restricting geolocation tracking to only working hours and days.
+* **Privacy Settings**(**GDPR Compliance**):&#x20;  Privacy settings are designed to comply with GDPR regulations. Deliverers control how their personal and location data is shared within the system. Tracking visibility depends on the deliverer’s consent and working configuration.
 
 ## 4. Enabling Geolocation Tracking
 
@@ -36,13 +36,10 @@ The system offers key features that help you manage security, permissions, and t
 
 1. Number of days reachable in the agenda
 2. Automatic synchronization frequency
-3. Show travel time info
 
 ![](<../.gitbook/assets/Unknown image (4)>)
 
-4. **Set Privacy Rules**: In the mobile app configuration, enable privacy according to relevant rules (like GDPR).
-
-⚠ **Warning**: If you are operating in a region with strict data privacy laws (like GDPR), make sure you   enable tracking only during working hours and working days to remain compliant.
+⚠ **Warning**:&#x20;Geolocation tracking respects privacy regulations. Tracking data is available only when the deliverer is active and authorized according to system privacy settings.
 
 ### Viewing Geolocation in the Fulfillment Tab
 
@@ -65,5 +62,5 @@ The system offers key features that help you manage security, permissions, and t
 Here are a few tips to maximize your use of the tracking feature:
 
 * **Customize Your View**: Use the settings menu in the Fulfillment tab to modify what you see on the screen. If you only need location tracking, make sure the **map** and **agenda** displays are enabled.
-* **Monitor Travel Time**: Ensure you review the mobile app configuration to **show travel time info**. This helps you accurately predict arrival times and manage expectations.
+* **Monitor Tracking Accuracy**: Ensure the mobile application synchronization frequency is configured appropriately to receive timely location updates.&#x20;
 * **Keep Synchronization Frequent**: If real-time tracking is critical, check the **automatic synchronization frequency** setting in the mobile app configuration. A higher frequency provides more immediate location updates.
