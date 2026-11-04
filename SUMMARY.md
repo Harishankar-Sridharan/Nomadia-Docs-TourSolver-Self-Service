@@ -48,6 +48,7 @@
   * [View route details](simulation/simulation-details.md)
     * [View agendas](simulation/simulation-details-agendas.md)
   * [Analyze the results](simulation/simulation-analysis.md)
+    * [Analysis charts](simulation/simulation-analysis-charts.md)
 * [Customer Communication](customercommunication/README.md)
   * [General Configuration](customer-communication/general-configuration.md)
   * [Time Window to Communicate](customer-communication/time-window-to-communicate.md)

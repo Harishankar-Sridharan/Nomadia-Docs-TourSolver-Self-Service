@@ -15,7 +15,11 @@ This page explains how to use the **Analysis** panel to access analysis charts a
 ![The panel layout editor with the Deliveries, Map, Details, Routes and Analysis panels](../.gitbook/assets/TS_Simulation_Analysis_001.jpg)
 
 4. Click the **Analysis** drop-down arrow.
-5. Click a chart.
+5. Click a chart. The charts are described in [Analysis charts](simulation-analysis-charts.md).
+
+## Features
+
+* [Analysis charts](simulation-analysis-charts.md): Learn what each chart shows.
 
 ## Result
 
