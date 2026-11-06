@@ -18,7 +18,11 @@ During the optimization, you set priorities in the **Optimization Settings**, un
 | **Maximize number of visits** | Low / Normal / Important |
 | **Use as few resources as possible** | Low / Normal / Important |
 
-Adjust these parameters based on your goals.
+## Set the priorities
+
+1. Open the **Optimization Settings**.
+2. Click the **Optimization Priorities** tab.
+3. Set each parameter to **Low**, **Normal**, or **Important**, based on your goals.
 
 ## Tips
 
