@@ -1,61 +1,69 @@
 # Rename a Quantity of a Vehicle
 
-## 1. Introduction
+Personalize the names of the vehicle quantities, so that your terminology is clear and consistent.
 
-Renaming a vehicle quantity helps you personalize your system terminology. By changing these names, you ensure clarity and consistency when viewing vehicle capacities and importing new delivery information. You are learning how to successfully rename the quantity of a vehicle.
+## Before you begin
 
+* Sign in to **TourSolver**.
+* Have access to **Configuration**.
 
+## Feature overview
 
-## 2. Feature Explanations and Benefits
+Customizing the quantity names displays your own names in two places:
 
-The ability to customize quantity names provides a significant benefit by displaying user-defined names in two key areas:
+* **Vehicle Capacity view**: After the renaming, the new names are visible in the capacity details of a vehicle. You can quickly check the capacity limits assigned to your fleet.
+* **Delivery Import screen**: The new names are displayed when you import deliveries. They appear when you select **Show All** under the quantity section during the import, which ensures a correct data mapping.
 
-* **Vehicle Capacity View**: After renaming, the new names are visible when you check a vehicleʼs capacity details. This allows you to quickly verify what capacity limitations are assigned to your fleet.
-* **Delivery Import Screen**: The new names are displayed when you import new deliveries. Specifically, they appear when you select Show All under the quantity section during the import process, ensuring correct data mapping.
+## Rename a vehicle quantity
 
-## 3. Renaming a Vehicle Quantity
-
-Follow these simple steps to update the quantity names in your system:
-
-1. **Access Configuration**
-2. **Navigate to Customize Quantity Names**
+1. Go to **Configuration**.
+2. Open **Customize Quantity Names**.
 
 <figure><img src="../.gitbook/assets/msedge_jQ19pSbbDk.png" alt=""><figcaption></figcaption></figure>
 
-3. **Rename the Quantity**
-4. **Save Your Changes**
+3. Rename the quantity.
+4. Save your changes.
 
 <figure><img src="../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_31–0_to_36 (1).gif" alt=""><figcaption></figcaption></figure>
 
-These renamed quantities are also visible when you import deliveries
+## Verify the new names in the vehicle capacities
 
-## 4. Verifying New Names in Vehicle Capacities
-
-1. **Go to My Deliverers**
-2. **Edit a Vehicle**
+1. Go to **My Deliverers**.
+2. Edit a vehicle.
 
 <figure><img src="../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_53–0_to_58.gif" alt=""><figcaption></figcaption></figure>
 
-3. **View Vehicle Capacities**
-4. **Confirm the Name**
+3. View the vehicle capacities.
+4. Confirm the new name.
 
 <figure><img src="../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_0_to_59–1_to_02.gif" alt=""><figcaption></figcaption></figure>
 
-## 5. Verifying New Names during Delivery Import
+## Verify the new names during the delivery import
 
-The renamed quantities are also visible when you import deliveries:
-
-1. **Go to My Deliveries**
-2. **Start Import**
-3. **Address Unknown Fields**
-4. **Show All Quantities**
-5. **Confirm the New Name**
+1. Go to **My Deliveries**.
+2. Start the import.
+3. Address the unknown fields.
+4. Select **Show All** in the quantities.
+5. Confirm the new name.
 
 <figure><img src="../.gitbook/assets/ResourceandVehicleManagement-RenameaQuantityofaVehicle_timestamp_1_to_29–1_to_32.gif" alt=""><figcaption></figcaption></figure>
 
-## 6. Productivity Tips
+## Tips
 
-* **Tip**: Immediate Verification is Key After saving your renamed quantity, take a moment to immediately verify the change both in Vehicle Capacities and by checking a pending delivery import This ensures your changes propagated correctly across the system.
-* **Tip**: Keep it Simple Use clear, concise names that are easy for everyone on your team to understand. Since the new name will be displayed in multiple areas, choosing accessible language prevents confusion.
-* **Warning**: Ensure you have updated all necessary fields before Clicking Save to avoid having to return to the customization menu multiple times.
+{% hint style="info" %}
+**Verify immediately**: After you save the renamed quantity, check the change in the vehicle capacities and in a pending delivery import. This ensures that the change is applied across the system.
+{% endhint %}
 
+{% hint style="info" %}
+**Keep it simple**: Use clear, concise names that are easy for everyone on your team to understand. The new name is displayed in several places, so accessible language prevents confusion.
+{% endhint %}
+
+{% hint style="warning" %}
+**Before you save**: Update all the necessary fields before you click **Save**, to avoid returning to the customization menu several times.
+{% endhint %}
+
+## Related topics
+
+* [Creating a Resource](creating-a-resource.md)
+* [Modifying a Resource and Associated Constraints](modifying-a-resource-and-associated-constraints.md)
+* [Import of Deliveries](../importanddatasetup/importanddatasetup-importofdeliveries.md)

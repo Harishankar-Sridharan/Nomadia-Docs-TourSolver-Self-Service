@@ -1,119 +1,127 @@
-# Create and Modify a User
+﻿# Create and Modify a User
 
-## 1. Introduction
+Create new users, and update the details, roles, or schedules of existing users.
 
-This guide provides step-by-step instructions for setting up new team members and updating the details, roles, or schedules of current users. By following these simple steps, you will be able to manage access settings confidently and efficiently!
+## Before you begin
 
-## 2. Initial Configuration
+* Sign in to **TourSolver** with a user profile that has access to the **Configuration** page.
+* From the homepage, go to **Configuration** and click **Manage Users**.
 
-The first step for creating or modifying any user is accessing the main configuration area from the homepage.
+## Feature overview
 
-To begin creating or modifying a user, follow these steps:
+When you create or modify a user, you work in these sections:
 
-1. From the **homepage**, go to the **configuration.**
-2. Click on **Manage Users.**
+| Section | Purpose | Key actions |
+| ------- | ------- | ----------- |
+| **Access** | Defines the basic identity and the login permissions (web and mobile) of the user. | Enter the login ID and the names, and set the initial password for a mobile user. |
+| **Roles and Rights** | Determines what the user can see and do in the application, for example administrator or optimization. | Enable the necessary roles and rights, such as **administrator** or **optimization**. |
+| **Agencies** | Assigns the agencies that the user is responsible for or needs access to. | Select the required agencies and use the **right arrow** to assign them. |
+| **Planning** | Plans the slot time of the user. | Select the day and the timing to set the slot time, then click **Update**. |
+| **Days Off** | Records the days off that the user plans to take. | Enter the **from date** and the **to date** of the planned time off. |
+
+{% hint style="info" %}
+**Note**: **Planning** and **Days Off** are available only for a mobile user. **Roles and Rights** is available only for a web user.
+{% endhint %}
+
+## Open the Add screen
+
+1. From the **homepage**, go to **Configuration**.
+2. Click **Manage Users**.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_00%E2%80%930_to_09.gif" alt=""><figcaption></figcaption></figure>
 
-3. Click on **Actions**.
-4. Click on **Add**
+3. Click **Actions**.
+4. Click **Add**.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 3. Feature Explanations and Benefits
+## Create a user from scratch
 
-When you create or modify a user, you will interact with several key sections to define their access and scheduling.
+Use this option to onboard a new employee who needs a unique login ID and defined roles.
 
-| Section              | Purpose (Context)                                                                                             | Key Actions                                                                       |
-| -------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Access**           | Defines the basic identity and login permissions (web and mobile) for the user.                               | Enter login ID, names, and set the initial password for mobile user               |
-| **Roles and Rights** | Determines what the user is allowed to see and do within the application (e.g., administrator, optimization). | Enable necessary roles and rights, such as **administrator** or **optimization**. |
-| **Agencies**         | Assigns the specific agencies the user is responsible for or needs access to.                                 | Select required agencies and use the **right arrow** to assign them.              |
-| **Planning**         | Allows you to plan the slot time for the user.                                                                | Tap the day and timing to set the slot time, then tap **update**.                 |
-| **Days Off**         | Enables you to pre-plan and record any days off the user intends to take.                                     | Enter the **from date** and **to date** for the planned time off.                 |
-
-**Note**: Planning & days off will be accessible only to the mobile user. Roles & rights will be accessible only to the web user
-
-## 4. Creating Users
-
-You can create a user completely from scratch or efficiently modify an existing user by using their details as a template.
-
-### Create a User from Scratch
-
-This is necessary when onboarding a new employee who requires a unique login ID and defined roles.
-
-1. After navigating to the Add screen, confirm you are creating a user from scratch.
-2. First, let's see how to create the user from scratch. Click on **OK** – Begins new user creation.
+1. On the **Add** screen, confirm that you are creating a user from scratch.
+2. Click **OK** to begin the new user creation.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_20%E2%80%930_to_27.gif" alt=""><figcaption></figcaption></figure>
 
-3. Fill in Access Details: In the Access section, enter the required information: **Login ID, First Name and Last Name**
-4. Set **Access Type** and **Password:** For web access, toggle the Web Access option, and for mobile access, toggle the Mobile Access option.
-5. Enter the **password**
-
-**Tip**: You can toggle both the Web Access and Mobile Access options at the same time if the user requires both. ⚠ Warning (Password Requirement): The password must contain 8 characters, including one numeric character and one special character.
+3. In the **Access** section, enter the **Login ID**, **First Name**, and **Last Name**.
+4. Set the **Access Type**. For web access, turn on **Web Access**. For mobile access, turn on **Mobile Access**.
+5. Enter the **password**.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_09%E2%80%931_to_18.gif" alt=""><figcaption></figcaption></figure>
 
-6. **Define Roles and Rights**: In the Roles and Rights section, enable all necessary roles, such as administrator, optimization, or depot.&#x20;
-7. **Assign Agencies**: In the Agencies section, click on the agencies you need to assign, and then click the right arrow to move them into the assigned list.
+6. In the **Roles and Rights** section, enable all the necessary roles, such as administrator, optimization, or depot.
+7. In the **Agencies** section, click the agencies that you need to assign, then click the right arrow to move them into the assigned list.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_39%E2%80%931_to_55.gif" alt=""><figcaption></figcaption></figure>
 
-8. **Plan Slot Time**: In the Planning section, click the day and timing to set the desired slot time, and then click update.
+8. In the **Planning** section, click the day and the timing to set the slot time, then click **Update**.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_59%E2%80%932_to_08.gif" alt=""><figcaption></figcaption></figure>
 
-**Schedule Days Off (Optional): In the Days Off section, you can plan future time off:**
-
-9. Click the **plus** icon on the right side.
-10. Enter the **from date** and the **to date** for the day off.
-11. Click on **Add**
+9. Optional: In the **Days Off** section, click the **plus** icon on the right side.
+10. Enter the **from date** and the **to date** of the day off.
+11. Click **Add**.
 
 <figure><img src="../.gitbook/assets/msedge_9RVdJswNij.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_10%E2%80%932_to_31.gif" alt=""><figcaption></figcaption></figure>
 
-12. **Save the User**: After filling in all required information, Click on **Save** to finalize the creation.
+12. Click **Save**.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_39%E2%80%932_to_41%20(1).gif" alt=""><figcaption></figcaption></figure>
 
-**Expected&#x20;**_**Outcome**:_ User has been created successfully
+### Result
+
+The user is created successfully.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-### Modify an Existing User
+## Modify an existing user
 
-You can easily update an existing user's information, such as their roles, agencies, or schedule, without starting over.
+Update the roles, agencies, or schedule of an existing user without starting over.
 
-1. **Select Existing User:** Toggle Yes in the create from an existing user section.
-2. **Choose the User**: Select the specific user you want to modify, and then Click on **OK**.
+1. On the **Add** screen, turn on **Yes** in the **Create from an existing user** section.
+2. Select the user that you want to modify.
+3. Click **OK**.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-3. **Modify Information**: All information of the user will be automatically copied from the selected user. Go through the different sections (Access, Roles and Rights, Planning, etc.) and modify the existing information as needed.
-4. **Save Changes:** Once you have updated the necessary information, click on Save to complete the modification.
+4. Review the information, which is copied automatically from the selected user. Go through the sections (**Access**, **Roles and Rights**, **Planning**, and so on), and modify the information as needed.
+5. Click **Save**.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_3_to_26%E2%80%933_to_30.gif" alt=""><figcaption></figcaption></figure>
 
-## 5. Productivity Tips
+## Tips
 
-Here are a few useful tips and warnings to ensure your user management process goes smoothly:
+{% hint style="info" %}
+**Dual access**: You can turn on both **Web Access** and **Mobile Access** for a user, so they can use the system in both ways.
+{% endhint %}
 
-* 💡 **Dual Access:** Remember that you can enable both **web access** and **mobile access** simultaneously for a user, giving them flexibility in how they interact with the system.
-* ⚠️ **Password Clarity:** When setting a password, make sure it meets the security criteria: it must be **8 characters** long and include at least **one numeric** character and **one special character**.
-* ⚠️ **Avoid Duplicate Emails:** If you try to enter an email address that is already in use by another user, the system will display an error message stating that **"the email id is already used"**. You will need to use a unique email address to proceed.
+{% hint style="warning" %}
+**Password requirement**: The password must be **8 characters** long and include at least **one numeric** character and **one special character**.
+{% endhint %}
+
+{% hint style="warning" %}
+**Avoid duplicate emails**: If you enter an email address that is already used by another user, the system displays the error "the email id is already used". Use a unique email address to continue.
+{% endhint %}
+
+## Related topics
+
+* [Signup Process](../getting-started/gettingstarted-signupprocess.md)
+* [Create a Depot](importanddatasetup-createadepot.md)
+* [Creating a Resource](../resource-and-vehicle-management/creating-a-resource.md)

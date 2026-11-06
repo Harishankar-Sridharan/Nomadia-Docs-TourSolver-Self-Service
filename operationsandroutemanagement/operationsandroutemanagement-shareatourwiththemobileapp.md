@@ -1,72 +1,75 @@
 # Share a Tour with the Mobile App
 
-## 1. Introduction
+Export a planned route to the mobile application of your field team, so that mobile users receive a notification with the shared tour and its deliveries.
 
-This guide walks you through the process of exporting a planned route to the mobile application used by your field team. This process ensures mobile users receive an email or SMS notification containing the shared tour and its associated deliveries.
+## Before you begin
 
-## 2. Initial Configuration
+* Sign in to **TourSolver**.
+* Optimize your deliveries so that you have a completed route. See [Optimize your Deliveries](operationsandroutemanagement-optimizeyourdeliveries.md).
+* Open the **Optimization** section.
 
-To successfully share a tour, you must first access the optimization section and select a completed route.
+## Feature overview
 
-| Account Type           | Notification Sent  | Content Sent                                                                |
-| ---------------------- | ------------------ | --------------------------------------------------------------------------- |
-| **Trial Version**      | SMS notification   | Link to download the mobile application                                     |
-| **Subscribed Version** | Notification Email | Notification to all selected mobile app users that the tour has been shared |
+* **Seamless route transfer**: Transfers an optimized route (tour) directly to the mobile device where it is needed.
+* **Date-specific sharing**: Controls the date range for which the tour is active and accessible in the mobile app. Sharing a tour for a specific date range, for example 1 day, confirms which deliveries to perform on the selected dates.
+* **Confirmation feedback**: Shows how many deliveries are shared and how many notifications are sent to mobile users.
 
-## 3. Feature Explanations with Benefits
+### Notifications
 
-The **Share with the Mobile App** feature is crucial for connecting your planning efforts with real-world execution.
+The notification that is sent depends on your account type.
 
-* **Seamless Route Transfer:** Easily transfer complex, optimized routes (tours) directly to the mobile device where they are needed.
-* **Date-Specific Sharing:** You can control the exact date range for which the tour is active and accessible on the mobile app. Sharing a tour for a specific date range (e.g., 1 day duration) confirms exactly which deliveries should be performed on the selected date(s).
-* **Confirmation Feedback:** The system provides clear feedback regarding how many deliveries are being shared and how many notifications are being sent to mobile users.
-
-## 4. Understanding Notifications
-
-After you share the tour, the system determines how notifications are delivered depending on your account settings.
+| Account type | Notification sent | Content sent |
+| ------------ | ----------------- | ------------ |
+| **Trial Version** | SMS notification | Link to download the mobile application |
+| **Subscribed Version** | Notification email | Notification to all selected mobile app users that the tour has been shared |
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_06–1_to_16.gif" alt=""><figcaption></figcaption></figure>
 
+## Share an optimized tour
 
-
-## 5. Sharing a Tour
-
-Follow these detailed steps to successfully share your optimized route with your mobile users.
-
-### Exporting and Sharing an Optimized Tour
-
-1. Click on **Optimization**
+1. Click **Optimization**.
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_09–0_to_15.gif" alt=""><figcaption></figcaption></figure>
 
-2. Choose the **desired route** from the list
+2. Choose the **route** from the list.
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_15–0_to_21.gif" alt=""><figcaption></figcaption></figure>
 
-3. Click on **Export** and click on **Share with the Mobile App**
+3. Click **Export**, then click **Share with the Mobile App**.
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_21–0_to_26.gif" alt=""><figcaption></figcaption></figure>
 
-4. **Set the Start Date (From Date):** Enter the start date from which you want the tour to be shared.
-5. Choose a **Desired starting date**
-6. **Set the End Date (To Date):** Choose a "**to date**".
+4. Enter the **From date**, the date from which you want the tour to be shared.
+5. Choose the **desired starting date**.
+6. Choose a **To date**.
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_39.png" alt=""><figcaption></figcaption></figure>
 
-**Note**: The standard duration will be 1 day, but you can adjust the "to date" if necessary for creating multi-day routes.\
-Date Selection interface showing From Date, To Date, and Duration (1 day)
+{% hint style="info" %}
+**Duration**: The standard duration is 1 day. You can adjust the **To date** to create multi-day routes. The date selection shows **From Date**, **To Date**, and **Duration (1 day)**.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_39 (1).png" alt=""><figcaption></figcaption></figure>
 
-7. **Review the Notification (Trial/Subscribed):** Read the confirmation notification displayed based on whether you are using a trial or subscribed version.
-8. Click on **Send**
+7. Read the confirmation notification that is displayed for your trial or subscribed version.
+8. Click **Send**.
 
 <figure><img src="../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_16–1_to_25 (1).gif" alt=""><figcaption></figcaption></figure>
 
-&#x20; **Expected outcome**: Final Confirmation Pop-up showing details of deliveries shared and emails sent
+### Result
+
+A final confirmation pop-up shows the details of the deliveries shared and the emails sent.
 
 <figure><img src="../.gitbook/assets/msedge_Jxfjs2FcXf.png" alt=""><figcaption></figcaption></figure>
 
-## 6. Productivity Tip
+## Tips
 
-* **Tip: Verify Delivery Counts:** Always pay close attention to the final notification that appears when you click **send.** This message confirms exactly how many deliveries are included in the tour you are sharing and how many emails are being sent to your mobile users.
+{% hint style="info" %}
+**Verify the delivery counts**: Read the final notification that appears when you click **Send**. It confirms how many deliveries are included in the shared tour and how many emails are sent to your mobile users.
+{% endhint %}
+
+## Related topics
+
+* [Optimize your Deliveries](operationsandroutemanagement-optimizeyourdeliveries.md)
+* [Export my Routes](operationsandroutemanagement-exportmyroutes.md)
+* [How do I Geolocate my Delivery People](how-do-i-geolocate-my-delivery-people.md)

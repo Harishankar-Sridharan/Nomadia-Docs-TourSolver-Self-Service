@@ -1,2 +1,33 @@
 # Operations and Route Management
 
+Use the pages in this section to optimize your deliveries, share your routes, and follow your delivery people.
+
+## Before you begin
+
+* Sign in to **TourSolver**.
+* Import your deliveries and create your resources. See [Import of Deliveries](../importanddatasetup/importanddatasetup-importofdeliveries.md) and [Creating a Resource](../resource-and-vehicle-management/creating-a-resource.md).
+
+## Feature overview
+
+* **How do I Geolocate my Delivery People**: Enable the access and configure the mobile app so that you can track your delivery people.
+* **Export my Routes**: Select, customize, and export your completed routes.
+* **Optimize your Deliveries**: Set your optimization preferences and start the route planning.
+* **Share a Tour with the Mobile App**: Send a planned route to the mobile app of your field team.
+
+## Features
+
+* [How do I Geolocate my Delivery People](how-do-i-geolocate-my-delivery-people.md)
+* [Export my Routes](operationsandroutemanagement-exportmyroutes.md)
+* [Optimize your Deliveries](operationsandroutemanagement-optimizeyourdeliveries.md)
+* [Share a Tour with the Mobile App](operationsandroutemanagement-shareatourwiththemobileapp.md)
+
+## Tips
+
+{% hint style="info" %}
+**Check results early**: You do not have to wait for the optimization to finish. Click **Stop and see the result** to get a preliminary result quickly.
+{% endhint %}
+
+## Related topics
+
+* [Optimize your Deliveries](operationsandroutemanagement-optimizeyourdeliveries.md)
+* [Simulation](../simulation/simulation.md)

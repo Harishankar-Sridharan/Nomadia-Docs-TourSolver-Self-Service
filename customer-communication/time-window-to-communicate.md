@@ -1,94 +1,91 @@
 # Time Window to Communicate
 
-## 1. Introduction
+Define the timeframe that you communicate to a customer for an upcoming visit, and manage the outgoing email and SMS.
 
-The **Time Window to Communicate** feature allows you to define the exact timeframe communicated to your customer regarding an upcoming visit. This calculates the arrival window and manages outgoing communication via email and SMS.
+## Before you begin
 
-## 2. Initial Configuration
-
-1. Click on **Time Window to communicate**.
+* Sign in to **TourSolver**.
+* Set up the outgoing email and SMS services. See [General Configuration](general-configuration.md).
+* Click **Time Window to communicate**.
 
 <figure><img src="../.gitbook/assets/msedge_69H3IgMN7N.png" alt=""><figcaption></figcaption></figure>
 
+## Feature overview
 
+This feature controls how the arrival information is calculated and delivered.
 
-***
+| Feature | Description |
+| ------- | ----------- |
+| **ETA Link** | A link with the estimated time of arrival (ETA) is created automatically and sent once the delivery completes. |
+| **Email Subject Editing** | Lets you customize the **email subject**, so customers know the purpose of the message at once. |
+| **Message Body Editing** | Lets you **edit the message** sent to your customers, with personalized language and important details. |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) shows options that you can insert and edit in the body of the email. |
+| **Preview Window** | Shows a **preview** of the exact message before you save, so that it looks professional and accurate. |
+| **Live Location Tracking** | The link lets the customer track the live location of the delivery (or the deliverer). |
+| **Outgoing Email** | Option to send the ETA link by email. |
+| **Outgoing SMS** | Option to send the ETA link by text message. |
 
-## 3. Feature Explanations and Benefits
+## Set up the time window and the notifications
 
-This feature is powerful because it allows you to control exactly how the arrival information is calculated and delivered.
-
-| Feature                      | Description                                                                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
-| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
-| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
-| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
-| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
-| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
-| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
-| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
-
-## 4. Setting Up the Customer Communication Time Window and Notifications
-
-Follow these steps to define the precise time window and enable communication for your customer visit.
-
-1. **Access the Feature:** Click on **Time Window to communicate**.
-2. **Define the Calculation Method:**
-   * Select the time window method which is used to calculate the arrival time window.
+1. Click **Time Window to communicate**.
+2. Select the **time window method** that is used to calculate the arrival time window.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_0_to_12–0_to_25.gif)
 
-3. **Set the Duration:**
-   * Enter the duration for the communicated time window.
+3. Enter the **duration** of the communicated time window.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_0_to_25–0_to_37.gif)
 
-💡 \*\*Tip:\*\* Entering \*\*120 minutes\*\* will result in a 2-hour window communicated to the customer (e.g., 10 a.m. to 12 p.m.).
+{% hint style="info" %}
+Entering **120 minutes** results in a 2-hour window communicated to the customer, for example 10 a.m. to 12 p.m.
+{% endhint %}
 
-4\. **Select Reference Time:**
+4. Select the **reference time**.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_0_to_37–1_to_03.gif)
 
-5. **Input Planned Visit Details:**
-   * Locate the **Date and time of planned visit** field.
+5. Find the **Date and time of planned visit** field and enter the planned visit details.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_1_to_03–1_to_26.gif)
 
-6. **Review Calculated Time Window:**
-   * The system will display the **time window communicated to the customer**.
-   * For example, if you set the duration to 2 hours, the system might calculate the window as 10 a.m. to 12 p.m..
-7.  **Enable Email Communication:**
-
-    * You can enable the **outgoing emails** option.
-    * Review the message that must be sent to the customer below this section.
-    * **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
-
-    &#x20;      💡 **Tip:** Using personalization tags makes the message feel more direct and professional
+6. Review the calculated time window. The system displays the **time window communicated to the customer**. For example, with a duration of 2 hours, the window can be 10 a.m. to 12 p.m.
+7. Enable the **outgoing emails** option.
+   * Review the message that is sent to the customer, below this section.
+   * Optional: To include dynamic information, such as the customer's name or specific appointment details, enter the **dollar symbol** ($). The options that you can use to edit the body of the email are displayed.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_1_to_42–2_to_02.gif)
 
-8.  **Enable SMS Communication (Optional):**
-
-    * You can also enable the **outgoing SMS** option.
-    * **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
-
-    > 💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
+8. Optional: Enable the **outgoing SMS** option.
+   * Optional: To include dynamic information, enter the **dollar symbol** ($). The options that you can use to edit the body of the message are displayed.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_2_to_02–2_to_22.gif)
 
-9. **Save Your Settings:**
+9. Save your settings.
 
 ![](../.gitbook/assets/CustomerCommunication-TimeWindowtoCommunicate_timestamp_2_to_22–2_to_30.gif)
 
-10. The customer will receive the following email
+### Result
+
+The customer receives the following email.
 
 <figure><img src="../.gitbook/assets/msedge_DOehv7c2pR.png" alt=""><figcaption></figcaption></figure>
 
-## 5. Productivity Tips
+## Tips
 
-These tips will help you work more efficiently and ensure smooth communication with your customers:
+{% hint style="info" %}
+**Use personalization tags**: Tags make the message feel more direct and professional.
+{% endhint %}
 
-* **Use the Preview Feature:** Always use the message **preview** option available for both outgoing emails and outgoing SMS. This helps you confirm exactly what the customer will see before you save your settings, ensuring accuracy and clarity.
-* **Keep Durations Clear:** When setting the **Communicated Time Window Duration**, choose common increments (like 60 minutes or 120 minutes) that are easy for customers to understand. A clear, defined window prevents confusion.
+{% hint style="info" %}
+**Use the preview**: Use the message **preview** for both the outgoing email and the outgoing SMS. It confirms what the customer sees before you save your settings.
+{% endhint %}
 
+{% hint style="info" %}
+**Keep durations clear**: For the **Communicated Time Window Duration**, choose common increments, such as 60 or 120 minutes, that customers understand easily. A clear, defined window prevents confusion.
+{% endhint %}
+
+## Related topics
+
+* [General Configuration](general-configuration.md)
+* [Upcoming Arrival](upcoming-arrival.md)
+* [Next Visits](next-visits.md)

@@ -1,136 +1,121 @@
-# Signup Process
+﻿# Signup Process
 
-## 1. Introduction
+Create your TourSolver account: verify your email, set your profile, complete the onboarding page, and log in for the first time.
 
-Welcome to TourSolver! This guide will provide clear, step-by-step instructions for signing up for your TourSolver account. By following these steps, you will quickly create your credentials and gain initial access to the platform.
+## Before you begin
 
-## 2. Initial Configuration
+* Use a supported browser. TourSolver is tested and validated with:
+  * Google Chrome: version 142 and above
+  * Mozilla Firefox: version 145 and above
+  * Microsoft Edge: version 142 and above
+  * Apple Safari: version 26 and above
+* Have access to the email address that you will use to sign up. TourSolver sends a verification code to it.
+* No installation is needed. TourSolver is a fully cloud-based solution hosted on Microsoft Azure.
 
-Creating your account involves three main stages: verifying your email, setting your profile details, and finalizing your company setup.
+## Feature overview
 
-### System Requirements
+* **Verify your email address**: Confirms your identity and secures your new account.
+* **Set your profile details**: Sets your name, country, and password.
+* **Complete the onboarding page**: Enters your company name, departure address, and activity.
+* **Sample data and automatic resources**: Creates five resources (vehicles) and lets you download sample deliveries.
+* **Trial account**: Lets you test the platform immediately, with up to 5 drivers, up to 5 route optimizations per day, and up to 250 deliveries per optimization.
 
-TourSolver is designed to perform optimally on modern web browsers. The application has been tested and validated with the following versions:
+## Verify your email address
 
-* Google Chrome: version 142 and above
-* Mozilla Firefox: version 145 and above
-* Microsoft Edge: version 142 and above
-* Apple Safari: version 26 and above
-
-Using one of the above browsers ensures the best performance and full access to TourSolver features.
-
-### Installation/Setup Steps
-
-TourSolver is a fully cloud-based solution hosted on Microsoft Azure, requiring no local installation.
-
-## 3. Feature Explanations with Benefits
-
-Once you complete the signup process, your TourSolver account is ready.
-
-The benefit of the Trial account is that it allows you to test the platform immediately. During the trial period, you can explore the platform with the following limits:
-
-* Up to 5 drivers
-* Up to 5 route optimizations per day
-* Up to 250 deliveries per optimization
-
-These limits allow you to test real-world scenarios and experience the platformʼs full functionality without any complex setup.
-
-## 4. Creating Your Account
-
-### Verify Your Email Address
-
-This first crucial step verifies your identity and secures your new account.
-
-Use the following URL to begin the sign-up process for TourSolver - [Access/TourSolver](https://cloud.nomadia-app.com/ToursolverCloud)
-
-If you already have the credentials, you can log in and skip this guide If you donʼt have an account, click **Sign up now**.
+1. Open [Access/TourSolver](https://cloud.nomadia-app.com/ToursolverCloud).
+2. If you already have credentials, log in and skip this topic. If you do not have an account, click **Sign up now**.
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_10%E2%80%930_to_18%20(1).gif" alt=""><figcaption></figcaption></figure>
 
-1. Enter the **Valid email address.**
-2. Click on **Send Verification code**
-3. Type the **Verification code** received in your email and click on **Verify code**
+3. Enter a **valid email address**.
+4. Click **Send Verification code**.
+5. Type the **Verification code** that you received in your email.
+6. Click **Verify code**.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_40%E2%80%930_to_41.gif" alt=""><figcaption></figcaption></figure>
 
-**Expected Outcome**: Upon successful verification, a confirmation message appears
+### Result
 
-stating, _**“Your email has been verified.”**_
+A confirmation message appears: _**"Your email has been verified."**_
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Setting Your Profile Details
+## Set your profile details
 
-Now you will configure additional details to set up your account.
-
-1. **Fill in Details:** Fill in your basic profile details, including your Name, Country, and Password to set up the account.
-2. **Create Your Password:** Enter your chosen password. (At least one uppercase letter, at least one lowercase letter, A number and A special character)
-
-⚠ **Warning: Password Requirements:** Your password must be strong! Ensure it includes all of the requirements listed above.
-
-3. **Click on Create** to proceed.
+1. Fill in your basic profile details: **Name**, **Country**, and **Password**.
+2. Enter your chosen password. It must contain at least one uppercase letter, one lowercase letter, one number, and one special character.
+3. Click **Create**.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_1_to_03%E2%80%931_to_08%20(1).gif" alt=""><figcaption></figcaption></figure>
 
-### Resend User Account Invitation Email
+{% hint style="warning" %}
+**Password requirements**: Your password must include all the requirements listed in step 2.
+{% endhint %}
 
-If you do not receive the invitation email immediately after account creation, please note that delivery may take a few minutes.
+## Resend the user account invitation email
 
-First, check your **Spam** or **Junk** folder to ensure the email has not been filtered incorrectly.
-
-If the email is still not received after **5 minutes**, follow these steps to resend the invitation:
+If you do not receive the invitation email immediately after the account is created, delivery can take a few minutes. First, check your **Spam** or **Junk** folder. If the email is still not received after **5 minutes**, resend it.
 
 1. Log in to **TourSolver**.
-2. Navigate to **Configuration → Manage Users**.
+2. Go to **Configuration** > **Manage Users**.
 3. Locate and select the newly created user.
-4. Click **Actions → Send Invitation Email Again**.
+4. Click **Actions** > **Send Invitation Email Again**.
 
 <figure><img src="../.gitbook/assets/TS.png" alt=""><figcaption></figcaption></figure>
 
-This action will trigger a new invitation email to the selected user.
+### Result
 
-### Completing the Onboarding Page
+A new invitation email is sent to the selected user.
 
-After creating your profile, you will automatically reach the Onboarding Page to enter necessary company information.
+## Complete the onboarding page
 
-1. Enter the **Company name, Departure address, and Activity.**
+After you create your profile, you reach the Onboarding page automatically.
+
+1. Enter the **Company name**, **Departure address**, and **Activity**.
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_2_to_08%E2%80%932_to_23.gif" alt=""><figcaption></figcaption></figure>
 
-2. Review the **End user agreement** and click the **Check box**.
+2. Review the **End user agreement** and select the check box.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Click on **Letʼs Go**
+3. Click **Let's Go**.
 
+### Result
 
+Your TourSolver account is ready. The trial account lets you explore the platform with up to 5 drivers, up to 5 route optimizations per day, and up to 250 deliveries per optimization.
 
-### **Sample Data and Automatic Resource Creation During Onboarding**
+## Use the sample data and the automatic resources
 
-During the onboarding process, **TourSolver** automatically creates **five resources (vehicles)** based on the address you provided during setup.
+During onboarding, TourSolver automatically creates **five resources (vehicles)** based on the address that you provided during setup.
 
-To help you get started quickly with deliveries, TourSolver also provides a **Sample Data Download** option. This feature generates a set of sample deliveries located in and around the specified address.
+TourSolver also provides a **Sample Data Download** option. It generates a set of sample deliveries located in and around the address that you specified. You can:
 
-This functionality simplifies the onboarding experience by allowing you to immediately test and explore the platform without manual data setup.
+* Import the downloaded file directly to create deliveries.
+* Use the file as a template to build your own dataset for testing.
 
-You can either:
+## Log in for the first time
 
-* Import the downloaded file directly to create deliveries, or
-* Use the file as a template to build your own dataset for testing purposes.
+To check that your new credentials work, log out and log back in.
 
-***
+1. Log out of the system.
+2. Log in again with the email and password that you just created.
 
-## 5. Logging In for the First Time
+{% hint style="info" %}
+**Tip**: Logging in again right after the signup confirms that your credentials are functional.
+{% endhint %}
 
-To ensure your newly created credentials work correctly, it is recommended practice to log out immediately and log back in.
+## Related topics
 
-1. **Log-out**: Log out of the system.
-2. **Log-in**: Log back in using the email and password you just created to verify your credentials are functional.
+* [Create and Modify a User](../importanddatasetup/importanddatasetup-createandmodifyauser.md)
+* [Create a Depot](../importanddatasetup/importanddatasetup-createadepot.md)
+* [Import of Deliveries](../importanddatasetup/importanddatasetup-importofdeliveries.md)
+* [Which Browsers and Systems Are Compatible with TourSolver?](../faq/which-browsers-and-systems-are-compatible-with-toursolver.md)

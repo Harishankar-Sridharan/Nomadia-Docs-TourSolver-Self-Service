@@ -1,87 +1,86 @@
 # Optimize your Deliveries
 
-## 1. Introduction
+Set your optimization preferences and start the route planning that calculates the best delivery sequence and routes.
 
-The **Optimize your Deliveries** feature streamlines your operations by calculating the best possible delivery sequence and routes. Using this guide, you will learn how to set your optimization preferences and successfully start the route planning process.
+## Before you begin
 
-***
+* Sign in to **TourSolver**.
+* Import your delivery data. See [Import of Deliveries](../importanddatasetup/importanddatasetup-importofdeliveries.md).
+* Go to **My Deliveries**, check that the deliveries are imported, and click **Next**.
+* Click **Optimize My Routes**.
 
-## 2. Initial Configuration
+## Feature overview
 
-To begin using the optimization feature, it is assumed that you have already imported your delivery data into the system.
+* **Route Optimization**: Takes all your imported deliveries and calculates the most efficient route schedule, so that time and resources are used efficiently.
+* **Editable Optimization Dates**: Sets when the optimized routes begin to run, by entering or editing the start date and the end date.
+* **Editable Planning Days**: Adjusts the number of days that the system plans for, which is useful when your operational needs change.
 
-Before you can start optimizing, you must navigate to the starting point of the process.
+## Start the route optimization
 
-1. Navigate to **My Deliveries**.
-2. After ensuring deliveries are imported, click **Next**.
-3. Click on **Optimize My Routes**.
-
-***
-
-## 3. Feature Explanations and Benefits
-
-The **Optimize your Deliveries** offers two primary customization features that give you control over how routes are planned:
-
-* **Route Optimization:** This core function takes all your imported deliveries and calculates the most efficient route schedule.
-  * **Benefit:** Successfully optimized deliveries, ensuring efficient use of time and resources.
-* **Editable Optimization Dates:** You can specify exactly when the optimized routes should begin running by entering or editing the start date and the end date.
-* **Editable Planning Days:** You have the ability to adjust the number of days the system should plan for. This is useful if your operational needs change.
-
-## 4. Starting Route Optimization
-
-This task walks you through selecting the time frame and launching the route calculation process.
-
-1. **Set the Optimization Date Range:** On the optimization screen, enter or edit the desired start date and end date for the optimized routes.
-2. **Edit the Number of Days (Optional):** If needed, you can adjust the number of planning days directly on this screen.
+1. On the optimization screen, enter or edit the **start date** and the **end date** of the optimized routes.
+2. Optional: Adjust the **number of planning days** on this screen.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-3. Click on **Start Optimization**
+3. Click **Start Optimization**.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-#### Viewing Optimization Results
+## View the optimization results
 
-1. Click on Start Optimization
+1. Click **Start Optimization**.
 
 <figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_38–1_to_41.gif" alt=""><figcaption></figcaption></figure>
 
-2. Once the optimization is running, you can monitor the results.
+2. While the optimization is running, monitor the results. The optimization result summary is displayed.
 
 <figure><img src="../.gitbook/assets/msedge_44ntVaeZk6.png" alt=""><figcaption></figcaption></figure>
 
-**Review Results:** You will see the optimization result summary.
-
-3. Click on **Display the Simulation**
+3. Click **Display the Simulation**.
 
 <figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_2_to_22–2_to_25 (1).gif" alt=""><figcaption></figcaption></figure>
 
-4. Deliveries have been optimized successfully.
+### Result
+
+The deliveries are optimized successfully.
 
 <figure><img src="../.gitbook/assets/msedge_wwsjK0kmFX.png" alt=""><figcaption></figcaption></figure>
 
-#### Adjusting the Planning Period (Number of Days)
+## Adjust the planning period (number of days)
 
-If you need to change how many days the system should plan routes for, you can configure this setting within **My Deliverers**.
+To change the number of days that the system plans routes for, use **My Deliverers**.
 
-1. Go to **My Deliverers**
-2. Locate the resource associated with the delivery.
+1. Go to **My Deliverers**.
+2. Find the resource associated with the delivery.
 
 <figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_53–0_to_56.gif" alt=""><figcaption></figcaption></figure>
 
-3. Click on **Planning**
+3. Click **Planning**.
 
 <figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_58–1_to_00.gif" alt=""><figcaption></figcaption></figure>
 
-3. **Edit Days:** Change the value to the new number of days you wish to use for planning.
-4. Click on **Save**
+4. Change the **number of days** to the value that you want to use for planning.
+5. Click **Save**.
 
 <figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_09–1_to_12.gif" alt=""><figcaption></figcaption></figure>
 
+## Tips
 
+{% hint style="info" %}
+**Be patient with large jobs**: If many deliveries need optimization, the process can take longer than expected. This is normal because the system performs complex calculations.
+{% endhint %}
 
-## 5. Productivity Tips
+{% hint style="info" %}
+**Check results early**: You do not have to wait for the entire process to finish. To get a preliminary result quickly, click **Stop and see the result** at any time during the calculation.
+{% endhint %}
 
-* ⏳ **Tip: Be Patient with Large Jobs:** If you have many deliveries that need optimization, the process may take longer than expected. This is normal because the system is performing complex calculations.
-* ✅ **Tip: Check Results Early:** You don't always have to wait for the entire process to finish. If you need a preliminary result quickly, you can click **Stop and see the result** at any time during the calculation.
-* 🎉 **Success Confirmation:** Once the system confirms that "The deliveries have been optimized successfully," you know your new routes are ready to implement.
+{% hint style="info" %}
+**Success confirmation**: When the system confirms "The deliveries have been optimized successfully," your new routes are ready to implement.
+{% endhint %}
+
+## Related topics
+
+* [Import of Deliveries](../importanddatasetup/importanddatasetup-importofdeliveries.md)
+* [Export my Routes](operationsandroutemanagement-exportmyroutes.md)
+* [Share a Tour with the Mobile App](operationsandroutemanagement-shareatourwiththemobileapp.md)
+* [Optimize deliveries](../simulation/simulation-deliveries-optimize.md)

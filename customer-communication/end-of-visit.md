@@ -1,99 +1,96 @@
 # End of Visit
 
-## 1. Introduction
+Send your customer an email with a PDF proof of delivery (PoD) once the delivery is completed.
 
-The **End of Visit** communication setting allows you to automate follow-up messages sent to your customer.
+## Before you begin
 
-**What is the End of Visit?** It is the process that occurs **once the delivery has been completed**. Upon completion, the customer automatically receives an email with an attached PDF file.
-
-**The PDF Proof of Delivery (PoD)** This attached PDF serves as the official proof of delivery. It confirms essential details for the customer, including:
-
-* The customer’s name
-* The customer’s address
-* Signatures collected during the visit
-
-## 2. Initial Configuration
-
-Before sending your first message, you must enable the basic communication channels.
-
-1. **Access the End of Visit Settings:**
-   * Click the **End of Visit** option to access the configuration screen.
+* Sign in to **TourSolver**.
+* Set up the outgoing email service. See [General Configuration](general-configuration.md).
+* Click **End of Visit** to open the configuration screen.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_22.png)
 
-2. **Enable Outgoing Channels:**
-   * Enable the **outgoing emails** option
+## Feature overview
+
+The **End of Visit** setting automates the follow-up messages sent to your customer. Once the delivery is completed, the customer automatically receives an email with an attached PDF file. This PDF is the official proof of delivery (PoD), and it confirms:
+
+* The name of the customer.
+* The address of the customer.
+* The signatures collected during the visit.
+
+| Feature | Description |
+| ------- | ----------- |
+| **ETA Link** | A link with the estimated time of arrival (ETA) is created automatically and sent once the delivery completes. |
+| **Email Subject Editing** | Lets you customize the **email subject**, so customers know the purpose of the message at once. |
+| **Message Body Editing** | Lets you **edit the message** sent to your customers, with personalized language and important details. |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) shows options that you can insert and edit in the body of the email. |
+| **Preview Window** | Shows a **preview** of the exact message before you save, so that it looks professional and accurate. |
+| **Live Location Tracking** | The link lets the customer track the live location of the delivery (or the deliverer). |
+| **Outgoing Email** | Option to send the ETA link by email. |
+| **Outgoing SMS** | Option to send the ETA link by text message. |
+
+## Enable the outgoing channels
+
+1. Enable the **outgoing emails** option.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_22–0_to_30.gif)
 
-3. **Set the Email Subject**
+2. Set the **email subject**.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_30–0_to_35.gif)
 
-4. Activate the toggle to send the PoD as a PDF file
+3. Turn on the toggle to send the PoD as a PDF file.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_35–0_to_42.gif)
 
-5. Click the **Save** button to apply changes to the modified template.
+4. Click **Save** to apply the changes to the modified template.
 
-## 3. Feature Explanations with Benefits
+## Customize and review the message
 
-This feature offers flexibility and clear documentation delivery.
-
-| Feature                      | Description                                                                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
-| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
-| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
-| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
-| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
-| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
-| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
-| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
-
-## 4. Customizing and Reviewing the Subject
-
-Follow these steps to customize the message body and confirm the final appearance of the email.
-
-1. **Select the Communication Mode:**
-   * Change the communication **mode** to **standard** or **advanced** based on your required level of detail.
+1. Change the communication **mode** to **standard** or **advanced**, depending on the level of detail that you need.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_42–0_to_47.gif)
 
-2. **View the Current Message:**
-   * Look at the section that shows the **message to be sent to the customer**.
-3. **Edit the Message Body (Optional):**
-   * If you need to adjust the content, you can **edit this body of the email**.
+2. Look at the section that shows the **message to be sent to the customer**.
+3. Optional: To adjust the content, **edit the body of the email**.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_54–0_to_59.gif)
 
-4.  **Preview the Final Email:**
-
-    * Review the **Subject:** Check the **preview** area to see exactly how the final email will look to the customer. This is your chance to review the message before saving
-    * **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
-
-    > 💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
-
-
+4. Check the **preview** area to see how the final email looks to the customer.
+5. Optional: To include dynamic information, such as the customer's name or specific appointment details, enter the **dollar symbol** ($). The options that you can use to edit the body of the email are displayed.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_0_to_59–1_to_06.gif)
 
-5. **Save the Configuration:**
-   * Once you are satisfied with the settings and the preview, click on **Save**.
+6. Click **Save**.
 
 ![](../.gitbook/assets/CustomerCommunication-EndofVisit_timestamp_1_to_14–1_to_20.gif)
 
-6. The customer will receive the following email
+### Result
+
+The customer receives the following email.
 
 <figure><img src="../.gitbook/assets/msedge_7nGtQuEoa6.png" alt=""><figcaption></figcaption></figure>
 
-***
+## Tips
 
-## 5. Productivity Tips
+{% hint style="info" %}
+**Check the PoD content**: The PDF attachment is crucial. The customer verifies their name, address, and signatures in the attachment.
+{% endhint %}
 
-Use these tips to maximize the effectiveness and clarity of your customer communications.
+{% hint style="info" %}
+**Use the preview**: Before you save any changes, use the preview to double-check the formatting and make sure that the message body reads correctly. It shows exactly what the customer sees.
+{% endhint %}
 
-* **💡 Pre-Check the PoD Content:** Remember that the PDF attachment is crucial. You can remind yourself that the customer will verify their name, address, and signatures within the attachment.
-* **💡 Use the Preview Often:** Before saving any changes, use the preview feature to double-check formatting and ensure the message body reads correctly. The preview shows exactly what the customer will see.
-* **💡 Verify Attachment Inclusion:** Always ensure that you have enabled the option to **Insert the PDF report of the intervention as attachment**. This guarantees the necessary proof of delivery is included.
+{% hint style="info" %}
+**Use personalization tags**: Tags make the message feel more direct and professional.
+{% endhint %}
 
+{% hint style="warning" %}
+**Verify the attachment**: Make sure that the option **Insert the PDF report of the intervention as attachment** is enabled. It guarantees that the proof of delivery is included.
+{% endhint %}
+
+## Related topics
+
+* [General Configuration](general-configuration.md)
+* [Next Visits](next-visits.md)
+* [Visit Cancellation](visit-cancellation.md)

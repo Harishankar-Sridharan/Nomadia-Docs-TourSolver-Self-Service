@@ -1,72 +1,85 @@
 # Visit Cancellation
 
-## 1. Introduction
+Mark a visit as cancelled and prompt the end customer to select a new date and time.
 
-This process enables you to mark a visit as cancelled while simultaneously triggering an action that prompts the end customer to select a new date and time for rescheduling.
+## Before you begin
 
-## 2. Initial Configuration&#x20;
+* Sign in to **TourSolver**.
+* Set up the outgoing email and SMS services. See [General Configuration](general-configuration.md).
+* Make sure that the communication channels are active, so that the customer receives the rescheduling link.
 
-Before processing a cancellation, you must ensure that communication channels are active so the customer receives the rescheduling link.
+## Feature overview
 
-1. **Access the Cancellation Settings:** Click the **visit cancellation** option.
-2. **Enable Outgoing Messages:** Ensure both outgoing communication types are turned on:
+This feature streamlines the communication and the logistics when a delivery attempt fails because the customer is unavailable. You mark the visit as cancelled, and the system prompts the customer to select a new date and time.
+
+| Feature | Description |
+| ------- | ----------- |
+| **ETA Link** | A link with the estimated time of arrival (ETA) is created automatically and sent once the delivery completes. |
+| **Email Subject Editing** | Lets you customize the **email subject**, so customers know the purpose of the message at once. |
+| **Message Body Editing** | Lets you **edit the message** sent to your customers, with personalized language and important details. |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) shows options that you can insert and edit in the body of the email. |
+| **Preview Window** | Shows a **preview** of the exact message before you save, so that it looks professional and accurate. |
+| **Live Location Tracking** | The link lets the customer track the live location of the delivery (or the deliverer). |
+| **Outgoing Email** | Option to send the ETA link by email. |
+| **Outgoing SMS** | Option to send the ETA link by text message. |
+
+## Set up the cancellation message
+
+1. Click **Visit cancellation**.
+2. Turn on both outgoing communication types:
    * **Outgoing emails**
    * **Outgoing SMS**
-3. **Set the Subject (Emails and SMS):** Mention the specific **subject** you want the customer to see.
-
-***
-
-## 3. Feature Explanations and Benefits
-
-This feature streamlines communication and logistics when a delivery attempt fails due to customer unavailability.
-
-| Feature                      | Description                                                                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
-| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
-| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
-| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
-| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
-| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
-| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
-| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
-
-💡 **Tip:** The body of the email automatically includes the **reason for cancellation** and the **rescheduling date** information.
-
-**Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
-
-💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
+3. Enter the **subject** that you want the customer to see, for the emails and the SMS.
+4. Optional: To include dynamic information, such as the customer's name or specific appointment details, enter the **dollar symbol** ($). The options that you can use to edit the body of the email are displayed.
 
 ![](../.gitbook/assets/CustomerCommunication-VisitCancellation_timestamp_0_to_34–0_to_41.gif)
 
+{% hint style="info" %}
+The body of the email automatically includes the **reason for cancellation** and the **rescheduling date** information.
+{% endhint %}
 
+## Find the visits to reschedule
 
-#### Managing Rescheduled Appointments&#x20;
+After a visit is cancelled, the deliverer pulls the appointment back into the schedule once a new date is selected.
 
-After a visit is canceled, the deliverer must pull the appointment back into the schedule once a new date is selected.
-
-**Finding the Data**
-
-1. **Access Fulfillment:** Go to the **fulfillment tab**.
-2. **View Canceled List:** Click on **to be rescheduled**.
-3. **Review Data:** You can **see the rescheduled data here**.
+1. Go to the **Fulfillment** tab.
+2. Click **to be rescheduled**.
+3. Review the rescheduled data.
 
 <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Adding the Appointment Back to the Schedule**
+## Add the appointment back to the schedule
 
-1. **Access Deliverer Tools:** The deliverer should click on **my deliveries**.
-2. **Select Appointments:** Click on **add appointments to reschedule**.
-3. **List and Add:** **List the data here** and click **add**.
+1. The deliverer clicks **my deliveries**.
+2. Click **add appointments to reschedule**.
+3. List the data and click **add**.
 
-**Expected Outcome:** The rescheduled visits **will be added successfully to the next simulation/optimization**.
+### Result
+
+The rescheduled visits are added successfully to the next simulation or optimization.
 
 <figure><img src="../.gitbook/assets/Copilot_20251125_135646.png" alt=""><figcaption></figcaption></figure>
 
+## Tips
 
+{% hint style="info" %}
+**Enable both channels**: Enable the outgoing emails and the outgoing SMS when you set up the cancellation. Customers can then access the rescheduling link even if one method is missed.
+{% endhint %}
 
-## 5. Productivity Tips
+{% hint style="info" %}
+**Use personalization tags**: Tags make the message feel more direct and professional.
+{% endhint %}
 
-* **Always Enable Both:** For maximum customer reach, ensure you **enable the outgoing emails and the outgoing SMS** when setting up the cancellation. This feature is available across multiple channels, ensuring customers can access it even if one method is missed.
-* **Use the Preview Feature:** Before clicking **save**, always utilize the feature to **see the preview of the email**. This confirms the cancellation reason and rescheduling link are displayed correctly, preventing communication errors.
-* **Track Rescheduled Items:** Regularly check the **fulfillment tab** under **to be rescheduled**. This ensures no canceled visits are missed and keeps your logistics workflow current.
+{% hint style="info" %}
+**Use the preview**: Before you click **Save**, use the option to **see the preview of the email**. It confirms that the cancellation reason and the rescheduling link are displayed correctly.
+{% endhint %}
+
+{% hint style="info" %}
+**Track the rescheduled items**: Check the **Fulfillment** tab under **to be rescheduled** regularly, so that no cancelled visit is missed.
+{% endhint %}
+
+## Related topics
+
+* [General Configuration](general-configuration.md)
+* [End of Visit](end-of-visit.md)
+* [Add appointments to reschedule](../simulation/simulation-deliveries-add-appointments-to-reschedule.md)

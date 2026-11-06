@@ -1,12 +1,16 @@
-# 1. Where is my data hosted?
+# Where is my data hosted?
 
-Where your data and the infrastructure required to use TourSolver are stored will depend on the scope of your geographic coverage, and so, ultimately, on which country you are operating in when performing route optimizations.&#x20;
+Find out where TourSolver stores your data and the infrastructure that you need to use it.
 
-For [all countries supported](https://www.toursolver.com/fr/faq/couverture-g%C3%A9ographique-de-toursolver) in TourSolver, the hosting of the Cloud infrastructure and your data will be in Europe and Northern Ireland.
+## Feature overview
 
+Where your data and the infrastructure required to use TourSolver are stored depends on the scope of your geographic coverage. Ultimately, it depends on the country that you operate in when you perform route optimizations.
 
+For [all countries supported](https://www.toursolver.com/fr/faq/couverture-g%C3%A9ographique-de-toursolver) in TourSolver, the Cloud infrastructure and your data are hosted in Europe and Northern Ireland.
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Nov 11, 2025, 11_23_27 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Related topics
 
-
+* [How secure and confidential is my data?](how-secure-and-confidential-is-my-data.md)
+* [Which countries are covered by TourSolver?](17.-which-countries-are-covered-by-toursolver.md)

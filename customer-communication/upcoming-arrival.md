@@ -1,70 +1,75 @@
 # Upcoming Arrival
 
-## 1. Introduction
+Send your customer an estimated time of arrival (ETA) link when the delivery process begins, so that they can track the live location of the deliverer.
 
-The **Upcoming Arrival** feature will enhance customer experience by providing real-time delivery status updates. It automatically generates and sends an Estimated Time Arrival (ETA) link to your customer once the delivery process begins.
+## Before you begin
 
-**The core benefit is transparency**: When the customer clicks this link, they can **track the live location of the deliverer**.
-
-## 2. Initial Configuration
-
-To start using this feature, you must first navigate to **Upcoming Arrival**
+* Sign in to **TourSolver**.
+* Set up the outgoing email and SMS services. See [General Configuration](general-configuration.md).
+* Click **Upcoming Arrival** to open its configuration.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_0_to_00–0_to_06.gif)
 
-## 3. Feature Explanations with Benefits
+## Feature overview
 
-The Upcoming Arrival feature enables proactive communication, ensuring customers are ready to receive their items.
+The Upcoming Arrival feature provides real-time delivery status updates and enables proactive communication, so that customers are ready to receive their items. Its core benefit is transparency: the customer clicks the link and tracks the live location of the deliverer.
 
-| Feature                      | Description                                                                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **ETA Link**                 | A link containing the estimated time of arrival (ETA) is automatically created and sent once the delivery completes.                  |
-| **Email Subject Editing**    | You can enter and customize the **email subject** so customers immediately know the purpose of the message.                           |
-| **Message Body Editing**     | You can freely **edit the message** that will be sent to your customers, allowing for personalized language and important details     |
-| **Personalization Tags ($)** | Entering the **dollar symbol** ($) reveals options that you can insert and edit directly into the body of the email, saving you time. |
-| **Preview Window**           | Before saving, you can see the **preview** of the exact message that will be sent, ensuring it looks professional and accurate.       |
-| **Live Location Tracking**   | The link allows the customer to track the live location of the delivery (or deliverer).                                               |
-| **Outgoing Email**           | Option to enable sending the ETA link via email.                                                                                      |
-| **Outgoing SMS**             | Option to enable sending the ETA link via text message.                                                                               |
+| Feature | Description |
+| ------- | ----------- |
+| **ETA Link** | A link with the estimated time of arrival (ETA) is created automatically and sent once the delivery completes. |
+| **Email Subject Editing** | Lets you customize the **email subject**, so customers know the purpose of the message at once. |
+| **Message Body Editing** | Lets you **edit the message** sent to your customers, with personalized language and important details. |
+| **Personalization Tags ($)** | Entering the **dollar symbol** ($) shows options that you can insert and edit in the body of the email. |
+| **Preview Window** | Shows a **preview** of the exact message before you save, so that it looks professional and accurate. |
+| **Live Location Tracking** | The link lets the customer track the live location of the delivery (or the deliverer). |
+| **Outgoing Email** | Option to send the ETA link by email. |
+| **Outgoing SMS** | Option to send the ETA link by text message. |
 
-## 4. Setting Up Customer Notifications
+## Set up the customer notifications
 
-This is the primary action you will perform: choosing the communication channels for the ETA and live location link.
+Choose the communication channels for the ETA and the live location link.
 
-1. **Access the Configuration:** Navigate to and click on **Upcoming Arrival** (see Initial Configuration steps above).
-2. **Enable Email Communication:** Select the option to enable **outgoing emails**.
+1. Click **Upcoming Arrival**.
+2. Enable the **outgoing emails** option.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_0_to_24.png)
 
-3. **Enable SMS Communication (Optional):** Select the option to enable **outgoing SMS**.
-4. **Insert Personalized Information (Optional)** To include dynamic information (like a customer's name or specific appointment details), enter the **dollar symbol** ($). This will show options you can use to edit the body of the email.
-
-&#x20;      💡 **Tip:** Using personalization tags makes the message feel more direct and professional.
+3. Optional: Enable the **outgoing SMS** option.
+4. Optional: To include dynamic information, such as the customer's name or specific appointment details, enter the **dollar symbol** ($). The options that you can use to edit the body of the email are displayed.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_0_to_31.png)
 
-
-
-5. **Review the Message Content (Recommended):** To confirm the customer experience, select the option to **see the preview of the email**.
-6. **Save Your Settings:** Once you are satisfied with the enabled channels and the preview, click on **save**.
+5. Recommended: Select the option to **see the preview of the email**, to confirm the customer experience.
+6. Click **Save**.
 
 ![](../.gitbook/assets/CustomerCommunication-UpcomingArrival_timestamp_1_to_19–1_to_25.gif)
 
-7. The customer will receive the following email.&#x20;
+### Result
+
+The customer receives the following email.
 
 <figure><img src="../.gitbook/assets/msedge_0JrRthQwup.png" alt=""><figcaption></figcaption></figure>
 
+## Tips
 
+{% hint style="info" %}
+**Use both channels**: Enable both the outgoing emails and the outgoing SMS. The customer then receives the ETA information whether they check their inbox or their text messages first.
+{% endhint %}
 
-***
+{% hint style="info" %}
+**Use personalization tags**: Tags make the message feel more direct and professional.
+{% endhint %}
 
-## 5. Productivity Tips
+{% hint style="info" %}
+**Always preview**: Use the option to **see the preview of the email** before you save. It lets you verify that the message contains the live location link.
+{% endhint %}
 
-Here are a few ways to maximize the effectiveness of your upcoming arrival communications:
+{% hint style="warning" %}
+**Trigger point**: The ETA link is sent once the deliverer completes the delivery phase, which means that they are on their way to the customer. Make sure that this matches when you want the customer to start tracking the live location.
+{% endhint %}
 
-* 💡 **Dual Channel Communication:** Consider enabling **both** outgoing emails and outgoing SMS. Using both methods ensures the customer receives the critical ETA information regardless of whether they check their inbox or their text messages first.
-* 💡 **Always Preview:** Use the option to **see the preview of the email** before saving configuration changes. This is your chance to verify the message contains the link of the live location as expected.
-* ⚠️ **Understanding Trigger Points:** Remember that the ETA link is sent _once the deliverer completes the delivery_ phase (meaning, they are on their way to the customer). Ensure your operational definitions of "completes the delivery" align with when you want the customer to start tracking the live location.
+## Related topics
 
-***
-
+* [General Configuration](general-configuration.md)
+* [Time Window to Communicate](time-window-to-communicate.md)
+* [Next Visits](next-visits.md)

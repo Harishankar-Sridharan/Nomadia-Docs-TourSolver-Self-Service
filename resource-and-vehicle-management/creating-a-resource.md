@@ -1,112 +1,125 @@
 # Creating a Resource
 
-## 1. Introduction
+Define a resource, such as a deliverer, with their departure location, vehicle, capacities, work schedule, and days off.
 
-Welcome! This guide will walk you through the simple steps of defining a Resource such as a deliverer within TourSolver. Our goal is to make sure you can set up your team members accurately and confidently, allowing the system to manage vehicle assignments, work schedules, and time off effectively.
+## Before you begin
 
-## 2. Initial Configuration
+* Sign in to **TourSolver**.
+* Open the **Resource** page.
 
-To begin defining a new resource profile:
+## Feature overview
 
-1. Go to the **Resource page.**
-2. Click on **Add** located within the Actions menu.
+Creating a resource involves filling out several tabs that define how the deliverer operates, travels, and when they are available.
+
+* **Resource Details (General Info)**: Identifies the deliverer by name and sets their starting point, known as the departure location.
+* **Vehicles tab**: Defines the primary way the deliverer travels, by selecting the means of transportation.
+* **Vehicles Capacities tab**: Defines what the resource, or their assigned vehicle, can carry. You can add vehicle capacities so that constraints are met during planning.
+* **Working Time and Planning tabs**: Define the availability of the deliverer. You select whether the automatic start time feature is active, define work slots, and schedule lunch breaks.
+* **Days Off tab**: Schedules the dates when the resource is unavailable.
+
+## Start a new resource
+
+1. Go to the **Resource** page.
+2. Click **Add** in the **Actions** menu.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-## 3. Feature Explanations and Benefits
-
-* Creating a resource involves filling out several tabs that define how your deliverer operates, travels, and when they are available.
-* **Resource Details (General Info**): This is where you identify the deliverer by name and specify their starting point, known as the departure location.
-* **Vehicles Tab**: Here you define the primary way the deliverer travels by selecting the means of transportation.
-* **Vehicles Capacities Tab**: This section is crucial for defining what the resource (or their assigned vehicle) can carry. You can add vehicle capacities to ensure constraints are met during planning.
-* **Working Time and Planning Tabs**: These sections define the deliverer's availability, including selecting whether the automatic start time feature is active, defining specific work slots, and scheduling lunch breaks.
-* **Days Off Tab**: This allows you to schedule specific dates when the resource will be unavailable
-
-💡 Tip: If you are ever unsure about a specific field or constraint while entering details, you can hover over the tool tip icons for clarification. Each tool tip provides a short explanation of what that constraint controls.
-
-## 4. Resource Creation
-
-Follow these steps to successfully create and define your new deliverer.
+## Create the resource
 
 1. Enter the **full resource name**.
-2. Enter the **departure location** (where the resource starts their shift).
+2. Enter the **departure location**, where the resource starts their shift.
 
 <figure><img src="../.gitbook/assets/msedge_InqI8ENHTD.png" alt=""><figcaption></figcaption></figure>
 
-3. Go to the **Vehicles tab.**
-4. Select the **means of transportation** (e.g., car, bike, truck).
+3. Go to the **Vehicles** tab.
+4. Select the **means of transportation**, for example car, bike, or truck.
 
 <figure><img src="../.gitbook/assets/msedge_iljaCfTK1s.png" alt=""><figcaption></figcaption></figure>
 
-5. Go to the **Working time tab.**
-6. Select whether you want the automatic start time feature to be active (yes or no).
+5. Go to the **Working time** tab.
+6. Select whether the automatic start time feature is active (yes or no).
 
 <figure><img src="../.gitbook/assets/LQ0RG32TR2.png" alt=""><figcaption></figcaption></figure>
 
-### Setting Vehicle Capacities
+## Set the vehicle capacities
 
-If your resource is transporting goods, you must define its capacity limits:
+If your resource transports goods, define its capacity limits.
 
-1. Go to the **Vehicles Capacities tab**.
-2. Click on the plus symbol **(+)** located at the bottom corner.
+1. Go to the **Vehicles Capacities** tab.
+2. Click the **plus (+)** symbol at the bottom corner.
 3. Add the necessary vehicle capacities in the available fields.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-**To Delete a Capacity Slot:** If you need to remove a capacity entry, click on the delete icon located on the right side.
+To delete a capacity slot, click the **delete** icon on the right side.
 
-### Managing Work Schedules (Planning)
+## Manage the work schedule
 
-The Planning tab lets you define the specific work slots and breaks for the resource.
+The **Planning** tab defines the work slots and the breaks of the resource.
 
-#### To Add/Edit Work Slots:
+### Add or edit work slots
 
-1. Go to the **Planning tab**.
-2. Click on the **work slot**.
+1. Go to the **Planning** tab.
+2. Click the **work slot**.
 3. Click the **edit slot** button.
-4. Add the specific work timings and click **edit**.
+4. Add the work timings, then click **Edit**.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### To Manage Lunch Breaks:
+### Manage lunch breaks
 
-1. To edit the existing lunch break work slot, click edit **lunch break**.
-2. Add the **lunch break timings.**
-3. Click **edit** to save the changes to the lunch break work slot.
+1. To edit the existing lunch break work slot, click **edit lunch break**.
+2. Add the **lunch break timings**.
+3. Click **Edit** to save the changes to the lunch break work slot.
 4. To delete a lunch break slot, click **delete lunch break**.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Adding Days Off
+## Add days off
 
-Use the Days Of tab to schedule planned time off:
+Use the **Days Off** tab to schedule planned time off.
 
 1. Go to the **Days Off** tab.
-2. Click the plus icon **(+)** on the right side to add a new entry.
-3. Add the required timings (from date/to date) that the resource will be on off.
+2. Click the **plus (+)** icon on the right side to add an entry.
+3. Add the **from date** and the **to date** of the time off.
 4. Click the **add** icon to save the entry.
-
-⚠ **Warning**: When setting days off, ensure that the "To date" (the end date) is higher (later) than the "From date" (the start date).
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Finalizing Resource Creation
+{% hint style="warning" %}
+**Dates**: Make sure that the **To date** (the end date) is later than the **From date** (the start date).
+{% endhint %}
 
-1. Once you have filled in all the necessary details across the various tabs. Click on **Add**.
-2. The resource will be created successfully.
+## Finish the resource creation
+
+1. After you fill in the details in all the tabs, click **Add**.
+
+### Result
+
+The resource is created successfully.
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 5. Productivity Tips
+## Tips
 
-These tips will help you manage schedules and constraints quickly and efficiently:
-
-* **Understand Constraints**: If you are uncertain about what a specific setting controls, always utilize the tool tip icons by hovering over them for a quick explanation.
+{% hint style="info" %}
+**Understand constraints**: If you are unsure about a field or a constraint, hover over the tool tip icons for a short explanation of what it controls.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/msedge_R78ilmq1wK.png" alt=""><figcaption></figcaption></figure>
 
-* **Quickly Duplicate Work Slots**: If a resource has multiple identical work slots, you can save time by clicking the duplicate work slot option and then clicking duplicate to quickly add a copy.
+{% hint style="info" %}
+**Duplicate work slots quickly**: If a resource has several identical work slots, click the duplicate work slot option, then click **Duplicate** to add a copy.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Managing capacity**: Remember that you can always delete unwanted vehicle capacities by clicking the delete icon on the right side of the entry.
+{% hint style="info" %}
+**Manage capacity**: You can delete an unwanted vehicle capacity with the delete icon on the right side of the entry.
+{% endhint %}
+
+## Related topics
+
+* [Modifying a Resource and Associated Constraints](modifying-a-resource-and-associated-constraints.md)
+* [Rename a Quantity of a Vehicle](rename-a-quantity-of-a-vehicle.md)
+* [Create and Modify a User](../importanddatasetup/importanddatasetup-createandmodifyauser.md)
