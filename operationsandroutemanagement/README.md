@@ -13,6 +13,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * **Export my Routes**: Select, customize, and export your completed routes.
 * **Optimize your Deliveries**: Set your optimization preferences and start the route planning.
 * **Share a Tour with the Mobile App**: Send a planned route to the mobile app of your field team.
+* **Evaluate your Existing Routes**: Import your current routes and compare them with the optimized routes.
 
 ## Features
 
@@ -20,6 +21,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * [Export my Routes](operationsandroutemanagement-exportmyroutes.md)
 * [Optimize your Deliveries](operationsandroutemanagement-optimizeyourdeliveries.md)
 * [Share a Tour with the Mobile App](operationsandroutemanagement-shareatourwiththemobileapp.md)
+* [Evaluate your Existing Routes](evaluate-your-existing-routes.md)
 
 ## Tips
 
