@@ -17,7 +17,7 @@ Solve the most common sign-in problems yourself, and find out what to send to su
 
 ## Check the sign-in address
 
-1. Open [https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home](https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home).
+1. Open [https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home).
 2. Save this address in your browser favorites.
 3. Do not use old bookmarks or links copied from old emails, because they can point to an outdated page.
 

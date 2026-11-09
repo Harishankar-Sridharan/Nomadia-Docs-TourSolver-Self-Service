@@ -15,7 +15,7 @@ Log in to TourSolver, reset a forgotten password, and log out at the end of your
 
 ## Log in
 
-1. Open [https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home](https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home).
+1. Open [https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home).
 2. On the **Sign in to your account** page, enter your **Username**, which is the email address of your TourSolver account.
 3. Enter your **Password**.
 4. Click **Sign in**.
