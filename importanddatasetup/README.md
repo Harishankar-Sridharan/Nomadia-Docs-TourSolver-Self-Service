@@ -13,6 +13,7 @@ Use the pages in this section to set up your depots and users and to import your
 * **Create and Modify a User**: Create new users and update the details, roles, or schedules of existing users.
 * **Import of Deliveries**: Upload your deliveries, map your spreadsheet columns, and review the geocoding results.
 * **Modify Address of a Delivery**: Update the address of a delivery and recalculate the route.
+* **Manage Agencies**: Share resources between agencies, and move users and deliverers to another agency.
 
 ## Features
 
@@ -20,6 +21,7 @@ Use the pages in this section to set up your depots and users and to import your
 * [Create and Modify a User](importanddatasetup-createandmodifyauser.md)
 * [Import of Deliveries](importanddatasetup-importofdeliveries.md)
 * [Modify Address of a Delivery](modifyaddressofadelivery.md)
+* [Manage Agencies](manage-agencies.md)
 
 ## Tips
 

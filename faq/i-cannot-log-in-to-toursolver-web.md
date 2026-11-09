@@ -17,13 +17,15 @@ Solve the most common sign-in problems yourself, and find out what to send to su
 
 ## Check the sign-in address
 
-1. Open [https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home).
+1. Open [https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home). For the complete sign-in procedure, see [Log in to TourSolver](../getting-started/log-in-to-toursolver.md).
 2. Save this address in your browser favorites.
 3. Do not use old bookmarks or links copied from old emails, because they can point to an outdated page.
 
 <figure><img src="../.gitbook/assets/LogIn_SignInPage_001.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Reset a forgotten password
+
+If you have forgotten your password, follow these steps. For the complete procedure, see [Reset a forgotten password](../getting-started/log-in-to-toursolver.md#reset-a-forgotten-password).
 
 1. On the **Sign in to your account** page, click **Forgot your password?**.
 2. On the **Reset your password** page, enter the **E-mail address** of your TourSolver account, and then click **Send the validation code**.

@@ -8,6 +8,7 @@
   * [Create and Modify a User](importanddatasetup/importanddatasetup-createandmodifyauser.md)
   * [Import of Deliveries](importanddatasetup/importanddatasetup-importofdeliveries.md)
   * [Modify Address of a Delivery](importanddatasetup/modifyaddressofadelivery.md)
+  * [Manage Agencies](importanddatasetup/manage-agencies.md)
 * [Resource and Vehicle Management](resource-and-vehicle-management/README.md)
   * [Creating a Resource](resource-and-vehicle-management/creating-a-resource.md)
   * [Modifying a Resource and Associated Constraints](resource-and-vehicle-management/modifying-a-resource-and-associated-constraints.md)

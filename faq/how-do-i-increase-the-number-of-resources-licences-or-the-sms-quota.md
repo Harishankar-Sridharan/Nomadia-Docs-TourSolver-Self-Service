@@ -34,14 +34,12 @@ If an agency has reached its maximum, you cannot add a resource to it, and the m
 
 ## Share the resources between your agencies
 
-If your subscription still has free resources, or if another agency does not use all its resources, move them to the agency that needs them.
+If your subscription still has free resources, or if another agency does not use all its resources, you do not need to buy more resources:
 
-1. In **Manage agencies**, click the **Edit** icon of the agency that has free resources.
-2. Decrease its **Max number of resources**, and then click **Save**.
-3. Click the **Edit** icon of the agency that needs more resources.
-4. Increase its **Max number of resources**, and then click **Save**.
+* Increase the **Max number of resources** of the agency that needs them, and decrease it for an agency that has free resources.
+* Move a deliverer or a user from one agency to another.
 
-<figure><img src="../.gitbook/assets/Resources_EditAgency_001.jpg" alt=""><figcaption></figcaption></figure>
+For the detailed steps, see [Manage Agencies](../importanddatasetup/manage-agencies.md).
 
 ## Request more resources, licences, or SMS
 
@@ -60,11 +58,12 @@ After your subscription is updated, log out and log in again to see the new quot
 {% endhint %}
 
 {% hint style="info" %}
-**Transfer the rights of a user**: To give the rights and the data of a user to another user, see [Create and Modify a User](../importanddatasetup/importanddatasetup-createandmodifyauser.md).
+**Transfer the rights of a user**: To give the rights and the data of a user to another user, see [Transfer the rights of a user to another user](../importanddatasetup/manage-agencies.md#transfer-the-rights-of-a-user-to-another-user).
 {% endhint %}
 
 ## Related topics
 
+* [Manage Agencies](../importanddatasetup/manage-agencies.md)
 * [How Many Resources Can I Create?](how-many-resources-can-i-create.md)
 * [How to modify my subscription](16.-how-to-modify-my-subscription.md)
 * [Creating a Resource](../resource-and-vehicle-management/creating-a-resource.md)
