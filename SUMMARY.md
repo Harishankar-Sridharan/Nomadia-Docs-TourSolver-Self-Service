@@ -2,6 +2,7 @@
 
 * [Getting-Started](README.md)
   * [Signup Process](getting-started/gettingstarted-signupprocess.md)
+  * [Log in to TourSolver](getting-started/log-in-to-toursolver.md)
 * [Import and Data setup](importanddatasetup/README.md)
   * [Create a Depot](importanddatasetup/importanddatasetup-createadepot.md)
   * [Create and Modify a User](importanddatasetup/importanddatasetup-createandmodifyauser.md)

@@ -31,6 +31,7 @@ The FAQ covers these areas:
 * [How to obtain an invoice?](15.-how-to-obtain-an-invoice.md)
 * [How to modify my subscription](16.-how-to-modify-my-subscription.md)
 * [Which countries are covered by TourSolver?](17.-which-countries-are-covered-by-toursolver.md)
+* [I cannot log in to TourSolver (web)](i-cannot-log-in-to-toursolver-web.md)
 
 ## Related topics
 

@@ -20,6 +20,7 @@ Create your TourSolver account and learn what you can do with the platform.
 ## Features
 
 * [Signup Process](getting-started/gettingstarted-signupprocess.md)
+* [Log in to TourSolver](getting-started/log-in-to-toursolver.md)
 
 ## Tips
 
