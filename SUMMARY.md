@@ -74,3 +74,4 @@
   * [How to obtain an invoice?](faq/15.-how-to-obtain-an-invoice.md)
   * [How to modify my subscription?](faq/16.-how-to-modify-my-subscription.md)
   * [Which countries are covered by TourSolver?](faq/17.-which-countries-are-covered-by-toursolver.md)
+  * [I cannot log in to TourSolver (web)](faq/i-cannot-log-in-to-toursolver-web.md)
