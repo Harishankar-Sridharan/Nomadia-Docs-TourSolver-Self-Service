@@ -10,14 +10,14 @@ Solve the most common sign-in problems yourself, and find out what to send to su
 ## Feature overview
 
 * **Sign-in page**: The only address to use to log in to TourSolver.
-* **Forgot your password?**: Resets your password with a verification code sent by email.
+* **Forgot your password?**: Resets your password with a validation code sent by email.
 * **Browser cache and cookies**: Old browser data can cause a blank page, endless loading, or a sign-in loop.
 * **Platform incident**: A maintenance or incident page that affects every user, not only your account.
 * **Browser console**: Shows the technical errors that support needs to analyze the problem.
 
 ## Check the sign-in address
 
-1. Open [https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home).
+1. Open [https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home](https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home).
 2. Save this address in your browser favorites.
 3. Do not use old bookmarks or links copied from old emails, because they can point to an outdated page.
 
@@ -25,14 +25,16 @@ Solve the most common sign-in problems yourself, and find out what to send to su
 
 ## Reset a forgotten password
 
-1. On the sign-in page, click **Forgot your password?**.
-2. Enter the email address of your TourSolver account, and then click **Send verification code**.
-3. Copy the verification code that you receive by email, paste it in the page, and then click **Verify code**.
-4. Click **Continue**.
-5. Enter your new password twice, and then confirm.
-6. Log in with your new password.
+1. On the **Sign in to your account** page, click **Forgot your password?**.
+2. On the **Reset your password** page, enter the **E-mail address** of your TourSolver account, and then click **Send the validation code**.
 
-If you do not receive the verification code:
+<figure><img src="../.gitbook/assets/LogIn_ForgotPassword_001.jpg" alt=""><figcaption></figcaption></figure>
+
+3. Type the validation code that you receive by email, and then click **Next**.
+4. Enter your new password twice, and then confirm.
+5. Log in with your new password.
+
+If you do not receive the validation code:
 
 * Wait a few minutes, and then check your **Spam** or **Junk** folder.
 * Check that you entered the email address of your TourSolver account.

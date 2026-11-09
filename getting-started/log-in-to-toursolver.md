@@ -9,15 +9,16 @@ Log in to TourSolver, reset a forgotten password, and log out at the end of your
 
 ## Feature overview
 
-* **Sign-in page**: Logs you in to TourSolver with your email address and your password.
-* **Forgot your password?**: Resets your password with a verification code sent by email.
+* **Sign in to your account**: Logs you in to TourSolver with your username, which is your email address, and your password.
+* **Forgot your password?**: Resets your password with a validation code sent by email.
 * **Logout**: Ends your session from the user menu.
 
 ## Log in
 
-1. Open [https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home](https://app.geoconcept.com/ToursolverCloud/ts/trsolver/home).
-2. Enter the **Email Address** and the **Password** of your TourSolver account.
-3. Click **Sign in**.
+1. Open [https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home](https://app-test.geoconcept.com/zToursolverNext/ts/trsolver/home).
+2. On the **Sign in to your account** page, enter your **Username**, which is the email address of your TourSolver account.
+3. Enter your **Password**.
+4. Click **Sign in**.
 
 <figure><img src="../.gitbook/assets/LogIn_SignInPage_001.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,14 +29,15 @@ The TourSolver **Home** page opens.
 ## Reset a forgotten password
 
 1. On the sign-in page, click **Forgot your password?**.
-2. On the **User Details** page, enter the email address of your TourSolver account.
-3. Click **Send verification code**.
+2. On the **Reset your password** page, enter the **E-mail address** of your TourSolver account.
+3. Click **Send the validation code**.
 
 <figure><img src="../.gitbook/assets/LogIn_ForgotPassword_001.jpg" alt=""><figcaption></figcaption></figure>
 
-4. Type the verification code that you received in your email, and then click **Verify code**.
-5. Click **Continue**.
-6. Enter your new password twice, and then confirm.
+4. Type the validation code that you received by email, and then click **Next**.
+5. Enter your new password twice, and then confirm.
+
+Click **Back to sign in** to return to the sign-in page without changing your password.
 
 {% hint style="warning" %}
 **Password requirements**: Your password must contain at least one uppercase letter, one lowercase letter, one number, and one special character.
