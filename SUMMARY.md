@@ -76,3 +76,4 @@
   * [How to modify my subscription?](faq/16.-how-to-modify-my-subscription.md)
   * [Which countries are covered by TourSolver?](faq/17.-which-countries-are-covered-by-toursolver.md)
   * [Why can't I log in to TourSolver?](faq/i-cannot-log-in-to-toursolver-web.md)
+  * [Where can I find my API key and the API documentation?](faq/where-can-i-find-my-api-key-and-the-api-documentation.md)
