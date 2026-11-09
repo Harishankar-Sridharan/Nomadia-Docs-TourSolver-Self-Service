@@ -78,3 +78,6 @@
   * [Which countries are covered by TourSolver?](faq/17.-which-countries-are-covered-by-toursolver.md)
   * [Why can't I log in to TourSolver?](faq/i-cannot-log-in-to-toursolver-web.md)
   * [Where can I find my API key and the API documentation?](faq/where-can-i-find-my-api-key-and-the-api-documentation.md)
+  * [How do I increase the number of resources, licences, or the SMS quota?](faq/how-do-i-increase-the-number-of-resources-licences-or-the-sms-quota.md)
+  * [How do I reactivate a licence of the TourSolver legacy version?](faq/how-do-i-reactivate-a-licence-of-the-toursolver-legacy-version.md)
+  * [Why do I get an error when I import my file?](faq/why-do-i-get-an-error-when-i-import-my-file.md)

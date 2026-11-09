@@ -10,7 +10,8 @@ The FAQ covers these areas:
 * **Compatibility and limits**: Supported browsers and systems, the number of resources, the number of visits, and the countries covered.
 * **Optimization**: Priorities, waiting time, time slots, and geocoding.
 * **Communication**: Sending SMS and emails, and the sent lists.
-* **Account**: Invoices and subscription changes.
+* **Account**: Invoices, subscription changes, resources and licences, and the legacy version.
+* **Import**: Errors and blockages when you import a file.
 
 ## Features
 
@@ -33,6 +34,9 @@ The FAQ covers these areas:
 * [Which countries are covered by TourSolver?](17.-which-countries-are-covered-by-toursolver.md)
 * [Why can't I log in to TourSolver?](i-cannot-log-in-to-toursolver-web.md)
 * [Where can I find my API key and the API documentation?](where-can-i-find-my-api-key-and-the-api-documentation.md)
+* [How do I increase the number of resources, licences, or the SMS quota?](how-do-i-increase-the-number-of-resources-licences-or-the-sms-quota.md)
+* [How do I reactivate a licence of the TourSolver legacy version?](how-do-i-reactivate-a-licence-of-the-toursolver-legacy-version.md)
+* [Why do I get an error when I import my file?](why-do-i-get-an-error-when-i-import-my-file.md)
 
 ## Related topics
 
