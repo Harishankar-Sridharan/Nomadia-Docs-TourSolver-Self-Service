@@ -9,6 +9,7 @@
   * [Import of Deliveries](importanddatasetup/importanddatasetup-importofdeliveries.md)
   * [Modify Address of a Delivery](importanddatasetup/modifyaddressofadelivery.md)
   * [Manage Agencies](importanddatasetup/manage-agencies.md)
+  * [Fix Addresses That Are Not Geocoded](importanddatasetup/fix-addresses-that-are-not-geocoded.md)
 * [Resource and Vehicle Management](resource-and-vehicle-management/README.md)
   * [Creating a Resource](resource-and-vehicle-management/creating-a-resource.md)
   * [Modifying a Resource and Associated Constraints](resource-and-vehicle-management/modifying-a-resource-and-associated-constraints.md)
@@ -82,3 +83,4 @@
   * [How do I increase the number of resources, licences, or the SMS quota?](faq/how-do-i-increase-the-number-of-resources-licences-or-the-sms-quota.md)
   * [How do I reactivate a licence of the TourSolver legacy version?](faq/how-do-i-reactivate-a-licence-of-the-toursolver-legacy-version.md)
   * [Why do I get an error when I import my file?](faq/why-do-i-get-an-error-when-i-import-my-file.md)
+  * [Why are no visits planned after the optimization?](faq/why-are-no-visits-planned-after-the-optimization.md)

@@ -14,6 +14,7 @@ Use the pages in this section to set up your depots and users and to import your
 * **Import of Deliveries**: Upload your deliveries, map your spreadsheet columns, and review the geocoding results.
 * **Modify Address of a Delivery**: Update the address of a delivery and recalculate the route.
 * **Manage Agencies**: Share resources between agencies, and move users and deliverers to another agency.
+* **Fix Addresses That Are Not Geocoded**: Check the geocoding accuracy of your addresses and correct the wrong ones.
 
 ## Features
 
@@ -22,6 +23,7 @@ Use the pages in this section to set up your depots and users and to import your
 * [Import of Deliveries](importanddatasetup-importofdeliveries.md)
 * [Modify Address of a Delivery](modifyaddressofadelivery.md)
 * [Manage Agencies](manage-agencies.md)
+* [Fix Addresses That Are Not Geocoded](fix-addresses-that-are-not-geocoded.md)
 
 ## Tips
 

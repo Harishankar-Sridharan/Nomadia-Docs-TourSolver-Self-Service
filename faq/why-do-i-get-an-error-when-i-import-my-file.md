@@ -31,6 +31,10 @@ Most import errors come from a value that does not match the format of its field
 
 * **Number**: Write a number only, without a unit. For example, write **20** in **Visit duration** for 20 minutes, not **20 min**. For a **Quantity**, write **2.5**, not **2,5 kg**.
 * **Date**: Write the date as **dd/mm/yyyy**, for example **10/11/2026**. For a period, write **14/05/2016 => 18/05/2016**.
+* **Time**: Use the time format of your account. For example, if your account uses AM and PM, write **2:00 PM**, not **14:00**. Otherwise, the import shows "Invalid format" with the expected format, for example **HH:MM AM|PM**.
+
+<figure><img src="../.gitbook/assets/ImportError_TimeFormat_001.jpg" alt=""><figcaption></figcaption></figure>
+
 * **Binary value**: Write **0** or **1**. For example, in **Require all skills to be compatible**, **0** means that one characteristic is enough.
 * **Default value**: If you leave a cell empty, TourSolver uses the default value of the field. For example, **Get notifications** is enabled by default, so the customer receives the notifications unless you disable them.
 
