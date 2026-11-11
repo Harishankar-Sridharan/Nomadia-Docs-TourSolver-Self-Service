@@ -92,3 +92,4 @@
   * [How do I add lunch breaks and legal driving breaks?](faq/how-do-i-add-lunch-breaks-and-legal-driving-breaks.md)
   * [Why are distances and travel times different from Google Maps?](faq/why-are-distances-and-travel-times-different-from-google-maps.md)
   * [How do I use forbidden transit areas?](faq/how-do-i-use-forbidden-transit-areas.md)
+  * [How do I manage colors, filters, and displayed columns?](faq/how-do-i-manage-colors-filters-and-displayed-columns.md)
