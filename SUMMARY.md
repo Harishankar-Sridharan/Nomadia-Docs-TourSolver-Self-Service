@@ -21,6 +21,7 @@
   * [Share a Tour with the Mobile App](operationsandroutemanagement/operationsandroutemanagement-shareatourwiththemobileapp.md)
   * [Evaluate your Existing Routes](operationsandroutemanagement/evaluate-your-existing-routes.md)
   * [Diagnose Unplanned Visits and Inconsistent Routes](operationsandroutemanagement/diagnose-unplanned-visits-and-inconsistent-routes.md)
+  * [Plan Reloads, Multi-Depot and Overnight Routes](operationsandroutemanagement/plan-reloads-multi-depot-and-overnight-routes.md)
 * [Simulation](simulation/simulation.md)
   * [Manage deliveries](simulation/simulation-deliveries.md)
     * [Optimize deliveries](simulation/simulation-deliveries-optimize.md)
