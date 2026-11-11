@@ -87,3 +87,4 @@
   * [Why are no visits planned after the optimization?](faq/why-are-no-visits-planned-after-the-optimization.md)
   * [Why is my optimization slow, stuck, or interrupted?](faq/why-is-my-optimization-slow-stuck-or-interrupted.md)
   * [How do I add lunch breaks and legal driving breaks?](faq/how-do-i-add-lunch-breaks-and-legal-driving-breaks.md)
+  * [Why are distances and travel times different from Google Maps?](faq/why-are-distances-and-travel-times-different-from-google-maps.md)

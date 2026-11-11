@@ -40,6 +40,7 @@ The FAQ covers these areas:
 * [Why are no visits planned after the optimization?](why-are-no-visits-planned-after-the-optimization.md)
 * [Why is my optimization slow, stuck, or interrupted?](why-is-my-optimization-slow-stuck-or-interrupted.md)
 * [How do I add lunch breaks and legal driving breaks?](how-do-i-add-lunch-breaks-and-legal-driving-breaks.md)
+* [Why are distances and travel times different from Google Maps?](why-are-distances-and-travel-times-different-from-google-maps.md)
 
 ## Related topics
 
