@@ -23,6 +23,7 @@
   * [Diagnose Unplanned Visits and Inconsistent Routes](operationsandroutemanagement/diagnose-unplanned-visits-and-inconsistent-routes.md)
   * [Plan Reloads, Multi-Depot and Overnight Routes](operationsandroutemanagement/plan-reloads-multi-depot-and-overnight-routes.md)
   * [Optimize over Several Weeks with Frequencies](operationsandroutemanagement/optimize-over-several-weeks-with-frequencies.md)
+  * [Edit Routes Manually: Reorder, Lock, and Undo](operationsandroutemanagement/edit-routes-manually-reorder-lock-and-undo.md)
 * [Simulation](simulation/simulation.md)
   * [Manage deliveries](simulation/simulation-deliveries.md)
     * [Optimize deliveries](simulation/simulation-deliveries-optimize.md)

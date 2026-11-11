@@ -17,6 +17,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * **Diagnose Unplanned Visits and Inconsistent Routes**: Read the warnings and fix the visit and resource constraints.
 * **Plan Reloads, Multi-Depot and Overnight Routes**: Set reloads and unloads, several depots, and routes with nights out.
 * **Optimize over Several Weeks with Frequencies**: Plan visits that are repeated over several weeks or months.
+* **Edit Routes Manually: Reorder, Lock, and Undo**: Change your routes after the optimization and assign visits by hand.
 
 ## Features
 
@@ -28,6 +29,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * [Diagnose Unplanned Visits and Inconsistent Routes](diagnose-unplanned-visits-and-inconsistent-routes.md)
 * [Plan Reloads, Multi-Depot and Overnight Routes](plan-reloads-multi-depot-and-overnight-routes.md)
 * [Optimize over Several Weeks with Frequencies](optimize-over-several-weeks-with-frequencies.md)
+* [Edit Routes Manually: Reorder, Lock, and Undo](edit-routes-manually-reorder-lock-and-undo.md)
 
 ## Tips
 
