@@ -86,3 +86,4 @@
   * [Why do I get an error when I import my file?](faq/why-do-i-get-an-error-when-i-import-my-file.md)
   * [Why are no visits planned after the optimization?](faq/why-are-no-visits-planned-after-the-optimization.md)
   * [Why is my optimization slow, stuck, or interrupted?](faq/why-is-my-optimization-slow-stuck-or-interrupted.md)
+  * [How do I add lunch breaks and legal driving breaks?](faq/how-do-i-add-lunch-breaks-and-legal-driving-breaks.md)

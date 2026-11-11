@@ -39,6 +39,7 @@ The FAQ covers these areas:
 * [Why do I get an error when I import my file?](why-do-i-get-an-error-when-i-import-my-file.md)
 * [Why are no visits planned after the optimization?](why-are-no-visits-planned-after-the-optimization.md)
 * [Why is my optimization slow, stuck, or interrupted?](why-is-my-optimization-slow-stuck-or-interrupted.md)
+* [How do I add lunch breaks and legal driving breaks?](how-do-i-add-lunch-breaks-and-legal-driving-breaks.md)
 
 ## Related topics
 
