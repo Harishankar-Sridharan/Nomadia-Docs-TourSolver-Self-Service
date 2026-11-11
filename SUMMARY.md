@@ -93,3 +93,4 @@
   * [Why are distances and travel times different from Google Maps?](faq/why-are-distances-and-travel-times-different-from-google-maps.md)
   * [How do I use forbidden transit areas?](faq/how-do-i-use-forbidden-transit-areas.md)
   * [How do I manage colors, filters, and displayed columns?](faq/how-do-i-manage-colors-filters-and-displayed-columns.md)
+  * [Why can't I find a simulation or an old optimization?](faq/why-cant-i-find-a-simulation-or-an-old-optimization.md)

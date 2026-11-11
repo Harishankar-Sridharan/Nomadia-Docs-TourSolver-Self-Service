@@ -43,6 +43,7 @@ The FAQ covers these areas:
 * [Why are distances and travel times different from Google Maps?](why-are-distances-and-travel-times-different-from-google-maps.md)
 * [How do I use forbidden transit areas?](how-do-i-use-forbidden-transit-areas.md)
 * [How do I manage colors, filters, and displayed columns?](how-do-i-manage-colors-filters-and-displayed-columns.md)
+* [Why can't I find a simulation or an old optimization?](why-cant-i-find-a-simulation-or-an-old-optimization.md)
 
 ## Related topics
 

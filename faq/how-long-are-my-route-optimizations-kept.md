@@ -33,3 +33,4 @@ You can validate a simulation in one of two ways:
 
 * [Optimize your Deliveries](../operationsandroutemanagement/operationsandroutemanagement-optimizeyourdeliveries.md)
 * [Simulation](../simulation/simulation.md)
+* [Why can't I find a simulation or an old optimization?](why-cant-i-find-a-simulation-or-an-old-optimization.md)
