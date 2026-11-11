@@ -67,7 +67,7 @@ To change the number of days that the system plans routes for, use **My Delivere
 ## Tips
 
 {% hint style="info" %}
-**Be patient with large jobs**: If many deliveries need optimization, the process can take longer than expected. This is normal because the system performs complex calculations.
+**Be patient with large jobs**: If many deliveries need optimization, the process can take longer than expected. This is normal because the system performs complex calculations. To speed it up, see [Why is my optimization slow, stuck, or interrupted?](../faq/why-is-my-optimization-slow-stuck-or-interrupted.md).
 {% endhint %}
 
 {% hint style="info" %}
@@ -84,3 +84,4 @@ To change the number of days that the system plans routes for, use **My Delivere
 * [Export my Routes](operationsandroutemanagement-exportmyroutes.md)
 * [Share a Tour with the Mobile App](operationsandroutemanagement-shareatourwiththemobileapp.md)
 * [Optimize deliveries](../simulation/simulation-deliveries-optimize.md)
+* [Why is my optimization slow, stuck, or interrupted?](../faq/why-is-my-optimization-slow-stuck-or-interrupted.md)

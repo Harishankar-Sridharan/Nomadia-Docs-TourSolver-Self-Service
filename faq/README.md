@@ -38,6 +38,7 @@ The FAQ covers these areas:
 * [How do I reactivate a licence of the TourSolver legacy version?](how-do-i-reactivate-a-licence-of-the-toursolver-legacy-version.md)
 * [Why do I get an error when I import my file?](why-do-i-get-an-error-when-i-import-my-file.md)
 * [Why are no visits planned after the optimization?](why-are-no-visits-planned-after-the-optimization.md)
+* [Why is my optimization slow, stuck, or interrupted?](why-is-my-optimization-slow-stuck-or-interrupted.md)
 
 ## Related topics
 
