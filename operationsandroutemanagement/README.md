@@ -16,6 +16,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * **Evaluate your Existing Routes**: Import your current routes and compare them with the optimized routes.
 * **Diagnose Unplanned Visits and Inconsistent Routes**: Read the warnings and fix the visit and resource constraints.
 * **Plan Reloads, Multi-Depot and Overnight Routes**: Set reloads and unloads, several depots, and routes with nights out.
+* **Optimize over Several Weeks with Frequencies**: Plan visits that are repeated over several weeks or months.
 
 ## Features
 
@@ -26,6 +27,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * [Evaluate your Existing Routes](evaluate-your-existing-routes.md)
 * [Diagnose Unplanned Visits and Inconsistent Routes](diagnose-unplanned-visits-and-inconsistent-routes.md)
 * [Plan Reloads, Multi-Depot and Overnight Routes](plan-reloads-multi-depot-and-overnight-routes.md)
+* [Optimize over Several Weeks with Frequencies](optimize-over-several-weeks-with-frequencies.md)
 
 ## Tips
 
