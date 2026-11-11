@@ -14,6 +14,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * **Optimize your Deliveries**: Set your optimization preferences and start the route planning.
 * **Share a Tour with the Mobile App**: Send a planned route to the mobile app of your field team.
 * **Evaluate your Existing Routes**: Import your current routes and compare them with the optimized routes.
+* **Diagnose Unplanned Visits and Inconsistent Routes**: Read the warnings and fix the visit and resource constraints.
 
 ## Features
 
@@ -22,6 +23,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * [Optimize your Deliveries](operationsandroutemanagement-optimizeyourdeliveries.md)
 * [Share a Tour with the Mobile App](operationsandroutemanagement-shareatourwiththemobileapp.md)
 * [Evaluate your Existing Routes](evaluate-your-existing-routes.md)
+* [Diagnose Unplanned Visits and Inconsistent Routes](diagnose-unplanned-visits-and-inconsistent-routes.md)
 
 ## Tips
 
