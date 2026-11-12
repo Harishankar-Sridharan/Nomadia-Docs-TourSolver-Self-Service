@@ -18,6 +18,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * **Plan Reloads, Multi-Depot and Overnight Routes**: Set reloads and unloads, several depots, and routes with nights out.
 * **Optimize over Several Weeks with Frequencies**: Plan visits that are repeated over several weeks or months.
 * **Edit Routes Manually: Reorder, Lock, and Undo**: Change your routes after the optimization and assign visits by hand.
+* **Assign Territories (Sectorization)**: Create balanced territories and assign a resource to each territory.
 
 ## Features
 
@@ -30,6 +31,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * [Plan Reloads, Multi-Depot and Overnight Routes](plan-reloads-multi-depot-and-overnight-routes.md)
 * [Optimize over Several Weeks with Frequencies](optimize-over-several-weeks-with-frequencies.md)
 * [Edit Routes Manually: Reorder, Lock, and Undo](edit-routes-manually-reorder-lock-and-undo.md)
+* [Assign Territories (Sectorization)](assign-territories-sectorization.md)
 
 ## Tips
 
