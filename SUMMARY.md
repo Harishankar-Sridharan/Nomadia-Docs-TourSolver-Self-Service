@@ -96,3 +96,4 @@
   * [How do I manage colors, filters, and displayed columns?](faq/how-do-i-manage-colors-filters-and-displayed-columns.md)
   * [Why can't I find a simulation or an old optimization?](faq/why-cant-i-find-a-simulation-or-an-old-optimization.md)
   * [Why is my Excel export empty, incomplete, or failed?](faq/why-is-my-excel-export-empty-incomplete-or-failed.md)
+  * [Why does my export to WEBFLEET, Google Calendar, or Google Sheets fail?](faq/why-does-my-export-to-webfleet-google-calendar-or-google-sheets-fail.md)

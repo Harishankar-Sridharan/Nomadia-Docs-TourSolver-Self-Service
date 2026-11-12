@@ -45,6 +45,7 @@ The FAQ covers these areas:
 * [How do I manage colors, filters, and displayed columns?](how-do-i-manage-colors-filters-and-displayed-columns.md)
 * [Why can't I find a simulation or an old optimization?](why-cant-i-find-a-simulation-or-an-old-optimization.md)
 * [Why is my Excel export empty, incomplete, or failed?](why-is-my-excel-export-empty-incomplete-or-failed.md)
+* [Why does my export to WEBFLEET, Google Calendar, or Google Sheets fail?](why-does-my-export-to-webfleet-google-calendar-or-google-sheets-fail.md)
 
 ## Related topics
 
