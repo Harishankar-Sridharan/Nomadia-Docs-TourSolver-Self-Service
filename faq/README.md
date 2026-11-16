@@ -47,6 +47,7 @@ The FAQ covers these areas:
 * [Why is my Excel export empty, incomplete, or failed?](why-is-my-excel-export-empty-incomplete-or-failed.md)
 * [Why does my export to WEBFLEET, Google Calendar, or Google Sheets fail?](why-does-my-export-to-webfleet-google-calendar-or-google-sheets-fail.md)
 * [Why is my PDF document missing its logo or empty?](why-is-my-pdf-document-missing-its-logo-or-empty.md)
+* [Why are my customer SMS or emails not sent?](why-are-my-customer-sms-or-emails-not-sent.md)
 
 ## Related topics
 

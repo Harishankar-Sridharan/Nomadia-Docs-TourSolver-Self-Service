@@ -28,3 +28,4 @@ The **Sent SMS List** shows all the SMS messages sent to customers. It includes 
 * [What is the Sent Email List?](what-is-the-sent-email-list.md)
 * [How to send an SMS and an Email?](11.-how-to-send-an-sms-and-an-email.md)
 * [General Configuration](../customer-communication/general-configuration.md)
+* [Why are my customer SMS or emails not sent?](why-are-my-customer-sms-or-emails-not-sent.md)
