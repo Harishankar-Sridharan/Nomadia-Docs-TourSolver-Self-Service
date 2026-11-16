@@ -76,7 +76,11 @@ If the visits are compatible but some are still unplanned:
 
 ## Use case: visits that cannot be planned
 
-Download the sample file [UseCase\_UnplannedVisits.xlsx](../.gitbook/assets/UseCase_UnplannedVisits.xlsx). It contains 16 deliveries around Washington, DC, for resources with a capacity of 50 that work days 1 to 5. The **Use cases** sheet describes each row.
+Download the sample file below. It contains 16 deliveries around Washington, DC, for resources with a capacity of 50 that work days 1 to 5. The **Use cases** sheet describes each row.
+
+{% file src="../.gitbook/assets/UseCase_UnplannedVisits.xlsx" %}
+UseCase_UnplannedVisits.xlsx
+{% endfile %}
 
 * **D01 to D12**: Valid deliveries, which can be planned.
 * **E01**: Quantity **80**, larger than the vehicle capacity of **50**. Reason: "The vehicle's capacity is lower than the minimum quantity to deliver."

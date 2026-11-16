@@ -57,10 +57,6 @@ After your subscription is updated, log out and log in again to see the new quot
 **Invalid code message**: The **Identifier** of an existing agency cannot be changed. If the message "Invalid code" appears when you save an agency, check the **Identifier** field. If the message persists, contact support.
 {% endhint %}
 
-{% hint style="info" %}
-**Transfer the rights of a user**: To give the rights and the data of a user to another user, see [Transfer the rights of a user to another user](../importanddatasetup/manage-agencies.md#transfer-the-rights-of-a-user-to-another-user).
-{% endhint %}
-
 ## Related topics
 
 * [Manage Agencies](../importanddatasetup/manage-agencies.md)

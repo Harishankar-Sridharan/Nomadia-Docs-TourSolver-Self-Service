@@ -52,7 +52,11 @@ Plan visits that must be performed several times over a period, for example twic
 
 ## Use case: plan two visits per customer
 
-Download the sample file [UseCase\_Frequencies.xlsx](../.gitbook/assets/UseCase_Frequencies.xlsx). It contains 10 customers around Washington, DC, with an **Opening day** of **1-10** and a **Visit frequency** of **2/10**. The resources of the team work days 1 to 5.
+Download the sample file below. It contains 10 customers around Washington, DC, with an **Opening day** of **1-10** and a **Visit frequency** of **2/10**. The resources of the team work days 1 to 5.
+
+{% file src="../.gitbook/assets/UseCase_Frequencies.xlsx" %}
+UseCase_Frequencies.xlsx
+{% endfile %}
 
 1. Import the file and optimize it. No visit is planned: each customer shows "The frequency denominator is bigger than the number of days", because the resources work only 5 of the 10 days.
 2. In the file, change the **Visit frequency** to **2/5** and the **Opening day** to **1-5**, and then import and optimize it again.

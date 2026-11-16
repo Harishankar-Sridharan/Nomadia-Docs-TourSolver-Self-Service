@@ -1,6 +1,6 @@
 # Manage Agencies
 
-Share your resources between your agencies, move users and deliverers from one agency to another, and transfer the rights of a user to another user.
+Share your resources between your agencies, and move users and deliverers from one agency to another.
 
 ## Before you begin
 
@@ -59,11 +59,6 @@ The deliverer belongs to the new agency and counts in its **Used resources**.
 ### Result
 
 The user sees the data of the new agency. A user can also keep several assigned agencies to see the data of each of them.
-
-## Transfer the rights of a user to another user
-
-1. Create the new user from the existing user, so that the new user gets the same **Roles & rights** and **Agencies**. See [Modify an existing user](importanddatasetup-createandmodifyauser.md#modify-an-existing-user).
-2. To also transfer the data of the user, such as the optimizations, contact support. See [Replace a user and keep their data](importanddatasetup-createandmodifyauser.md#replace-a-user-and-keep-their-data).
 
 ## Tips
 

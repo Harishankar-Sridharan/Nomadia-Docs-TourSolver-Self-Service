@@ -20,7 +20,6 @@ Find the TourSolver API documentation and the API key that you need to connect y
 
 1. Go to **Configuration**.
 2. Under **Roles & Profiles**, click **API keys**.
-3. Find the key in the list, and then click the **Copy** icon.
 
 For more information, see [Where is the API key?](https://toursolver.readme.io/reference/authentication-2) in the API documentation.
 

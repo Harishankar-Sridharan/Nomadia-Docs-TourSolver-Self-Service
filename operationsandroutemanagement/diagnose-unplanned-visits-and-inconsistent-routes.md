@@ -39,7 +39,6 @@ For the messages about capacities, skills, and working days, see [Why are no vis
 <figure><img src="../.gitbook/assets/RouteDiagnosis_InaccessiblePoint_001.jpg" alt=""><figcaption></figcaption></figure>
 
 2. Correct the address or the coordinates of the visit. See [Fix Addresses That Are Not Geocoded](../importanddatasetup/fix-addresses-that-are-not-geocoded.md).
-3. If the address is correct, check that the means of transportation of the resources can reach it, and that the country of the visit is covered by your configuration.
 
 ## Fix the time windows
 
@@ -100,7 +99,11 @@ Two users get different routes when they do not optimize the same data with the 
 
 ## Use case: diagnose unplanned visits
 
-Download the sample file [UseCase\_RouteDiagnosis.xlsx](../.gitbook/assets/UseCase_RouteDiagnosis.xlsx). It contains 14 deliveries around Washington, DC, for resources that leave from Maryland. The **Use cases** sheet describes each row.
+Download the sample file below. It contains 14 deliveries around Washington, DC, for resources that leave from Maryland. The **Use cases** sheet describes each row.
+
+{% file src="../.gitbook/assets/UseCase_RouteDiagnosis.xlsx" %}
+UseCase_RouteDiagnosis.xlsx
+{% endfile %}
 
 | Row | Use case | Result in the Warnings window |
 | --- | -------- | ----------------------------- |

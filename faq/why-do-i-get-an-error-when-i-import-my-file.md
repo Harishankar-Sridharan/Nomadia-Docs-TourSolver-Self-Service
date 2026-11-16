@@ -42,7 +42,6 @@ Most import errors come from a value that does not match the format of its field
 
 ## Prepare the file
 
-* **Use the .xlsx format**: Prefer Excel (.xlsx) files. The .ods format has a known import problem.
 * **Keep one sheet per file**: Put all your deliveries in one sheet, and remove the other sheets.
 * **Remove the unused columns**: Delete the empty or unused columns that are mapped to a constraint, for example the evaluation fields when you do not use the evaluation mode.
 * **Use a dot for decimals**: Write **2.5**, not **2,5**.

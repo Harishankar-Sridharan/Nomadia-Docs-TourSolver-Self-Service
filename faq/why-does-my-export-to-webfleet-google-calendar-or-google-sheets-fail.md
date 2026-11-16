@@ -35,7 +35,7 @@ Also check that each resource is linked to its WEBFLEET vehicle:
 ## Solve "Google Calendar export error"
 
 1. If TourSolver shows "Failed to login to Google, check that popups are not blocked", allow the pop-ups for TourSolver in your browser.
-2. Authorize Geoconcept again to access your Google account, and then export again.
+2. Authorize Nomadia again to access your Google account, and then export again.
 
 ## Solve "Google Sheets" error 403
 

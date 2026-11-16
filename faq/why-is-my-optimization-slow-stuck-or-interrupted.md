@@ -45,7 +45,7 @@ Find out why an optimization takes a long time, seems stuck, or shows the messag
 
 ## Avoid simultaneous optimizations
 
-Several optimizations that run at the same time, in several browser tabs or by several users of your account, share the same resources and are slower.
+Several optimizations that run at the same time by several users of your account share the same resources and are slower.
 
 * Wait for an optimization to finish before you start another one.
 * Close the browser tabs that you do not use.
@@ -59,7 +59,11 @@ Several optimizations that run at the same time, in several browser tabs or by s
 
 ## Use case: optimize a large volume
 
-Download the sample file [UseCase\_LargeVolume.xlsx](../.gitbook/assets/UseCase_LargeVolume.xlsx). It contains 300 deliveries positioned with GPS coordinates around Washington, DC.
+Download the sample file below. It contains 300 deliveries positioned with GPS coordinates around Washington, DC.
+
+{% file src="../.gitbook/assets/UseCase_LargeVolume.xlsx" %}
+UseCase_LargeVolume.xlsx
+{% endfile %}
 
 1. Import the file in **My deliveries**, and then start the optimization with 15 resources over 5 days.
 2. Click **Detailed information**. After about 20 seconds, the first result already plans the 300 deliveries, with a **Time left** of 29 minutes.

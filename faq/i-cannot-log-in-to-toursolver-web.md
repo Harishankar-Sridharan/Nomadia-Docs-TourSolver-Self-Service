@@ -25,16 +25,7 @@ Solve the most common sign-in problems yourself, and find out what to send to su
 
 ## Reset a forgotten password
 
-If you have forgotten your password, follow these steps. For the complete procedure, see [Reset a forgotten password](../getting-started/log-in-to-toursolver.md#reset-a-forgotten-password).
-
-1. On the **Sign in to your account** page, click **Forgot your password?**.
-2. On the **Reset your password** page, enter the **E-mail address** of your TourSolver account, and then click **Send the validation code**.
-
-<figure><img src="../.gitbook/assets/LogIn_ForgotPassword_001.jpg" alt=""><figcaption></figcaption></figure>
-
-3. Type the validation code that you receive by email, and then click **Next**.
-4. Enter your new password twice, and then confirm.
-5. Log in with your new password.
+If you have forgotten your password, click **Forgot your password?** on the sign-in page. For the complete procedure, see [Reset a forgotten password](../getting-started/log-in-to-toursolver.md#reset-a-forgotten-password).
 
 If you do not receive the validation code:
 

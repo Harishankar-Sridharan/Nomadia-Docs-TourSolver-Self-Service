@@ -76,7 +76,11 @@ If **Load evaluation routes** is greyed out or gives wrong results:
 
 ## Use case: compare last week's routes with the optimized routes
 
-Download the sample file [UseCase\_EvaluationMode.xlsx](../.gitbook/assets/UseCase_EvaluationMode.xlsx). It contains 20 deliveries around Washington, DC, delivered by **Truck1** and **Truck2** on day **1**, in a random order.
+Download the sample file below. It contains 20 deliveries around Washington, DC, delivered by **Truck1** and **Truck2** on day **1**, in a random order.
+
+{% file src="../.gitbook/assets/UseCase_EvaluationMode.xlsx" %}
+UseCase_EvaluationMode.xlsx
+{% endfile %}
 
 1. Import the file in **My deliveries**. The evaluation fields are mapped automatically.
 2. Optimize the deliveries with the team of **Truck1** and **Truck2**.

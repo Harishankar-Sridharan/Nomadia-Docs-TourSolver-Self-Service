@@ -56,7 +56,11 @@ Your deliveries are positioned correctly, and the optimization uses the right tr
 
 ## Use case: good and bad addresses
 
-Download the sample file [UseCase\_AddressQuality.xlsx](../.gitbook/assets/UseCase_AddressQuality.xlsx), and then import it in **My deliveries**. It contains ten addresses near Arlington, Virginia. The **Use case** column describes each row, and TourSolver ignores it at the import.
+Download the sample file below. Then import it in **My deliveries**. It contains ten addresses near Arlington, Virginia. The **Use case** column describes each row, and TourSolver ignores it at the import.
+
+{% file src="../.gitbook/assets/UseCase_AddressQuality.xlsx" %}
+UseCase_AddressQuality.xlsx
+{% endfile %}
 
 | Row | Address in the file | Result |
 | --- | ------------------- | ------ |

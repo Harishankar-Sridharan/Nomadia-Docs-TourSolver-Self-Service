@@ -59,7 +59,6 @@ An error 500 usually means that one of the displayed fields breaks the export.
 * **Route date**: The route date is available only in an export from the **Optimization** page.
 * **One sheet per resource**: When you generate one sheet per deliverer, an apostrophe or a special character in a resource name can block the export. Rename the resource without the apostrophe.
 * **Missing planned days**: Visits without a planned day can block the export. Check that all the exported visits are planned, or select only the planned routes.
-* **Dates shifted by four years**: If all the dates are shifted by about four years (1,462 days) when you open the file, your Excel uses the 1904 date system. In Excel, clear the **Use 1904 date system** option.
 
 ## Related topics
 
