@@ -25,6 +25,7 @@
   * [Optimize over Several Weeks with Frequencies](operationsandroutemanagement/optimize-over-several-weeks-with-frequencies.md)
   * [Edit Routes Manually: Reorder, Lock, and Undo](operationsandroutemanagement/edit-routes-manually-reorder-lock-and-undo.md)
   * [Assign Territories (Sectorization)](operationsandroutemanagement/assign-territories-sectorization.md)
+  * [Create a Monitoring Dashboard](operationsandroutemanagement/create-a-monitoring-dashboard.md)
 * [Simulation](simulation/simulation.md)
   * [Manage deliveries](simulation/simulation-deliveries.md)
     * [Optimize deliveries](simulation/simulation-deliveries-optimize.md)

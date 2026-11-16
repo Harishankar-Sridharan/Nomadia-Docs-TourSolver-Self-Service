@@ -19,6 +19,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * **Optimize over Several Weeks with Frequencies**: Plan visits that are repeated over several weeks or months.
 * **Edit Routes Manually: Reorder, Lock, and Undo**: Change your routes after the optimization and assign visits by hand.
 * **Assign Territories (Sectorization)**: Create balanced territories and assign a resource to each territory.
+* **Create a Monitoring Dashboard**: Create a dashboard with the indicators that you want to follow.
 
 ## Features
 
@@ -32,6 +33,7 @@ Use the pages in this section to optimize your deliveries, share your routes, an
 * [Optimize over Several Weeks with Frequencies](optimize-over-several-weeks-with-frequencies.md)
 * [Edit Routes Manually: Reorder, Lock, and Undo](edit-routes-manually-reorder-lock-and-undo.md)
 * [Assign Territories (Sectorization)](assign-territories-sectorization.md)
+* [Create a Monitoring Dashboard](create-a-monitoring-dashboard.md)
 
 ## Tips
 
