@@ -12,12 +12,14 @@ Use the pages in this section to create and manage the resources and the vehicle
 * **Creating a Resource**: Define a resource, such as a deliverer, with their departure location, vehicle, capacities, work schedule, and days off.
 * **Modifying a Resource and Associated Constraints**: Change the locations, the capacities, and the work times of a resource.
 * **Rename a Quantity of a Vehicle**: Personalize the names of the vehicle quantities.
+* **Configure Variable Speeds**: Apply different speeds according to the time of day, for example during rush hours.
 
 ## Features
 
 * [Creating a Resource](creating-a-resource.md)
 * [Modifying a Resource and Associated Constraints](modifying-a-resource-and-associated-constraints.md)
 * [Rename a Quantity of a Vehicle](rename-a-quantity-of-a-vehicle.md)
+* [Configure Variable Speeds](configure-variable-speeds.md)
 
 ## Tips
 

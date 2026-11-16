@@ -15,6 +15,7 @@ Use the pages in this section to set up your depots and users and to import your
 * **Modify Address of a Delivery**: Update the address of a delivery and recalculate the route.
 * **Manage Agencies**: Share resources between agencies, and move users and deliverers to another agency.
 * **Fix Addresses That Are Not Geocoded**: Check the geocoding accuracy of your addresses and correct the wrong ones.
+* **Create and Use Forbidden Transit Areas**: Draw the areas that your vehicles must not drive through, and use them in the optimization.
 
 ## Features
 
@@ -24,6 +25,7 @@ Use the pages in this section to set up your depots and users and to import your
 * [Modify Address of a Delivery](modifyaddressofadelivery.md)
 * [Manage Agencies](manage-agencies.md)
 * [Fix Addresses That Are Not Geocoded](fix-addresses-that-are-not-geocoded.md)
+* [Create and Use Forbidden Transit Areas](create-and-use-forbidden-transit-areas.md)
 
 ## Tips
 

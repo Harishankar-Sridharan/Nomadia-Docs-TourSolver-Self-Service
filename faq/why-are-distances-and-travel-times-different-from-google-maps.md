@@ -36,14 +36,16 @@ Google Maps calculates a route for a car. If your vehicles are trucks, TourSolve
 
 ## Take traffic into account
 
-By default, TourSolver uses the same speeds all day. Google Maps uses the traffic at the time of your search.
+By default, TourSolver uses the same speeds all day. Google Maps uses the real-time traffic at the time of your search.
+
+TourSolver is a planning tool: it applies the usual traffic of each time of day (historical patterns), for example slower speeds during rush hours or in city traffic jams. To use these patterns:
 
 1. Go to **Configuration** > **Vehicles & optimization** > **Means of transportation**.
-2. Turn on **Variable speeds according to the time**. TourSolver then applies four speed profiles, based on the start time of each route.
+2. Turn on **Variable speeds according to the time**. TourSolver then applies the speed profiles of the active pattern, based on the start time of each route.
 
-{% hint style="warning" %}
-**Evaluation mode**: Variable speeds can prevent the evaluation routes from loading. See [Evaluate your Existing Routes](../operationsandroutemanagement/evaluate-your-existing-routes.md).
-{% endhint %}
+<figure><img src="../.gitbook/assets/VariableSpeeds_Enable_001.jpg" alt=""><figcaption></figcaption></figure>
+
+For the time frames, the speed profiles, and how to create your own pattern, see [Configure Variable Speeds](../resource-and-vehicle-management/configure-variable-speeds.md).
 
 ## Adjust the speed of a resource
 
@@ -74,6 +76,7 @@ To measure the real gap, compare the planned routes with the routes that your dr
 
 ## Related topics
 
+* [Configure Variable Speeds](../resource-and-vehicle-management/configure-variable-speeds.md)
 * [Optimize your Deliveries](../operationsandroutemanagement/operationsandroutemanagement-optimizeyourdeliveries.md)
 * [Why is my optimization slow, stuck, or interrupted?](why-is-my-optimization-slow-stuck-or-interrupted.md)
 * [How to Prioritize the Fewest Possible km / the Most Planned Customers?](how-to-prioritize-the-fewest-possible-km-the-most-planned-customers.md)

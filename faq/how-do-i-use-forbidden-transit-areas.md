@@ -15,22 +15,9 @@ Draw the areas that your vehicles must not drive through, for example roadworks 
 
 ## Create a forbidden transit area
 
-1. Go to **Configuration**.
-2. Under **Vehicles & optimization**, click **Manage forbidden transit areas**.
-3. On the **Creation and test** tab, under **Create an area**, click the first icon, and then click on the map to draw the area.
-4. To change an area, click the second icon, and then click the area. To delete an area, click the third icon, and then click the area.
+To create an area, go to **Configuration** > **Vehicles & optimization** > **Manage forbidden transit areas**, and then draw the area on the map. For the complete procedure, with an example of a road closure, see [Create and Use Forbidden Transit Areas](../importanddatasetup/create-and-use-forbidden-transit-areas.md).
 
-<figure><img src="../.gitbook/assets/ForbiddenAreas_Manage_001.jpg" alt=""><figcaption></figcaption></figure>
-
-5. Click the **List of areas** tab to see the **Name** and the **Usage** of each area, for example **Enabled**.
-
-## Test a route on the areas
-
-1. On the **Creation and test** tab, under **Test a route on the areas**, select the **Profile**, for example **Car**, and choose **The fastest** or **The shortest** route.
-2. Click the green icon, and then click on the map to place the **Departure**.
-3. Click the red icon, and then click on the map to place the **Arrival**. To add a stop, click the blue icon, and then click on the map.
-4. Compare the **Normal route** with the **Route with forbidden transit area**: their **Distance**, **Duration**, and **CO₂ emissions**.
-5. Click **Reset** to start a new test.
+<figure><img src="../.gitbook/assets/ForbiddenAreas_TestRoute_001.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Use the areas in the optimization
 
@@ -39,9 +26,11 @@ Draw the areas that your vehicles must not drive through, for example roadworks 
 
 <figure><img src="../.gitbook/assets/SlowOptimization_CalculationOptions_001.jpg" alt=""><figcaption></figcaption></figure>
 
+3. To turn the areas on or off for one optimization only, open the **Optimization settings** of your simulation, click the **Vehicle** tab, and then set **Use forbidden transit areas** to **Yes** or **No**.
+
 ### Result
 
-The next optimizations go around the enabled areas.
+The optimized routes go around the enabled areas. Only the areas whose **Usage** is **Enabled** in the **List of areas** are taken into account.
 
 ## Use the areas with the API
 
@@ -59,6 +48,7 @@ When you start an optimization with the TourSolver API, set the **useForbiddenTr
 
 ## Related topics
 
+* [Create and Use Forbidden Transit Areas](../importanddatasetup/create-and-use-forbidden-transit-areas.md)
 * [Why are distances and travel times different from Google Maps?](why-are-distances-and-travel-times-different-from-google-maps.md)
 * [Where can I find my API key and the API documentation?](where-can-i-find-my-api-key-and-the-api-documentation.md)
 * [Optimize your Deliveries](../operationsandroutemanagement/operationsandroutemanagement-optimizeyourdeliveries.md)
